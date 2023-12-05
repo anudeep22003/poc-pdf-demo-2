@@ -7,13 +7,13 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
 import json
 
-import logging
+# import logging
 
-logger = logging.getLogger(__name__)
-logger.setLevel(logging.INFO)
-fh = logging.FileHandler("query.log", mode="a")
-fh.setLevel(logging.INFO)
-logger.addHandler(fh)
+# logger = logging.getLogger(__name__)
+# logger.setLevel(logging.INFO)
+# fh = logging.FileHandler("query.log", mode="a")
+# fh.setLevel(logging.INFO)
+# logger.addHandler(fh)
 
 ###### Pydantic base classes for FastAPI ######
 
@@ -57,8 +57,8 @@ def perform_rag_call(
         "content": "\n\n".join(response_query),
         "sources": ", ".join([str(page_num) for page_num in page_numbers]),
     }
-    logger.info(response_obj)
-    logger.info(f"\n {'-'*30}\n")
+    # logger.info(response_obj)
+    # logger.info(f"\n {'-'*30}\n")
     return Response(**response_obj)
 
 
@@ -66,7 +66,7 @@ def perform_rag_call(
 def get_response(
     message: Message,
 ) -> Response | dict:
-    logger.info(message.content)
+    # logger.info(message.content)
     return perform_rag_call(message)
 
 

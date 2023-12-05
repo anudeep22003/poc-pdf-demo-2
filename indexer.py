@@ -22,7 +22,7 @@ from collections import defaultdict
 from itertools import chain
 from collections import Counter
 import json
-import logging
+# import logging
 
 
 SIMILARITY_TOP_K = 5
@@ -34,11 +34,11 @@ THRESHOLD_INFORMATION_VALUE: int = 20
 TEXT_IN_DOCUMENT_LOWER_BOUND: int = 2
 
 
-logger = logging.getLogger(__name__)
-logger.setLevel(logging.DEBUG)
-fh = logging.FileHandler("indexer.log", mode="a")
-fh.setLevel(logging.DEBUG)
-logger.addHandler(fh)
+# logger = logging.getLogger(__name__)
+# logger.setLevel(logging.DEBUG)
+# fh = logging.FileHandler("indexer.log", mode="a")
+# fh.setLevel(logging.DEBUG)
+# logger.addHandler(fh)
 
 product_descriptions = {
     "eXP GLassMat Products": "Description of eXP Family of Glass Mat Products",
@@ -71,7 +71,7 @@ class BuildRagIndex:
             # retrieve index
             return self.retrieve_index()
         else:
-            logger.debug(
+            # logger.debug(
                 f"index does not exist for {self.doc_filename}, hence building it."
             )
             # build and retrieve index
@@ -85,10 +85,10 @@ class BuildRagIndex:
         "use filename to check if index exists"
         index_dir = os.path.join(os.getcwd(), PATH_RAG_INDEX, self.doc_filename)
 
-        logger.debug(f"checking if index exists at {index_dir}")
+        # logger.debug(f"checking if index exists at {index_dir}")
 
         dir_exists_on_filesystem = os.path.exists(index_dir)
-        logger.debug(f"index exists on filesystem: {dir_exists_on_filesystem}")
+        # logger.debug(f"index exists on filesystem: {dir_exists_on_filesystem}")
         return dir_exists_on_filesystem
 
     def retrieve_index(self) -> VectorStoreIndex:
@@ -113,13 +113,13 @@ class BuildRagIndex:
         textrank = Counter()
 
         document_location = os.path.join(os.getcwd(), PATH_TO_DATA, self.doc_filename)
-        logger.debug(
+        # logger.debug(
             f"document to be indexed checked for at location: {document_location}"
         )
 
         elements = partition(filename=document_location)
         paged_text_list = defaultdict(list)
-        logger.debug(f"paged_text_list {list(paged_text_list.items())[25:35]}")
+        # logger.debug(f"paged_text_list {list(paged_text_list.items())[25:35]}")
 
         # first build textrank
         for el in elements:
@@ -131,13 +131,13 @@ class BuildRagIndex:
             if frequency_of_text < self.threshold_information_value:
                 paged_text_list[el.metadata.page_number].append(el.text)
             else:
-                logger.debug(f"frequency: {frequency_of_text} skipped text: {el.text}")
+                # logger.debug(f"frequency: {frequency_of_text} skipped text: {el.text}")
 
-        ########### Text analytics for logging
+        # ########### Text analytics for logging
         old_size = len(elements)
         new_size = sum([len(textlist) for textlist in paged_text_list.values()])
 
-        logger.debug(
+        # logger.debug(
             f"""prev element list size: {old_size}\n
             new size after entropy maximizing: {new_size}
             reduction: {((old_size - new_size)/old_size):2%}"""
@@ -150,12 +150,12 @@ class BuildRagIndex:
             if len(textlist) < self.text_in_document_lower_bound
         }
 
-        # log all the text that was skipped
+        log all the text that was skipped
         with open("skipped_pages.json", "a") as f:
             f.write(json.dumps(skipped_pages_due_to_low_information))
 
-        ########### Text analytics for logging
-        logger.debug(
+        # ########### Text analytics for logging
+        # logger.debug(
             f"Number of pages with < {self.text_in_document_lower_bound} text blocks: {len(skipped_pages_due_to_low_information)} "
         )
         ######################################
@@ -169,7 +169,7 @@ class BuildRagIndex:
                 ),
             )
         )
-        logger.debug(f"skipped_pages {skipped_pages}")
+        # logger.debug(f"skipped_pages {skipped_pages}")
 
         paged_text = {
             pagenumber: "\n".join(textlist)
@@ -178,7 +178,7 @@ class BuildRagIndex:
             and pagenumber not in skipped_pages_due_to_low_information.keys()
         }
 
-        logger.debug(f"paged_text: {list(paged_text.items())[25:35]}")
+        # logger.debug(f"paged_text: {list(paged_text.items())[25:35]}")
 
         return paged_text
 
@@ -192,9 +192,9 @@ class BuildRagIndex:
             Document(doc_id=pagenum, text=text_on_page)
             for pagenum, text_on_page in paged_document.items()
         ]
-        logger.debug("num of documents created {}".format(len(documents)))
+        # logger.debug("num of documents created {}".format(len(documents)))
         nodes = parser.get_nodes_from_documents(documents, show_progress=True)
-        logger.debug("num of nodes created {}".format(len(nodes)))
+        # logger.debug("num of nodes created {}".format(len(nodes)))
         rag_index = VectorStoreIndex(nodes)
         self.save_rag_index(rag_index)
         return rag_index
@@ -225,12 +225,12 @@ class BuildRagIndex:
                 ]
             )
         )
-        logger.debug(f"response from query: {response_text}\n\nsources: {sources}")
+        # logger.debug(f"response from query: {response_text}\n\nsources: {sources}")
         return response_text, sources
 
     def query_rag_index(self, query_text: str):
         "query the index for a given query"
-        logger.debug(f"querying rag index for --> {query_text}")
+        # logger.debug(f"querying rag index for --> {query_text}")
         retriever = VectorIndexRetriever(
             index=self.rag_index,
             similarity_top_k=10,
@@ -240,7 +240,7 @@ class BuildRagIndex:
 
         # ------- level 1 retreival
         retrieved_nodes = retriever.retrieve(query_text)
-        logger.debug(
+        # logger.debug(
             f"number of retrieved_nodes after 1st retreival: {len(retrieved_nodes)}"
         )
 
@@ -251,7 +251,7 @@ class BuildRagIndex:
             ]
 
         # print(retrieved_nodes[:2])
-        logger.debug(f"page_nums: {get_pages(retrieved_nodes)}")
+        # logger.debug(f"page_nums: {get_pages(retrieved_nodes)}")
 
         # -------- level 2 retreival
         # if number of nodes more than 5 just use the top 5
