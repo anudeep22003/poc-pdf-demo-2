@@ -1,0 +1,1947 @@
+{
+  "docstore/data": {
+    "7fda6361-cd3d-4505-b27f-74ccac55e889": {
+      "__data__": {
+        "id_": "7fda6361-cd3d-4505-b27f-74ccac55e889",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "1",
+            "node_type": "4",
+            "metadata": {},
+            "hash": "5b23c55ab298f278ecacd5195eeecc4524c8a17eb1c3aaeeff42b45bcdc975df",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "347eabbb-c1b5-465f-951f-ff78daa12ba3",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "da02d0ed1ce997b3856297d7bc06af5afb43390e8e7a7e8f3c6aa46613cbf235",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "hash": "5b23c55ab298f278ecacd5195eeecc4524c8a17eb1c3aaeeff42b45bcdc975df",
+        "text": "eXP Family of Glass Mat Products\nExclusive service provider of products manufactured by Gold Bond Building Products, LLC.",
+        "start_char_idx": 0,
+        "end_char_idx": 121,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "347eabbb-c1b5-465f-951f-ff78daa12ba3": {
+      "__data__": {
+        "id_": "347eabbb-c1b5-465f-951f-ff78daa12ba3",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "3",
+            "node_type": "4",
+            "metadata": {},
+            "hash": "da02d0ed1ce997b3856297d7bc06af5afb43390e8e7a7e8f3c6aa46613cbf235",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "7fda6361-cd3d-4505-b27f-74ccac55e889",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "5b23c55ab298f278ecacd5195eeecc4524c8a17eb1c3aaeeff42b45bcdc975df",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "103e433d-803e-4f04-844a-b6bfa6e7f64f",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "e20d5c2d45696a63d880e4913ba6d0be408042f5cda8eed40446dddc7ce1eb74",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "hash": "da02d0ed1ce997b3856297d7bc06af5afb43390e8e7a7e8f3c6aa46613cbf235",
+        "text": "High Performance Products for the Life of the Building\nAdvanced fiberglass technology PURPLE eXP\u00ae is a technologically advanced fiberglass-faced gypsum line utilizing Sealed Surface Technology. With a solution for most every design or building challenge, our eXP products will help you construct the finest quality interior and exterior walls and ceilings. Our PURPLE coated fiberglass facers provide excellent weather- and water- resistance. Dimensionally stable under changes in temperature and humidity, eXP products resist warping, rippling and buckling.\nFIRE RESISTANT\nApproved component in specific UL fire-rated designs.\nNon combustible, fire-resistant material helps protect framing elements, even when cladding is combustible.\nMOLD & MOISTURE RESISTANT\nResists the growth of mold per ASTM D3273 with a score of 10, the best possible score.\nPURPLE coated glass mat provides excellent weather and water resistance. Extraordinarily sturdy, glass mat will stand up to the elements.\nProvides superior water resistance without impeding vapor transmission.\nSTRENGTH\nAdds structural strength to stabilize structural framing.\nFiberglass mats integrated into the gypsum core strengthen the panel.\nHigh performance substrate for weather barrier and cladding systems.\nDIMENSIONAL STABILITY\nDimensionally stable under changes in temperature and moisture conditions. eXP resists warping, rippling and buckling.\nUniform flexural strength allows panels to be installed vertically or horizontally without sacrificing wall or ceiling strength.\nLong-term protection for the life of the structure.\nGRIDMARX\u00ae\nSelect products feature GridMarX\u00ae preprinted fastening guide on the panel to allow for faster and more accurate installation.\nEASY TO HANDLE\nLightweight and easy to handle. It can be cut and fastened with standard drywall tools and fasteners.\nHelps enhance construction schedules and offers long-term protection for the life of the building.\nSealed Surface Technology is an additional coating on the mat that improves ease of use and enables a cleaner score and snap.\nLOW-EMITTING MATERIALS\nSelect eXP products achieve UL GREENGUARD Gold Certification. UL GREENGUARD certified products are certified to UL GREENGUARD standards for low chemical emissions into indoor air during product usage. For more information, visit: ul.com/gg.\nProducts that achieve UL GREENGUARD Gold Certification qualify as low-emitting per California Specification Section 01350 in accordance with CDPH Standard Method, v1.2. For more information, visit: calrecycle.ca.gov.\nThe color Purple is a registered trademark of Gold Bond Building Products, LLC.\neXP Family of Glass Mat Products | 3",
+        "start_char_idx": 0,
+        "end_char_idx": 2662,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "103e433d-803e-4f04-844a-b6bfa6e7f64f": {
+      "__data__": {
+        "id_": "103e433d-803e-4f04-844a-b6bfa6e7f64f",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "4",
+            "node_type": "4",
+            "metadata": {},
+            "hash": "e20d5c2d45696a63d880e4913ba6d0be408042f5cda8eed40446dddc7ce1eb74",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "347eabbb-c1b5-465f-951f-ff78daa12ba3",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "da02d0ed1ce997b3856297d7bc06af5afb43390e8e7a7e8f3c6aa46613cbf235",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "558b310c-37f9-47f1-b828-5b02e356538c",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "20730314b28acee476272bf165c21775dd94f4420e14fe7d929a55b8e00e6956",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "hash": "e20d5c2d45696a63d880e4913ba6d0be408042f5cda8eed40446dddc7ce1eb74",
+        "text": "Defend Against Mold and More with Advanced Glass Mat Technology\nGold Bond\u00ae eXP\u00ae is a technologically advanced glass mat gypsum product line utilizing Sealed Surface Technology. Part of our PURPLE family, eXP offers a solution for most every design or building challenge you face. With more moisture and mold resistance, eXP will help you construct the finest quality walls.\nOur eXP PURPLE coated glass mat provides excellent weather and water resistance. Extraordinarily sturdy, eXP glass mat will stand up to the elements. Dimensionally stable under changes in temperature, eXP resists warping, rippling and buckling. When you build with our PURPLE eXP products, you will have a single-source solution that provides the performance, support and resources to get the job done right.\n1 eXP\u00ae INTERIOR EXTREME\u00ae GYPSUM PANEL\nFor use in all rooms. \u2022 Anywhere mold and moisture is a concern. \u2022 12-month exposure warranty.\neXP\u00ae INTERIOR EXTREME\u00ae AR GYPSUM PANEL \u2022 Walls subject to added abuse/abrasion. \u2022 Scratch and scuff resistant. \u2022 12-month exposure warranty.\neXP\u00ae INTERIOR EXTREME\u00ae IR GYPSUM PANEL \u2022 Walls subject to impact from hard objects. \u2022 Resists penetrations through the gypsum board. \u2022 12-month exposure warranty.\n4\neXP\u00ae SHAFTLINER \u2022 For use in shafts and stairwells. \u2022 Resists mold and moisture. \u2022 12-month exposure warranty.\n5\neXP\u00ae TILE BACKER \u2022 Gypsum backer board for wet areas. \u2022 Acrylic-coated facer. \u2022 Eliminates need for water barrier.\n6\neXP\u00ae SHEATHING \u2022 Accepts a variety of exterior finishes. \u2022 Finishing of joints not required. \u2022 12-month exposure warranty.\n4 | Gold Bond Building Products\n6",
+        "start_char_idx": 0,
+        "end_char_idx": 1608,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "558b310c-37f9-47f1-b828-5b02e356538c": {
+      "__data__": {
+        "id_": "558b310c-37f9-47f1-b828-5b02e356538c",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "5",
+            "node_type": "4",
+            "metadata": {},
+            "hash": "20730314b28acee476272bf165c21775dd94f4420e14fe7d929a55b8e00e6956",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "103e433d-803e-4f04-844a-b6bfa6e7f64f",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "e20d5c2d45696a63d880e4913ba6d0be408042f5cda8eed40446dddc7ce1eb74",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "4ce9788f-e038-4df9-a4ea-adce9c89ee2c",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "8ad9b141e6caadbed7ec59674b85884901c8602dda4b4fa0b7a3808f1c330233",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "hash": "20730314b28acee476272bf165c21775dd94f4420e14fe7d929a55b8e00e6956",
+        "text": "6\n5\n6\n4\n4\neXP Family of Glass Mat Products | 5",
+        "start_char_idx": 0,
+        "end_char_idx": 46,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "4ce9788f-e038-4df9-a4ea-adce9c89ee2c": {
+      "__data__": {
+        "id_": "4ce9788f-e038-4df9-a4ea-adce9c89ee2c",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "6",
+            "node_type": "4",
+            "metadata": {},
+            "hash": "8ad9b141e6caadbed7ec59674b85884901c8602dda4b4fa0b7a3808f1c330233",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "558b310c-37f9-47f1-b828-5b02e356538c",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "20730314b28acee476272bf165c21775dd94f4420e14fe7d929a55b8e00e6956",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "7b9b17ab-40c9-478c-90fb-b4368504c11d",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "62f140e54d02d8542149380e3530073fa3b933523cd682f59fb6c55538f41483",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "hash": "8ad9b141e6caadbed7ec59674b85884901c8602dda4b4fa0b7a3808f1c330233",
+        "text": "Product Selector\neXP\u00ae Sheathing Use Gold Bond\u00ae eXP\u00ae Sheathing on the outside of a wall and soffit framing as a substrate for exterior cladding. It is available with either a Regular or Type X gypsum core. eXP Sheathing consists of a moisture- and mold-resistant gypsum core encased in a coated, specially designed PURPLE fiberglass mat on the face, back and sides. The glass mat is folded around the long edges to reinforce and protect the core, and it provides superior weather resistance.\n1/2\u201d (12.7 mm) / Regular\nLength: 8\u2019 \u2013 12\u2019 (2,438 \u2013 3,658 mm)\n5/8\u201d (15.9 mm) / Type X\nSquare Edge\nWidth: 4\u2019 (1,219 mm)\nFeatures GridMarX\u00ae guide marks\nASTM C1177, Federal Specification Number: SS-L-30D Type II Grade X\neXP\u00ae Shaftliner Use Gold Bond\u00ae eXP\u00ae Shaftliner to construct lightweight fire barriers for cavity shaftwalls (1-4 hr.) and area separation fire walls (2 hr.). eXP Shaftliner consists of a moisture- and mold-resistant gypsum core encased in a coated, specially designed PURPLE fiberglass mat on the face, back and sides. It is available in a Type X core. The glass mat is folded around the long edges to reinforce and protect the core.\n1\u201d (25.4 mm) / Type X\nLength: 8\u2019 \u2013 12\u2019 (2,438 \u2013 3,658 mm)\nWidth: 2\u2019 (610 mm)\nDouble Beveled Edge\nASTM C1658, Federal Specification Number: SS-L-30D Type II Grade X\neXP\u00ae Tile Backer Use Gold Bond\u00ae eXP\u00ae Tile Backer as a substrate for tile applications in high moisture areas, including showers, bathrooms, indoor swimming pools, laundry rooms and kitchens. It is also a code-compliant substrate for tile and other finishes in both wet and non-wet areas, areas of high humidity and fire-rated assemblies (5/8\u201d Type X). It is ideally suited for a variety of interior applications. eXP Tile Backer consists of a moisture- and mold-resistant gypsum core encased in an acrylic-coated, specially designed fiberglass mat on the face, back and sides. It is available in either a Regular or Type X core. The glass mat is folded around the long edges to reinforce and protect the core.\n1/2\u201d (12.7 mm) / Regular\nLength: 8\u2019 (2,438 mm)\n5/8\u201d (15.9 mm) / Type X\nSquare Edge\nWidth: 4\u2019 (1,219 mm)\nASTM C1178, Federal Specification Number: SS-L-30D Type II Grade X\n6 | Gold Bond Building Products",
+        "start_char_idx": 0,
+        "end_char_idx": 2217,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "7b9b17ab-40c9-478c-90fb-b4368504c11d": {
+      "__data__": {
+        "id_": "7b9b17ab-40c9-478c-90fb-b4368504c11d",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "7",
+            "node_type": "4",
+            "metadata": {},
+            "hash": "62f140e54d02d8542149380e3530073fa3b933523cd682f59fb6c55538f41483",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "4ce9788f-e038-4df9-a4ea-adce9c89ee2c",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "8ad9b141e6caadbed7ec59674b85884901c8602dda4b4fa0b7a3808f1c330233",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "4a200e21-5168-46e2-b3c3-7335b9208d96",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "164781b45fbd25144d72f44f574a25c2555b4655e6183a3f43ad620c04aaa0fb",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "hash": "62f140e54d02d8542149380e3530073fa3b933523cd682f59fb6c55538f41483",
+        "text": "eXP\u00ae Interior Extreme\u00ae Use Gold Bond\u00ae eXP\u00ae Interior Extreme\u00ae Gypsum Panels wherever gypsum board is specified in interior applications for the entire project, installed on wood or metal framing, for increased resistance to incidental moisture. These gypsum panels consist of a moisture- and mold-resistant gypsum core encased in a coated, specially designed fiberglass mat on the face, back and sides. eXP Interior Extreme Gypsum Panels are available in a Regular, Type X or Type C core. The glass mat is folded around the long edges to reinforce and protect the core.\n1/2\u201d (12.7 mm) / Regular\nWidth: 4\u2019 (1,219 mm)\n1/2\u201d (12.7mm) / Type C\nLength: 8\u2019 \u2013 12\u2019 (2,438 \u2013 3,658 mm)\n5/8\u201d (15.9 mm) / Type X\nTapered Edge\n5/8\u201d (15.9 mm) / Type C\nFeatures GridMarX\u00ae guide marks\nASTM C1658, Federal Specification Number: SS-L-30D Type II Grade X\neXP\u00ae Interior Extreme\u00ae AR Use Gold Bond\u00ae eXP\u00ae Interior Extreme\u00ae AR Gypsum Panels for interior applications in areas prone to surface abrasion and indentation, including corridors, entryways, lobby areas and warehouses. These gypsum panels consist of an abuse-, moisture- and mold-resistant gypsum core encased in a coated, specially designed fiberglass mat on the face and back sides. In addition to providing moisture and mold resistance, the AR panel has a denser core and an enhanced glass mat for increased resistance to indentation and abrasion. The glass mat is folded around the long edges to reinforce and protect the core.\n5/8\u201d (15.9 mm) / Type X\nTapered Edge\nWidth: 4\u2019 (1,219 mm)\nFeatures GridMarX\u00ae guide marks\nLength: 8\u2019 \u2013 12\u2019 (2,438 \u2013 3,658 mm)\nASTM C1658, Federal Specification Number: SS-L-30D Type II Grade X\neXP\u00ae Interior Extreme\u00ae IR Use Gold Bond\u00ae eXP\u00ae Interior Extreme\u00ae IR Gypsum Panels for interior applications requiring increased resistance to incidental moisture and wall penetrations. Ideally, use these gypsum panels in areas prone to cavity penetration, including gymnasiums, correctional facilities, schools and workshops. eXP Interior Extreme IR consists of an impact-, moisture- and mold-resistant gypsum core encased in a coated, specially designed fiberglass mat on the face, back and sides. In addition to providing moisture and mold resistance, the IR panel has a denser core and an specially formulated fiberglass mesh embedded into the core for increased resistance to indentation and impact. The glass mat is folded around the long edges to reinforce and protect the core.\n5/8\u201d (15.9 mm) / Type X\nTapered Edge\nWidth: 4\u2019 (1,219 mm)\nFeatures GridMarX\u00ae guide marks\nLength: 8\u2019 \u2013 12\u2019 (2,438 \u2013 3,658 mm)\nASTM C1658, Federal Specification Number: SS-L-30D Type II Grade X\neXP Family of Glass Mat Products | 7",
+        "start_char_idx": 0,
+        "end_char_idx": 2669,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "4a200e21-5168-46e2-b3c3-7335b9208d96": {
+      "__data__": {
+        "id_": "4a200e21-5168-46e2-b3c3-7335b9208d96",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "8",
+            "node_type": "4",
+            "metadata": {},
+            "hash": "164781b45fbd25144d72f44f574a25c2555b4655e6183a3f43ad620c04aaa0fb",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "7b9b17ab-40c9-478c-90fb-b4368504c11d",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "62f140e54d02d8542149380e3530073fa3b933523cd682f59fb6c55538f41483",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "993bb8e1-8484-4e56-8241-a02f0cdddb0e",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "e0f09bf8c1433a448ccf31353181292f424da085b0d4971f0808645b8a25576f",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "hash": "164781b45fbd25144d72f44f574a25c2555b4655e6183a3f43ad620c04aaa0fb",
+        "text": "eXP\u00ae Sheathing Mold and Moisture Resistant with Superior Exposure Capabilities\nSpecify the Latest Technology\nThe outer exterior walls and soffits of the building envelope are critical elements that deserve particular attention. Most of these assemblies require sheathing to be attached to the outside of framing as a water-resistant underlayment for various materials. Depending upon where your project is being erected, these assemblies could be exposed to wind, rain, snow and extreme temperatures for extended periods during the construction process and afterward.\nWith eXP Sheathing Sealed Surface Technology, your project can withstand the elements. For both wood and metal construction, eXP Sheathing provides a solid substrate for various air and water resistive barriers and is a component in Exterior Insulation and Finish Systems (EIFS). With our eXP Sheathing, you\u2019ll have built-in weather and fire protection.\neXP Sheathing offers a moisture- and mold-resistant panel with superior extended-exposure capabilities. It is lightweight, handles easily, and is used for a variety of finishes. You\u2019ll be hard pressed to find a better sheathing to give your project exactly what it needs \u2013 the assurance of a long and productive existence.\nBuild and Design Better with the Latest Technology\nAdd structural strength to wood and metal stud construction with Gold Bond eXP Sheathing. Attach eXP Sheathing, a moisture- and mold-resistant gypsum panel, to the outside of sidewall and soffit framing as a water-resistant underlayment for various exterior materials. Apply as a sheathing on wood or steel framing to provide fire resistance and weather protection when used under exterior claddings, including, but not limited to: wood, vinyl, fiber cement siding, masonry veneer, EIFS and stucco. Use eXP Sheathing to achieve fire-rated exterior wall assemblies.\n8 | Gold Bond Building Products\n06 16 00/NGC",
+        "start_char_idx": 0,
+        "end_char_idx": 1905,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "993bb8e1-8484-4e56-8241-a02f0cdddb0e": {
+      "__data__": {
+        "id_": "993bb8e1-8484-4e56-8241-a02f0cdddb0e",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "9",
+            "node_type": "4",
+            "metadata": {},
+            "hash": "e0f09bf8c1433a448ccf31353181292f424da085b0d4971f0808645b8a25576f",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "4a200e21-5168-46e2-b3c3-7335b9208d96",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "164781b45fbd25144d72f44f574a25c2555b4655e6183a3f43ad620c04aaa0fb",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "cacc66ac-519f-471c-a5e4-a42f4bc19051",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "be50ea3b9e74b1284e8fb84840f4dd2bfdf4e4df0f1b0677ea94f6b742bca3f4",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "hash": "e0f09bf8c1433a448ccf31353181292f424da085b0d4971f0808645b8a25576f",
+        "text": "1. Coated Fiberglass Mat\n2. Square Edges\n3. Enhanced Moisture- and Mold-Resistant Gypsum Core\nAPPLICATIONS\nUse it as sheathing on wood or steel framing to provide fire resistance and weather protection when used under exterior claddings, such as wood, vinyl and fiber cement siding, masonry veneer, EIFS and stucco.\nUse it as a sheathing in fire-resistance-rated exterior wall assemblies.\nSizes: 1/2\u201d (12.7 mm) Regular and 5/8\u201d (15.9 mm) Fire-Shield\u00ae Type X panels are available in 4\u2019 (1,219 mm) widths and in standard lengths of 8\u2019 (2,438 mm) to 10\u2019 (3,658 mm).\nADVANTAGES\nPROVIDES FIRE RESISTANCE\nINSTALLS FAST AND EASY\nFire-resistant material with a non-combustible gypsum\nFeatures GridMarX guide marks on the panel to allow for faster and more accurate installation.\nFeatures GridMarX guide marks on the panel to allow for faster and more accurate installation.\nCoated glass mat facers for easy handling.\nManufactured to meet ASTM C1177 \u201cStandard Specification for Glass Mat Gypsum Substrate for use as Sheathing\u201d.\nOFFERS SUPERIOR DURABILITY\nRESISTS MOISTURE AND MOLD\nOffers a 12-month extended exposure warranty for typical weather conditions.\nProvides superior water resistance without impeding vapor transmission.\nDimensionally stable under changes in temperature and relative humidity.\nResists the growth of mold per ASTM D3273 with a score of 10, the best possible score.\nWARRANTY & TECHNICAL INFORMATION\nPlease refer to \u201cLimited Warranty And Remedy\u201d on page 35 for details. For details about fire resistance, technical data and installation recommendations, refer to pages 33-34.\nFor details about fire resistance, see installation recommendations on page 33.\neXP Family of Glass Mat Products | 9",
+        "start_char_idx": 0,
+        "end_char_idx": 1706,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "cacc66ac-519f-471c-a5e4-a42f4bc19051": {
+      "__data__": {
+        "id_": "cacc66ac-519f-471c-a5e4-a42f4bc19051",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "10",
+            "node_type": "4",
+            "metadata": {},
+            "hash": "ad0c955781f748e132e624c9099c85ed029e9310ee2afaf5c1e6277e0616e8de",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "993bb8e1-8484-4e56-8241-a02f0cdddb0e",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "e0f09bf8c1433a448ccf31353181292f424da085b0d4971f0808645b8a25576f",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "58ee69dc-78b0-455d-908d-eaae5298c705",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "99dabfe80e3e7d270e48d0acb44d9ddc83e70c4c9911a226637594ef11557ca6",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "hash": "be50ea3b9e74b1284e8fb84840f4dd2bfdf4e4df0f1b0677ea94f6b742bca3f4",
+        "text": "eXP\u00ae Sheathing\nTECHNICAL DATA Physical Properties\n1/2\u201d eXP Sheathing\n5/8\u201d eXP Fire-Shield Sheathing\nThickness1, Nominal\n1/2\" (12.7 mm)\n5/8\" (15.9 mm)\nWidth1, Nominal\n4' (1,219 mm)\n4' (1,219 mm)\nLength1, 4, Standard\n8' \u2013 12' (2,438 mm \u2013 3,658 mm)\n8' \u2013 12' (2,438 mm \u2013 3,658 mm)\nWeight, Nominal\n1.9 lbs./sq. ft. (9.28 k/m2)\n2.5 lbs./sq. ft. (12.21 k/m2)\nEdges1\nSquare\nSquare\nFlexural Strength1, Perpendicular\n\u2265 100 lbf. (445 N)\n\u2265 140 lbf. (623 N)\nFlexural Strength1, Parallel\n\u2265 80 lbf. (356 N)\n\u2265 100 lbf. (445 N)\nHumidified Deflection1\n\u2264 2/8\" (6.4 mm)\n\u2264 1/8\" (3.2 mm)\nNail Pull Resistance1\n\u2265 80 lbf. (356 N)\n\u2265 90 lbf. (400 N)\nHardness1 \u2013 Core, Edges and Ends\n\u2265 15 lbf. (67 N)\n\u2265 15 lbf. (67 N)\nBending Radius\n6' (1,829 mm)\n8' (2,438 mm)\nThermal Resistance5\nR = .43\nR = .54\nPermeance6\n22 perms\n19 perms\nWater Absorption1 (% of Weight)\n\u2264 10%\n\u2264 10%\nLinear Expansion with Change Moisture\n6.25 x 10-6\u201d/in./%RH\n6.25 x 10-6\u201d/in./%RH\nCoefficient of Thermal Expansion\n9.26 x 10-6\u201d/in./\u00b0F\n9.26 x 10-6\u201d/in./\u00b0F\nRacking Strength7 (Ultimate \u2013 not design value)\n> 540 lbs. ft. (732 N/m)\n> 654 lbs. ft. (887 N/m)\nMold Resistance8, ASTM D3273\nScore of 10\nScore of 10\nCompressive Strength9\n\u2265 500 psi\n\u2265 500 psi\nProduct Standard Compliance\nASTM C1177\nASTM C1177\nFire-Resistance Characteristics\nCore Type\nRegular\nType X\nUL Type Designation\nN/A\nFSW-6\nCombustibility2\nNon-combustible core\nNon-combustible core\nSurface Burning Characteristics3\nClass A\nClass A\nFlame Spread3\nSmoke Development3\nApplicable Standards and References\nASTM C473 Standard Test Methods for Physical Testing of Gypsum Panel Products\nASTM C518 Standard Test Method for Steady-State Thermal Transmission Properties by Means of the Heat Flow Meter Apparatus\nASTM C840 Standard Specification for Application and Finishing of Gypsum Board\nASTM C1177 Standard Specification for Glass Mat Gypsum Substrate for Use as Sheathing\nASTM C1280 Standard Specification for Application of Exterior Gypsum Panel Products for Use as Sheathing\nASTM D3273 Standard Test Method for Resistance to Growth of Mold on the Surface of Interior Coatings in an Environmental Chamber\nASTM E72 Standard Test Methods for Conducting Strength Tests of Panels for Building Construction\nASTM E84 Standard Test Method for Surface Burning Characteristics of Building Materials\nASTM E96 Standard Test Methods for Water Vapor Transmission of Materials\nASTM E119 Standard Test Methods for Fire Tests of Building Construction and Materials\nASTM E136 Standard Test Method for Behavior of Materials in a Vertical Tube Furnace at 750\u02daC\nGypsum Association, GA-214, Levels of Finish for Gypsum Panel Products\nGypsum Association, GA-216, Application and Finishing of Gypsum Panel Products\nGypsum Association, GA-238, Guidelines for Prevention of Mold Growth on Gypsum Board\nGypsum Association, GA-253, Application of Gypsum Sheathing\nGold Bond Building Products, LLC Manufacturer Standards, NGC Construction Guide\n1. Specified values per ASTM C1177, tested in accordance with ASTM C473. 2. Tested in accordance with ASTM E136. 3. Tested in accordance with ASTM E84. 4. Please consult your local sales representative for all non-standard lengths and widths. Minimum order requirements may apply.\n6. Tested in accordance with ASTM E96. 7.",
+        "start_char_idx": 0,
+        "end_char_idx": 3235,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "58ee69dc-78b0-455d-908d-eaae5298c705": {
+      "__data__": {
+        "id_": "58ee69dc-78b0-455d-908d-eaae5298c705",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "10",
+            "node_type": "4",
+            "metadata": {},
+            "hash": "ad0c955781f748e132e624c9099c85ed029e9310ee2afaf5c1e6277e0616e8de",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "cacc66ac-519f-471c-a5e4-a42f4bc19051",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "be50ea3b9e74b1284e8fb84840f4dd2bfdf4e4df0f1b0677ea94f6b742bca3f4",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "1243e404-a589-47ab-a375-302c289046d1",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "f921671e13c0d60396f33c768d989b6ca76253403109722dc988002038d82692",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "hash": "99dabfe80e3e7d270e48d0acb44d9ddc83e70c4c9911a226637594ef11557ca6",
+        "text": "Specified values per ASTM C1177, tested in accordance with ASTM C473. 2. Tested in accordance with ASTM E136. 3. Tested in accordance with ASTM E84. 4. Please consult your local sales representative for all non-standard lengths and widths. Minimum order requirements may apply.\n6. Tested in accordance with ASTM E96. 7. Tested in accordance with ASTM E72. 8. Tested in accordance with ASTM D3273 and rated in accordance with ASTM D3274\n9. Tested in accordance with ASTM C473, annex X3.\n5. Tested in accordance with ASTM C518.\n10 | Gold Bond Building Products",
+        "start_char_idx": 2916,
+        "end_char_idx": 3474,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "1243e404-a589-47ab-a375-302c289046d1": {
+      "__data__": {
+        "id_": "1243e404-a589-47ab-a375-302c289046d1",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "11",
+            "node_type": "4",
+            "metadata": {},
+            "hash": "f921671e13c0d60396f33c768d989b6ca76253403109722dc988002038d82692",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "58ee69dc-78b0-455d-908d-eaae5298c705",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "99dabfe80e3e7d270e48d0acb44d9ddc83e70c4c9911a226637594ef11557ca6",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "a9bfadf5-a4c7-4481-a68c-7c1238423a4b",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "6df90b8dea417c12f164ff9e01304e3deb12cb8d5cab177242f1a03c51064164",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "hash": "f921671e13c0d60396f33c768d989b6ca76253403109722dc988002038d82692",
+        "text": "Common eXP\u00ae Sheathing Exterior Applications\nEIFS\nSTUCCO\n1. eXP\u00ae Sheathing\n1. eXP\u00ae Sheathing\n2. Screed Flashing\n2. Screed Flashing\n3. Weather-Resistant Barrier\n3. Weather-Resistant Barrier\n4. Rigid Insulation\n4. Metal Lath\n5. Weep Screed\n4\n5. Scratch Coat\n6. Mesh\n6\n6. Weep Screed\n7. Basecoat\n8. Stucco Finish Coat\n7\n8\n7. Brown Coat\n8. Primer\n9. Stucco Finish Coat\n5\nBRICK VENEER\nTHIN STONE VENEER\n1. eXP\u00ae Sheathing\n1. eXP\u00ae Sheathing\n2. Base Flashing\n2. Weep Screed\n3. Weather-Resistant Barrier\n4. Rigid Insulation\n4\n3. Base Flashing\n4. Weather-Resistant Barrier\n5. Veneer Tie\n5. Rigid Insulation\n6. Brick Veneer\n5\n6. Cement Board\n7. Basecoat\n6\n8. Thin Stone Veneer\nFIBER CEMENT WOOD STUD\nMETAL PANEL\n1. eXP\u00ae Sheathing\n1. eXP\u00ae Sheathing\n2. Base Flashing\n3. Weather-Resistant Barrier\n2. Base Flashing\n3. Weather-Resistant Barrier\n4. Drainage Mat\n4. Drainage Mat\n5. Rigid Insulation\n6. Furring Strips\n4\n5\n5. Rigid Insulation\n6. Furring Strips\n7. Lap Siding\n6\n7. Horizontal Girts\n7\n8. Metal Panel System\n4\n5\n7\n8\n9\n6\n4\n5\n6\n7\n8\n6\n7\n4\n5\n8\neXP Family of Glass Mat Products | 11",
+        "start_char_idx": 0,
+        "end_char_idx": 1069,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "a9bfadf5-a4c7-4481-a68c-7c1238423a4b": {
+      "__data__": {
+        "id_": "a9bfadf5-a4c7-4481-a68c-7c1238423a4b",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "12",
+            "node_type": "4",
+            "metadata": {},
+            "hash": "6df90b8dea417c12f164ff9e01304e3deb12cb8d5cab177242f1a03c51064164",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "1243e404-a589-47ab-a375-302c289046d1",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "f921671e13c0d60396f33c768d989b6ca76253403109722dc988002038d82692",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "44b8dca5-87ec-477f-83b1-826f025433d3",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "2055f79ef482c6a0b40026d3f4dc83818a98282549f7c2d55089980c746f682c",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "hash": "6df90b8dea417c12f164ff9e01304e3deb12cb8d5cab177242f1a03c51064164",
+        "text": "eXP\u00ae Shaftliner Lightweight Weather Resistant Fire Barrier\nExtra Protection Against Inclement Weather\neXP\u00ae Shaftliner is optimal when constructing lightweight fire barriers for cavity shaftwalls, stairwells and area separation walls in multifamily housing units.\nWhether you are constructing multifamily housing or commercial projects, we can help you guard against damaging elements like rain and moisture and ensure you will achieve a fire rating. eXP Shaftliner is a moisture- and mold-resistant shaftliner panel with a fire-resistant (Type X) core. Use eXP Shaftliner panels to construct lightweight fire barriers for cavity shaftwalls (1-4 hr.), stairwells and area separation fire walls (2-3 hr.) in multifamily housing. These panels are key components in the Cavity Shaftwall Systems and the Area Separation Fire Wall Systems. With more multifamily shared walls and questions about structural safety, give yourself peace of mind by specifying eXP Shaftliner.\nAs with all eXP\u00ae products, eXP Shaftliner is a moisture- and mold-resistant panel with added fire-resistance. The PURPLE coated fiberglass facers provide excellent weather- and water-resistant capabilities. Dimensionally stable under changes in temperature and humidity, this hard-working panel resists warping, rippling, buckling and sagging. It is specially coated on the front, back and edges for easy installation. eXP Shaftliner can also enhance acoustical performance; again, ideal when you are constructing multifamily residences.\n12 | Gold Bond Building Products\n09 29 00/NGC",
+        "start_char_idx": 0,
+        "end_char_idx": 1549,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "44b8dca5-87ec-477f-83b1-826f025433d3": {
+      "__data__": {
+        "id_": "44b8dca5-87ec-477f-83b1-826f025433d3",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "13",
+            "node_type": "4",
+            "metadata": {},
+            "hash": "2055f79ef482c6a0b40026d3f4dc83818a98282549f7c2d55089980c746f682c",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "a9bfadf5-a4c7-4481-a68c-7c1238423a4b",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "6df90b8dea417c12f164ff9e01304e3deb12cb8d5cab177242f1a03c51064164",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "1761a2fa-9866-4043-ab30-9af63f175ae1",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "fd2a691d12140017906980bb6227068fa470f3a6e71e42c7f7bc42dd4945dd6c",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "hash": "2055f79ef482c6a0b40026d3f4dc83818a98282549f7c2d55089980c746f682c",
+        "text": "1. Coated Fiberglass Mat\n2. Double Beveled Edges\n3. Enhanced Moisture- and Mold-Resistant Gypsum Core\nAPPLICATIONS\neXP\u00ae Cavity Shaftwall Systems: These systems enclose elevator, horizontal shafts and chase walls in buildings where it is advantageous to erect these walls from one side only. eXP\u00ae Shaftliner is the right choice when designing for fire resistance and changing air pressure. Shaftwalls are non-load bearing partitions made up of gypsum board and metal framing. These systems are lightweight and economical compared with conventional shaftwalls.\neXP\u00ae Area Separation Wall Systems: These systems are a popular method for constructing today\u2019s multifamily housing units. These assemblies will be exposed to outdoor elements during the building process, and eXP Shaftliner features a coated glass mat facer and gypsum core that can provide increased protection.\nSizes: 1\u201d (25.4 mm) thick panels are available in 2\u2019 (610 mm) nominal widths and standard lengths up to 12\u2019 (3,658 mm).\nADVANTAGES\nPROVIDES FIRE RESISTANCE\nINSTALLS FAST AND EASY\nFire-resistant material with a non-combustible gypsum\nScores and snaps easily without sawing.\ncore helps protect framing elements, even when cladding is combustible.\nCoated glass mat facers for easy handling.\nApproved component in specific UL fire-rated designs.\nOFFERS SUPERIOR DURABILITY\nRESISTS MOISTURE AND MOLD\n12-month extended exposure warranty for typical weather conditions.\nProvides superior water resistance without impeding vapor transmission.\nDimensionally stable under changes in temperature and relative humidity.\nResists the growth of mold per ASTM D3273 with a score of 10, the best possible score.\nFor details about fire resistance, see installation recommendations on page 33.\neXP Family of Glass Mat Products | 13",
+        "start_char_idx": 0,
+        "end_char_idx": 1783,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "1761a2fa-9866-4043-ab30-9af63f175ae1": {
+      "__data__": {
+        "id_": "1761a2fa-9866-4043-ab30-9af63f175ae1",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "14",
+            "node_type": "4",
+            "metadata": {},
+            "hash": "fd2a691d12140017906980bb6227068fa470f3a6e71e42c7f7bc42dd4945dd6c",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "44b8dca5-87ec-477f-83b1-826f025433d3",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "2055f79ef482c6a0b40026d3f4dc83818a98282549f7c2d55089980c746f682c",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "3a0016c5-5d80-46bb-a11b-2ef536bbc3ba",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "9eff8bfe22e808098dfcb92d24c07333711b1d601a8d3ae602d83c23865f3684",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "hash": "fd2a691d12140017906980bb6227068fa470f3a6e71e42c7f7bc42dd4945dd6c",
+        "text": "eXP\u00ae Shaftliner\nTECHNICAL DATA\nPhysical Properties\neXP Shaftliner\nThickness1, Nominal\n1\" (25.4 mm)\nWidth1, Nominal\n2' (610 mm)\nLength1, 4, Standard\n8' \u2013 12' (2,438 mm \u2013 3,658 mm)\nWeight, Nominal\n3.75 lbs./sq. ft. (18.31 k/m2)\nEdges1\nDouble Beveled\nFlexural Strength1, Perpendicular\n\u2265 230 lbf. (1,023 N)\nFlexural Strength1, Parallel\n\u2265 80 lbf. (356 N)\nHumidified Deflection1\nN/A\nNail Pull Resistance1\n\u2265 80 lbf. (356 N)\nHardness1 \u2013 Core, Edges and Ends\n\u2265 15 lbf. (67 N)\nThermal Resistance5\nR = .65\nWater Absorption1 (% of Weight)\n\u2264 5%\nLinear Expansion with Change Moisture\n6.25 x 10-6\u201d/in./%RH\nCoefficient of Thermal Expansion\n9.26 x 10-6\u201d/in./\u00b0F\nMold Resistance6, ASTM D3273\nScore of 10\nProduct Standard Compliance\nASTM C1658\nFire-Resistance Characteristics\nCore Type\nType X\nUL Type Designation\nFSW-7\nCombustibility2\nNon-combustible core\nSurface Burning Characteristics3\nClass A\nFlame Spread3\nSmoke Development3\nApplicable Standards and References\nASTM C473 Standard Test Methods for Physical Testing of Gypsum Panel Products\nASTM C518 Standard Test Method for Steady-State Thermal Transmission Properties by Means of the Heat Flow Meter Apparatus\nASTM C840 Standard Specification for Application and Finishing of Gypsum Board\nASTM C1658 Standard Test Method for Resistance to Growth of Mold on the Surface of Interior Coatings in an Environmental Chamber\nASTM D3273 Standard Test Method for Resistance to Growth of Mold on the Surface of Interior Coatings in an Environmental Chamber\nASTM E84 Standard Test Method for Surface Burning Characteristics of Building Materials\nASTM E96 Standard Test Methods for Water Vapor Transmission of Materials\nASTM E119 Standard Test Methods for Fire Tests of Building Construction and Materials\nASTM E136 Standard Test Method for Behavior of Materials in a Vertical Tube Furnace at 750\u02daC\nGypsum Association, GA-216, Application and Finishing of Gypsum Panel Products\nGypsum Association, GA-238, Guidelines for Prevention of Mold Growth on Gypsum Board\nGold Bond Building Products, LLC Manufacturer Standards, NGC Construction Guide\n1. Specified minimum values per ASTM C1658, tested in accordance with ASTM C473.\n2. Tested in accordance with ASTM E136. 3. Tested in accordance with ASTM E84. 4. Please contact your local sales representative for all non-standard lengths and widths. Minimum order requirements may apply.\n5. Tested in accordance with ASTM C518. 6. Tested in accordance with ASTM D3273 and rated in accordance with ASTM D3274.\n14 | Gold Bond Building Products",
+        "start_char_idx": 0,
+        "end_char_idx": 2509,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "3a0016c5-5d80-46bb-a11b-2ef536bbc3ba": {
+      "__data__": {
+        "id_": "3a0016c5-5d80-46bb-a11b-2ef536bbc3ba",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "15",
+            "node_type": "4",
+            "metadata": {},
+            "hash": "9eff8bfe22e808098dfcb92d24c07333711b1d601a8d3ae602d83c23865f3684",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "1761a2fa-9866-4043-ab30-9af63f175ae1",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "fd2a691d12140017906980bb6227068fa470f3a6e71e42c7f7bc42dd4945dd6c",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "28153bc0-f0c4-411a-8b23-973434da3320",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "7153c47d29a1233a037599f47ca55994d0da2419dc8cbae7074e9c7e38aeae31",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "hash": "9eff8bfe22e808098dfcb92d24c07333711b1d601a8d3ae602d83c23865f3684",
+        "text": "Common eXP\u00ae Shaftliner Installation Applications\nAREA SEPARATION WALL LIMITING HEIGHTS\n1. Roof\n9. ASW Clip\n2. Stringer\n10. Wood Stud\n3. Top Plate\n11. Horizontal Blocking\n4. eXP\u00ae Shaftliner\n12. Floor\n5. H-Stud\n13. Ceiling\n6. Double C-Track (Back-to-\n14. Minimum 3/4\u201d Air Space\nBack)\n7. eXP\u00ae Sheathing\n15. Concrete Slab or Foundation\n8. Fire Blocking 1\u201d eXP\u00ae Shaftliner or Mineral Wool\n4\n5\nASW Clip\nH-Stud\nC-Track\n6\n7\nCavity Shaftwall System U497 2-HOUR (FIRE TESTED BOTH SIDES)\n7\n8\n9\n10\n4\n4\n11\n12\n13\n1. J-Track\n14\n2. Stud\n3. eXP\u00ae Shaftliner\n4. 2 Layers eXP\u00ae Interior Extreme\u00ae\n15\n23\u2019 Walls For walls up to 23\u2019, space clips a maximum of 10\u2019 o.c.\n54\u2019 Walls For walls up to 54\u2019, space clips a maximum of 5\u2019 o.c. for wall sections below the upper 23\u2019.\n66\u2019 Walls For walls up to 66\u2019, space clips a maximum of 39\u201d o.c. for wall sections below the upper 54\u2019.\neXP Family of Glass Mat Products | 15",
+        "start_char_idx": 0,
+        "end_char_idx": 887,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "28153bc0-f0c4-411a-8b23-973434da3320": {
+      "__data__": {
+        "id_": "28153bc0-f0c4-411a-8b23-973434da3320",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "16",
+            "node_type": "4",
+            "metadata": {},
+            "hash": "7153c47d29a1233a037599f47ca55994d0da2419dc8cbae7074e9c7e38aeae31",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "3a0016c5-5d80-46bb-a11b-2ef536bbc3ba",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "9eff8bfe22e808098dfcb92d24c07333711b1d601a8d3ae602d83c23865f3684",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "ed835189-de6a-48b4-8ebd-a3d4ef520cc1",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "7b8c385bdb9c704128cb8655e80a2cfea975a490e955afc4b1f68a914e41d588",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "hash": "7153c47d29a1233a037599f47ca55994d0da2419dc8cbae7074e9c7e38aeae31",
+        "text": "eXP\u00ae Tile Backer Tile Substrate for Wet Areas\nHelping to Defend Against Moisture\nWhen you are designing a commercial project that includes high humidity areas, like indoor swimming pools, gang showers, spas and whirlpools, we have the ideal substrate to specify: Gold Bond\u00ae eXP\u00ae Tile Backer.\neXP Tile Backer is an acrylic-coated, moisture- and mold-resistant gypsum panel specially designed for use as a substrate for tile applications in high moisture rooms, including showers, bathrooms, indoor swimming pools, laundry rooms and kitchens. Use eXP Tile Backer as a code-compliant substrate for tile and other finishes in both wet and non-wet areas, areas of high humidity and fire-rated assemblies. It is ideally suited for interior walls and ceilings.\neXP Tile Backer is manufactured with an enhanced moisture- and mold-resistant core encased in specially designed coated glass mat facers. The facer is then coated with a specially formulated acrylic coating, which provides superior protection against moisture and humidity. It provides an integral water barrier, eliminating the need for a separate water barrier.\nAnother reason to consider eXP Tile Backer for your project: It has achieved UL GREENGUARD Gold Certification. UL GREENGUARD Certified products are certified to UL GREENGUARD standards for low chemical emissions into indoor air during product usage. For more information, visit: ul.com/gg.\nSo the next time you need a product that will perform well in wet, non-wet or high moisture areas that are more susceptible to encouraging mold, think eXP Tile Backer. This substrate will give you the added assurance you need to get the job done to your exacting standards.\n16 | Gold Bond Building Products\n09 29 00/NGC",
+        "start_char_idx": 0,
+        "end_char_idx": 1727,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "ed835189-de6a-48b4-8ebd-a3d4ef520cc1": {
+      "__data__": {
+        "id_": "ed835189-de6a-48b4-8ebd-a3d4ef520cc1",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "17",
+            "node_type": "4",
+            "metadata": {},
+            "hash": "7b8c385bdb9c704128cb8655e80a2cfea975a490e955afc4b1f68a914e41d588",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "28153bc0-f0c4-411a-8b23-973434da3320",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "7153c47d29a1233a037599f47ca55994d0da2419dc8cbae7074e9c7e38aeae31",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "887cffbf-b468-4808-b820-374db46fd251",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "575cb86be9b3456ebb38e8c8ded2ee237a9fd131483c21640d92b030ae39e508",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "hash": "7b8c385bdb9c704128cb8655e80a2cfea975a490e955afc4b1f68a914e41d588",
+        "text": "1. Acrylic-Coated Water Barrier\n2. Coated Fiberglass Mat\n3. Enhanced Moisture- and Mold-Resistant Gypsum Core\nAPPLICATIONS\nGold Bond\u00ae eXP\u00ae Tile Backer is manufactured with an enhanced moisture- and mold-resistant core encased in specially designed coated glass mat facers. The facer is then coated with a specially formulated acrylic coating, which provides superior protection against moisture and humidity. The glass mat is folded around the long edges to reinforce and protect the core.\nUse it as a substrate for tile applications in high moisture areas, including showers, bathrooms, indoor swimming pools, laundry rooms and kitchens.\nIt is also a code-compliant substrate for tile and other finishes in both wet and non-wet areas, areas of high humidity and fire-rated assemblies. It is ideally suited for a variety of interior applications.\nSizes: Regular panels are 1/2\u201d (12.7 mm) thick, available in 4\u2019 (1,219 mm) nominal widths, and in 8\u2019 (2,438 mm) lengths; Fire-Shield Type X panels are 5/8\u201d (15.9 mm) thick and available in standard lengths.\nADVANTAGES\nPROVIDES FIRE RESISTANCE\nINSTALLS FAST AND EASY\nFire-resistant material with a non-combustible gypsum\nCoated glass mat facers for easy handling.\ncore helps protect framing elements, even when cladding is combustible.\nIntegrated water barrier.\n5/8\u201d (15.9 mm) eXP\u00ae Tile Backer is an approved component in specific UL fire-rated designs.\n5/8\u201d (15.9 mm) eXP\u00ae Tile Backer is an approved component in specific UL fire-rated designs.\nRESISTS MOISTURE AND MOLD\nDimensionally stable under changes in temperature and relative humidity.\nAcrylic-coated fiberglass front facer provides an integral water barrier, eliminating the need for a separate water barrier.\nResists the growth of mold per ASTM D3273 with a score of 10, the best possible score.\nFor details about fire resistance, see installation recommendations on page 33.\neXP Family of Glass Mat Products | 17",
+        "start_char_idx": 0,
+        "end_char_idx": 1920,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "887cffbf-b468-4808-b820-374db46fd251": {
+      "__data__": {
+        "id_": "887cffbf-b468-4808-b820-374db46fd251",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "18",
+            "node_type": "4",
+            "metadata": {},
+            "hash": "575cb86be9b3456ebb38e8c8ded2ee237a9fd131483c21640d92b030ae39e508",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "ed835189-de6a-48b4-8ebd-a3d4ef520cc1",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "7b8c385bdb9c704128cb8655e80a2cfea975a490e955afc4b1f68a914e41d588",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "653dbcb4-8e1e-43b1-9ef9-22876e7249aa",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "37cefb5c2cf0b627ae0d8b6841aa3f9c31f8dd41fa1e88f657c75d8935dae527",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "hash": "575cb86be9b3456ebb38e8c8ded2ee237a9fd131483c21640d92b030ae39e508",
+        "text": "eXP\u00ae Tile Backer\nTECHNICAL DATA\nPhysical Properties\n1/2\u201d eXP Tile Backer\n5/8\u201d eXP Fire-Shield Tile Backer\nThickness1, Nominal\n1/2\" (12.7 mm)\n5/8\" (15.9 mm)\nWidth1, Nominal\n4' (1,219 mm)\n4' (1,219 mm)\nLength1, 4, Standard\n8' (2,438 mm)\n8' (2,438 mm)\nWeight, Nominal\n2.0 lbs./sq. ft. (9.76 k/m2)\n2.5 lbs./sq. ft. (12.21 k/m2)\nEdges1\nSquare\nSquare\nFlexural Strength1, Perpendicular\n\u2265 100 lbf. (445 N)\n\u2265 140 lbf. (623 N)\nFlexural Strength1, Parallel\n\u2265 80 lbf. (356 N)\n\u2265 100 lbf. (445 N)\nHumidified Deflection1\n\u2264 2/8\" (6.4 mm)\n\u2264 1/8\" (3.2 mm)\nNail Pull Resistance1\n\u2265 70 lbf. (311 N)\n\u2265 90 lbf. (400 N)\nHardness1 \u2013 Core, Edges and Ends\n\u2265 15 lbf. (67 N)\n\u2265 15 lbf. (67 N)\nBending Radius\n12' (3,658 mm)\n16' (4,877 mm)\nThermal Resistance5\nR = .43\nR = .50\nPermeance6\n2 perms\n2 perms\nWater Absorption1 (% of Weight)\n\u2264 5%\n\u2264 5%\nSurface Water Absorption1\n\u2264 .5 grams\n\u2264 .5 grams\nLinear Expansion with Change Moisture\n6.25 x 10-6\u201d/in./%RH\n6.25 x 10-6\u201d/in./%RH\nCoefficient of Thermal Expansion\n9.26 x 10-6\u201d/in./\u00b0F\n9.26 x 10-6\u201d/in./\u00b0F\nMold Resistance7, ASTM D3273\nScore of 10\nScore of 10\nMold Resistance8, ASTM D6329\nPass\nPass\nProduct Standard Compliance\nASTM C1178\nASTM C1178\nFire-Resistance Characteristics\nCore Type\nRegular\nType X\nUL Type Designation\nN/A\nFSW-6\nCombustibility2\nNon-combustible core\nNon-combustible core\nSurface Burning Characteristics3\nClass A\nClass A\nFlame Spread3\nSmoke Development3\nApplicable Standards and References\nASTM C473 Standard Test Methods for Physical Testing of Gypsum Panel Products\nASTM C518 Standard Test Method for Steady-State Thermal Transmission Properties by Means of the Heat Flow Meter Apparatus\nASTM C840 Standard Specification for Application and Finishing of Gypsum Board\nASTM C1178 Standard Specification for Coated Glass Mat Water-Resistant Gypsum Backing Panel\nASTM D3273 Standard Test Method for Resistance to Growth of Mold on the Surface of Interior Coatings in an Environmental Chamber\nASTM D6329 Standard Guide for Developing Methodology for Evaluating the Ability of Indoor Materials to Support Microbial Growth Using Static Environmental Chambers\nASTM E84 Standard Test Method for Surface Burning Characteristics of Building Materials\nASTM E96 Standard Test Methods for Water Vapor Transmission of Materials\nASTM E119 Standard Test Methods for Fire Tests of Building Construction and Materials\nASTM E136 Standard Test Method for Behavior of Materials in a Vertical Tube Furnace at 750\u02daC\nGypsum Association, GA-214, Levels of Finish for Gypsum Panel Products\nGypsum Association, GA-216, Application and Finishing of Gypsum Panel Products\nGypsum Association, GA-238, Guidelines for Prevention of Mold Growth on Gypsum Board\nGold Bond Building Products, LLC Manufacturer Standards, NGC Construction Guide\n1. Specified values per ASTM C1658, tested in accordance with ASTM C473. 2. Tested in accordance with ASTM E136. 3. Tested in accordance with ASTM E84. 4. Contact your local sales representative for all non-standard lengths and widths. Minimum order requirements may apply.\n5. Tested in accordance with ASTM C518. 6. Tested in accordance with ASTM E96. 7. Tested in accordance with ASTM D3273 and rated in accordance with ASTM D3274.\n8. Tested in accordance with ASTM D6329.\n18 | Gold Bond Building Products",
+        "start_char_idx": 0,
+        "end_char_idx": 3245,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "653dbcb4-8e1e-43b1-9ef9-22876e7249aa": {
+      "__data__": {
+        "id_": "653dbcb4-8e1e-43b1-9ef9-22876e7249aa",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "19",
+            "node_type": "4",
+            "metadata": {},
+            "hash": "37cefb5c2cf0b627ae0d8b6841aa3f9c31f8dd41fa1e88f657c75d8935dae527",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "887cffbf-b468-4808-b820-374db46fd251",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "575cb86be9b3456ebb38e8c8ded2ee237a9fd131483c21640d92b030ae39e508",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "6580e31b-5b29-4e1a-877e-ac7ce0a903a5",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "721de7e7e06b895c94582816952ef2e12d001222aff7aef985f56fcd8c6470a5",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "hash": "37cefb5c2cf0b627ae0d8b6841aa3f9c31f8dd41fa1e88f657c75d8935dae527",
+        "text": "Common eXP\u00ae Tile Backer Installation Applications\nSHOWER INSTALLATION\n1. eXP\u00ae Tile Backer\n2. Fiberglass Mesh Tape\n(Alkali-Resistant) Embedded in Joint Compound\n3. Latex Portland Cement Mortar\n4. Tile and Grout\n4\nSHOWER INSTALLATION\n1. Support Framing\n1/4\u201d / 12\u201d Slope Towards Drain\n2. Plywood, Min. 1/2\u201d\n3. eXP\u00ae Tile Backer\n6\n4. Membrane\n7\n5. Sealant\n4\n6. Latex Portland Cement Mortar\n7. Tile and Grout\n6\n4\n5\neXP Family of Glass Mat Products | 19",
+        "start_char_idx": 0,
+        "end_char_idx": 446,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "6580e31b-5b29-4e1a-877e-ac7ce0a903a5": {
+      "__data__": {
+        "id_": "6580e31b-5b29-4e1a-877e-ac7ce0a903a5",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "20",
+            "node_type": "4",
+            "metadata": {},
+            "hash": "721de7e7e06b895c94582816952ef2e12d001222aff7aef985f56fcd8c6470a5",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "653dbcb4-8e1e-43b1-9ef9-22876e7249aa",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "37cefb5c2cf0b627ae0d8b6841aa3f9c31f8dd41fa1e88f657c75d8935dae527",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "19b6e67e-e898-4e75-b349-4daa614e7f7a",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "3126d1110cf44856880761cb1e5c95158f9993d8c5143bde2f3150325ecd120a",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "hash": "721de7e7e06b895c94582816952ef2e12d001222aff7aef985f56fcd8c6470a5",
+        "text": "eXP\u00ae Interior Extreme\u00ae Increased Resistance to Incidental Moisture\nWhen Long-Term Exposure to Mold is a Concern\nYour project warrants added protection against mold and moisture in interior applications, and Gold Bond\u00ae eXP\u00ae Interior Extreme\u00ae Gypsum Panel is an excellent choice. When designing a building with a non-paper faced gypsum application, this gypsum panel features coated fiberglass facers as well as an enhanced moisture- and mold-resistant gypsum core. The inorganic glass mat is embedded in the core, giving it added strength and moisture-resistant properties.\nWith eXP Interior Extreme, you can use a single gypsum panel throughout the entire project, wherever gypsum board is specified. This helps to make your job seamless and offers you added peace of mind.\nConsider specifying eXP Interior Extreme for pre-rock applications, or before the building envelope is completely enclosed. Use it on the interior side of exterior walls, where moisture exposure is more likely to occur. It is also ideally suited for topping out, helping push the construction schedule to an on-time completion. This flexible substrate works well for both wood- and metal-framed construction.\nEasy to work with and handle, eXP Interior Extreme is also approved for specific UL fire-rated designs and it has also achieved UL GREENGUARD Gold Certification. UL GREENGUARD Certified products are certified to UL GREENGUARD standards for low chemical emissions into indoor air during product usage. For more information, visit: ul.com/gg.\n20 | Gold Bond Building Products\n09 29 00/NGC",
+        "start_char_idx": 0,
+        "end_char_idx": 1569,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "19b6e67e-e898-4e75-b349-4daa614e7f7a": {
+      "__data__": {
+        "id_": "19b6e67e-e898-4e75-b349-4daa614e7f7a",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "21",
+            "node_type": "4",
+            "metadata": {},
+            "hash": "3126d1110cf44856880761cb1e5c95158f9993d8c5143bde2f3150325ecd120a",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "6580e31b-5b29-4e1a-877e-ac7ce0a903a5",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "721de7e7e06b895c94582816952ef2e12d001222aff7aef985f56fcd8c6470a5",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "9508ec9f-5968-43f0-a060-dd2082a891a7",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "1e5dce0fa34c49671befbfd9ff8dde66eba499a7936ec14e325c270f7d88a02b",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "hash": "3126d1110cf44856880761cb1e5c95158f9993d8c5143bde2f3150325ecd120a",
+        "text": "1. Coated Fiberglass Mat\n2. Tapered Edges\n3. Enhanced Moisture- and Mold-Resistant Gypsum Core\nAPPLICATIONS\nGold Bond\u00ae eXP\u00ae Interior Extreme\u00ae Gypsum Panels consist of a moisture- and mold-resistant gypsum core encased in a coated, specially designed fiberglass mat on the face, back and sides. It is available in a Regular, Type X or Type C core (often specified where the weight and number of gypsum board layers are a concern). The glass mat is folded around the long edges to reinforce and protect the core.\nUse it wherever gypsum board is specified in interior applications for the entire project, wood or metal framing, for increased resistance to incidental moisture.\nSizes: 1/2\u201d (12.7 mm) Regular, 1/2\u201d (12.7 mm) Type C and 5/8\u201d (15.9 mm) Fire-Shield Type X or Type C panels are available in 4\u2019 (1,219 mm) nominal widths and in 8\u2019 (2,438 mm) to 12\u2019 (3,658 mm) lengths.\nFinishing: Perform finishing of eXP panels in accordance with GA-214. Joints between eXP panels may be finished with either paper tape and ready mix joint compound or setting compound. In most areas to receive final decoration, skim coating of the entire surface is recommended.\nADVANTAGES\nPROVIDES FIRE RESISTANCE\nINSTALLS FAST AND EASY\nFire-resistant material with a non-combustible gypsum\nFeatures GridMarX\u00ae guide marks on the panel to allow for\ncore helps protect framing elements, even when cladding is combustible.\n1/2\u201d (12.7 mm) Fire-Shield C, 5/8\u201d (15.9 mm) Fire-Shield Type X or Type C have specially formulated cores that are approved components in specific UL fire-rated designs.\nfaster and more accurate installation.\nMay use for pre-rock applications before building is completely enclosed, which may speed installation.\nVersatile product can be used throughout the entire project where gypsum board is specified.\nRESISTS MOISTURE AND MOLD\nOFFERS SUPERIOR DURABILITY\nResists the growth of mold per ASTM D3273 with a score of 10, the best possible score.\n12-month extended exposure warranty for typical weather conditions.\nDimensionally stable under changes in temperature and relative humidity.\nFor details about fire resistance, see installation recommendations on page 33.\neXP Family of Glass Mat Products | 21",
+        "start_char_idx": 0,
+        "end_char_idx": 2201,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "9508ec9f-5968-43f0-a060-dd2082a891a7": {
+      "__data__": {
+        "id_": "9508ec9f-5968-43f0-a060-dd2082a891a7",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "22",
+            "node_type": "4",
+            "metadata": {},
+            "hash": "134fe00fbc3c92ebc0d1afdccf5694e65448e9612bd6dc1de915867804fb6133",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "19b6e67e-e898-4e75-b349-4daa614e7f7a",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "3126d1110cf44856880761cb1e5c95158f9993d8c5143bde2f3150325ecd120a",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "1259930c-da5f-4a5e-9f15-914a2ab58a05",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "826228048f2a4dd2515f17b650cbc229e6d8600273202a5a812204c51556797d",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "hash": "1e5dce0fa34c49671befbfd9ff8dde66eba499a7936ec14e325c270f7d88a02b",
+        "text": "eXP\u00ae Interior Extreme\u00ae\nTECHNICAL DATA\nPhysical Properties\n1/2\u201d eXP Interior Extreme\n1/2\u201d eXP Interior Extreme Fire-Shield C\n5/8\u201d eXP Interior Extreme Fire-Shield\n5/8\u201d eXP Interior Extreme Fire-Shield C\nThickness1, Nominal\n1/2\" (12.7 mm)\n1/2\" (12.7 mm)\n5/8\" (15.9 mm)\n5/8\" (15.9 mm)\nWidth1, Nominal\n4' (1,219 mm)\n4' (1,219 mm)\n4' (1,219 mm)\n4' (1,219 mm)\nLength1, 4, Standard\n8' \u2013 12' (2,438 mm \u2013 3,658 mm)\n8' \u2013 12' (2,438 mm \u2013 3,658 mm)\n8' \u2013 12' (2,438 mm \u2013 3,658 mm)\n8' \u2013 12' (2,438 mm \u2013 3,658 mm)\nWeight, Nominal\n2.0 lbs./sq. ft. (9.76 k/m2)\n2.1 lbs./sq. ft. (10.25 k/m2)\n2.5 lbs./sq. ft. (12.21 k/m2)\n2.5 lbs./sq. ft. (12.21 k/m2)\nEdges1\nTapered\nTapered\nTapered\nTapered\nFlexural Strength1, Perpendicular\n\u2265 100 lbf. (445 N)\n\u2265 100 lbf. (445 N)\n\u2265 140 lbf. (623 N)\n\u2265 140 lbf. (623 N)\nFlexural Strength1, Parallel\n\u2265 80 lbf. (356 N)\n\u2265 80 lbf. (356 N)\n\u2265 100 lbf. (445 N)\n\u2265 100 lbf. (445 N)\nHumidified Deflection1\n\u2264 2/8\" (6.4 mm)\n\u2264 2/8\" (6.4 mm)\n\u2264 1/8\" (3.2 mm)\n\u2264 1/8\" (3.2 mm)\nNail Pull Resistance1\n\u2265 80 lbf. (356 N)\n\u2265 80 lbf. (356 N)\n\u2265 90 lbf. (400 N)\n\u2265 90 lbf. (400 N)\nHardness1 \u2013 Core, Edges and Ends\n\u2265 15 lbf. (67 N)\n\u2265 15 lbf. (67 N)\n\u2265 15 lbf. (67 N)\n\u2265 15 lbf.",
+        "start_char_idx": 0,
+        "end_char_idx": 1160,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "1259930c-da5f-4a5e-9f15-914a2ab58a05": {
+      "__data__": {
+        "id_": "1259930c-da5f-4a5e-9f15-914a2ab58a05",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "22",
+            "node_type": "4",
+            "metadata": {},
+            "hash": "134fe00fbc3c92ebc0d1afdccf5694e65448e9612bd6dc1de915867804fb6133",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "9508ec9f-5968-43f0-a060-dd2082a891a7",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "1e5dce0fa34c49671befbfd9ff8dde66eba499a7936ec14e325c270f7d88a02b",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "90e7b486-9198-40c2-8326-3243c39e6a9e",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "4b8985fab09c5763f57156bcf11ed59a6ec09c5a0712d6b861edfbf4441a95d6",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "hash": "826228048f2a4dd2515f17b650cbc229e6d8600273202a5a812204c51556797d",
+        "text": "(356 N)\n\u2265 100 lbf. (445 N)\n\u2265 100 lbf. (445 N)\nHumidified Deflection1\n\u2264 2/8\" (6.4 mm)\n\u2264 2/8\" (6.4 mm)\n\u2264 1/8\" (3.2 mm)\n\u2264 1/8\" (3.2 mm)\nNail Pull Resistance1\n\u2265 80 lbf. (356 N)\n\u2265 80 lbf. (356 N)\n\u2265 90 lbf. (400 N)\n\u2265 90 lbf. (400 N)\nHardness1 \u2013 Core, Edges and Ends\n\u2265 15 lbf. (67 N)\n\u2265 15 lbf. (67 N)\n\u2265 15 lbf. (67 N)\n\u2265 15 lbf. (67 N)\nBending Radius\n6' (1,829 mm)\n6' (1,829 mm)\n8' (2,438 mm)\n8' (2,438 mm)\nThermal Resistance5\nR = .43\nR = .43\nR = .50\nR = .50\nPermeance6\n22 perms\n22 perms\n19 perms\n19 perms\nWater Absorption1 (% of Weight)\n\u2264 5%\n\u2264 5%\n\u2264 5%\n\u2264 5%\nSurface Water Absorption1\n\u2264 1.6 grams\n\u2264 1.6 grams\n\u2264 1.6 grams\n\u2264 1.6 grams\nLinear Expansion with Change Moisture\n6.25 x 10-6\u201d/in./%RH\n6.25 x 10-6\u201d/in./%RH\n6.25 x 10-6\u201d/in./%RH\n6.25 x 10-6\u201d/in./%RH\nCoefficient of Thermal Expansion\n9.26 x 10-6\u201d/in./\u00b0F\n9.26 x 10-6\u201d/in./\u00b0F\n9.26 x 10-6\u201d/in./\u00b0F\n9.26 x 10-6\u201d/in./\u00b0F\nMold Resistance7, ASTM D3273\nScore of 10\nScore of 10\nScore of 10\nScore of 10\nMold Resistance8, ASTM D6329\nPass\nPass\nPass\nPass\nProduct Standard Compliance\nASTM C1658\nASTM C1658\nASTM C1658\nASTM C1658\nFire-Resistance Characteristics\nCore Type\nRegular\nType C\nType X\nType C\nUL Type Designation\nN/A\neXP-C\nFSW-6\neXP-C\nCombustibility2\nNon-combustible core\nNon-combustible core\nNon-combustible core\nNon-combustible core\nSurface Burning Characteristics3\nClass A\nClass A\nClass A\nClass A\nFlame Spread3\nSmoke Development3\nApplicable Standards and References\nASTM C473 Standard Test Methods for Physical Testing of Gypsum Panel Products\nASTM C518 Standard Test Method for Steady-State Thermal Transmission Properties by Means of the Heat Flow Meter Apparatus\nASTM C840 Standard Specification for Application and Finishing of Gypsum Board\nASTM C1658 Standard Specification for Glass Mat Gypsum Panels\nASTM D3273 Standard Test Method for Resistance to Growth of Mold on the Surface of Interior Coatings in an Environmental Chamber\nASTM D6329 Standard Guide for Developing Methodology for Evaluating the Ability of Indoor Materials to Support Microbial Growth Using Static Environmental Chambers\nASTM E84 Standard Test Method for Surface Burning Characteristics of Building Materials\nASTM E96 Standard Test Methods for Water Vapor Transmission of Materials\nASTM E119 Standard Test Methods for Fire Tests of Building Construction and Materials\nASTM E136 Standard Test Method for Behavior of Materials in a Vertical Tube Furnace at 750\u02daC\nGypsum Association, GA-214, Levels of Finish for Gypsum Panel Products\nGypsum Association, GA-216, Application and Finishing of Gypsum Panel Products\nGypsum Association, GA-238, Guidelines for Prevention of Mold Growth on Gypsum Board\nGypsum Association, GA-253, Application of Gypsum Sheathing\nGold Bond Building Products, LLC Manufacturer Standards, NGC Construction Guide\n1. Specified values per ASTM C1658, tested in accordance with ASTM C473. 2. Tested in accordance with ASTM E136. 3. Tested in accordance with ASTM E84. 4. Please consult your local sales representative for all non-standard lengths and\n5. Tested in accordance with ASTM C518. 6. Tested in accordance with ASTM E96.",
+        "start_char_idx": 840,
+        "end_char_idx": 3906,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "90e7b486-9198-40c2-8326-3243c39e6a9e": {
+      "__data__": {
+        "id_": "90e7b486-9198-40c2-8326-3243c39e6a9e",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "22",
+            "node_type": "4",
+            "metadata": {},
+            "hash": "134fe00fbc3c92ebc0d1afdccf5694e65448e9612bd6dc1de915867804fb6133",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "1259930c-da5f-4a5e-9f15-914a2ab58a05",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "826228048f2a4dd2515f17b650cbc229e6d8600273202a5a812204c51556797d",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "27e004e1-f70e-4d19-9fe7-ba28e269bcbb",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "8089a8e400395fe5993347c0659c4ff3a05e3d04c02818271cd33af728a42b1d",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "hash": "4b8985fab09c5763f57156bcf11ed59a6ec09c5a0712d6b861edfbf4441a95d6",
+        "text": "Specified values per ASTM C1658, tested in accordance with ASTM C473. 2. Tested in accordance with ASTM E136. 3. Tested in accordance with ASTM E84. 4. Please consult your local sales representative for all non-standard lengths and\n5. Tested in accordance with ASTM C518. 6. Tested in accordance with ASTM E96. 7. Tested in accordance with ASTM D3273 and rated in accordance with ASTM D3274. 8. Tested in accordance with ASTM D6329.\nwidths. Minimum order requirements may apply.\n22 | Gold Bond Building Products",
+        "start_char_idx": 3596,
+        "end_char_idx": 4107,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "27e004e1-f70e-4d19-9fe7-ba28e269bcbb": {
+      "__data__": {
+        "id_": "27e004e1-f70e-4d19-9fe7-ba28e269bcbb",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "23",
+            "node_type": "4",
+            "metadata": {},
+            "hash": "8089a8e400395fe5993347c0659c4ff3a05e3d04c02818271cd33af728a42b1d",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "90e7b486-9198-40c2-8326-3243c39e6a9e",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "4b8985fab09c5763f57156bcf11ed59a6ec09c5a0712d6b861edfbf4441a95d6",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "496aa820-ed8b-413b-b29f-32d713be0b02",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "d58ec9c5c4aaa1504bbc792c67dd455b7351b93565f0f321aca0cee91fa73c19",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "hash": "8089a8e400395fe5993347c0659c4ff3a05e3d04c02818271cd33af728a42b1d",
+        "text": "Common eXP\u00ae Interior Extreme\u00ae Installation Applications\nPRE-ROCK INSTALLATION\n1. Topping out with eXP\u00ae Interior Extreme\u00ae Gypsum Panel in an Exposed Environment\n2. Pre-rock with eXP\u00ae Interior Extreme\u00ae Gypsum Panel\nSOFFIT INSTALLATION\n1. eXP\u00ae Interior Extreme\u00ae Gypsum Panel\n2. Mesh Tape Set in Setting Compound\n3. Skim Coat Setting Compound\n4. eXP\u00ae Sheathing\n4\neXP Family of Glass Mat Products | 23",
+        "start_char_idx": 0,
+        "end_char_idx": 396,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "496aa820-ed8b-413b-b29f-32d713be0b02": {
+      "__data__": {
+        "id_": "496aa820-ed8b-413b-b29f-32d713be0b02",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "24",
+            "node_type": "4",
+            "metadata": {},
+            "hash": "d58ec9c5c4aaa1504bbc792c67dd455b7351b93565f0f321aca0cee91fa73c19",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "27e004e1-f70e-4d19-9fe7-ba28e269bcbb",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "8089a8e400395fe5993347c0659c4ff3a05e3d04c02818271cd33af728a42b1d",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "57fbb6ce-5457-4263-9a6c-28b537e00062",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "f8383367cf3784d897644374e3b0e10dfb71d27339cc454273e8564aca893ca9",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "hash": "d58ec9c5c4aaa1504bbc792c67dd455b7351b93565f0f321aca0cee91fa73c19",
+        "text": "eXP\u00ae Interior Extreme\u00ae AR Strong and Durable\nFor High-Traffic Areas Where Indentation and Surface Abrasion are Concerns\nWe have taken the moisture- and mold-resistant qualities of our eXP\u00ae Interior Extreme\u00ae IE and improved upon it with Gold Bond\u00ae eXP\u00ae Interior Extreme\u00ae AR (Abuse Resistant) Gypsum Panel. In addition to the standard IE performance benefits, this coated fiberglass-faced gypsum panel also offers an extra level of surface durability.\neXP Interior Extreme AR is designed for a non-paper faced gypsum application, utilizing coated glass mat facers. The specially formulated gypsum core combines enhanced protection against moisture and mold with added surface-abrasion resistance. When you think about eXP Interior Extreme AR, think strong and durable.\nAs with eXP Interior Extreme, consider specifying Interior Extreme AR for pre-rock applications before the building envelope is completely enclosed.\nEasy to work with and handle, it is also approved for specific UL fire-rated designs and it has also achieved UL GREENGUARD Gold Certification. UL GREENGUARD Certified products are certified to UL GREENGUARD standards for low chemical emissions into indoor air during product usage. For more information, visit: ul.com/gg.\nAreas prone to surface abrasion and indentation include:\nCorridors\nLobby areas\nEntryways\nWarehouses\n24 | Gold Bond Building Products\n09 29 00/NGC",
+        "start_char_idx": 0,
+        "end_char_idx": 1384,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "57fbb6ce-5457-4263-9a6c-28b537e00062": {
+      "__data__": {
+        "id_": "57fbb6ce-5457-4263-9a6c-28b537e00062",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "25",
+            "node_type": "4",
+            "metadata": {},
+            "hash": "f8383367cf3784d897644374e3b0e10dfb71d27339cc454273e8564aca893ca9",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "496aa820-ed8b-413b-b29f-32d713be0b02",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "d58ec9c5c4aaa1504bbc792c67dd455b7351b93565f0f321aca0cee91fa73c19",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "b7541cbd-5089-4a6f-87ec-81a95464e385",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "6728e0ef314c245a61832c75c39b79afea757f2485bab2946f09f441303c0f0f",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "hash": "f8383367cf3784d897644374e3b0e10dfb71d27339cc454273e8564aca893ca9",
+        "text": "1. Coated Fiberglass Mat\n2. Tapered Edges\n3. Enhanced Moisture- and Mold-Resistant Gypsum Core\nAPPLICATIONS\nGold Bond\u00ae eXP\u00ae Interior Extreme\u00ae AR Gypsum Panels consist of an abuse-, moisture- and mold-resistant gypsum core encased in a coated, specially designed glass mat on the face, back and sides. In addition to moisture and mold resistance, the AR panel has a denser core and an enhanced glass mat for increased resistance to indentation and abrasion. It is available in a Type X core. The glass mat is folded around the long edges to reinforce and protect the core.\nUse it for interior applications in areas prone to surface abrasion and indentation, including corridors, entryways, lobby areas and warehouses.\nSizes: 5/8\u201d (15.9 mm) Type X Panels are available in 4\u2019 (1,219 mm) nominal widths and in standard lengths of 8\u2019 (2,438 mm) to 12\u2019 (3,658 mm).\nFinishing: Perform finishing of eXP panels in accordance with GA-214. Joints between eXP panels may be finished with either paper tape and ready mix joint compound or setting compound. In most areas to receive final decoration, skim coating of the entire surface is recommended.\nADVANTAGES\nPROVIDES FIRE RESISTANCE\nINSTALLS FAST AND EASY\nFire-resistant material with a non-combustible gypsum\nFeatures GridMarX\u00ae guide marks on the panel to allow for faster and more accurate installation.\nFeatures GridMarX\u00ae guide marks on the panel to allow for faster and more accurate installation.\nCoated glass mat facers for easy handling.\nManufactured to meet ASTM C1658 \u201cStandard Specification for Glass Mat Gypsum Substrate for use as Sheathing\u201d.\nOFFERS SUPERIOR DURABILITY\nRESISTS MOISTURE AND MOLD\n12-month extended exposure warranty for typical weather conditions.\nResists the growth of mold per ASTM D3273 with a score of 10, the best possible score.\nDimensionally stable under changes in temperature and relative humidity.\nPROVIDES ABUSE RESISTANCE\nProvides greater resistance to surface abuse and impact penetration over gypsum board.\nFor details about fire resistance, see installation recommendations on page 33.\neXP Family of Glass Mat Products | 25",
+        "start_char_idx": 0,
+        "end_char_idx": 2107,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "b7541cbd-5089-4a6f-87ec-81a95464e385": {
+      "__data__": {
+        "id_": "b7541cbd-5089-4a6f-87ec-81a95464e385",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "26",
+            "node_type": "4",
+            "metadata": {},
+            "hash": "6728e0ef314c245a61832c75c39b79afea757f2485bab2946f09f441303c0f0f",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "57fbb6ce-5457-4263-9a6c-28b537e00062",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "f8383367cf3784d897644374e3b0e10dfb71d27339cc454273e8564aca893ca9",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "c69ddae5-0433-43d7-affb-5f97d50a16b7",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "65124581fcd8219e5033911988f7124740a4a5511322f4d70af9d4b153eea9a4",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "hash": "6728e0ef314c245a61832c75c39b79afea757f2485bab2946f09f441303c0f0f",
+        "text": "eXP\u00ae Interior Extreme\u00ae AR\nTECHNICAL DATA Physical Properties\nThickness1, Nominal\neXP Interior Extreme AR 5/8\" (15.9 mm)\nWidth1, Nominal\n4' (1,219 mm)\nLength1,4, Standard\n8' \u2013 12' (2,438 mm \u2013 3,658 mm)\nWeight, Nominal\n2.8 lbs./sq. ft. (13.67 k/m2)\nEdges1\nTapered\nFlexural Strength1, Perpendicular\n\u2265 140 lbf. (623 N)\nFlexural Strength1, Parallel\n\u2265 100 lbf. (445 N)\nHumidified Deflection1\n\u2264 1/8\" (3.2 mm)\nNail Pull Resistance1\n\u2265 90 lbf. (400 N)\nHardness1 \u2013 Core, Edges and Ends\n\u2265 15 lbf. (67 N)\nBending Radius\n8' (2,438 mm)\nThermal Resistance5\nR = .50\nPermeance6\n19 perms\nWater Absorption1 (% of Weight)\n\u2264 5%\nSurface Water Absorption1\n\u2264 1.6 grams\nLinear Expansion with Change Moisture\n6.25 x 10-6\u201d/in./%RH\nCoefficient of Thermal Expansion\n9.26 x 10-6\u201d/in./\u00b0F\nMold Resistance7, ASTM 3273\nScore of 10\nMold Resistance8, ASTM 6329\nPass\nSurface Abrasion9\nLevel 3\nIndentation9\nLevel 1\nSoft-Body Impact9\nLevel 2\nHard-Body Impact9\nLevel 1\nProduct Standard Compliance\nASTM C1658\nFire-Resistance Characteristics\nCore Type\nType X\nUL Type Designation\nFSW-6\nCombustibility2\nNon-combustible core\nSurface Burning Characteristics3\nClass A\nFlame Spread3\nSmoke Development3\nApplicable Standards and References ASTM C473 Standard Test Methods for Physical Testing of Gypsum Panel Products\nASTM C518 Standard Test Method for Steady-State Thermal Transmission Properties by Means of the Heat Flow Meter Apparatus\nASTM C840 Standard Specification for Application and Finishing of Gypsum Board\nASTM C1629 Standard Specification for Abuse-Resistant Nondecorated Interior Gypsum Panel Products and FIber-Reinforced Cement Panels\nASTM C1658 Standard Specification for Glass Mat Gypsum Panels\nASTM D3273 Standard Test Method for Resistance to Growth of Mold on the Surface of Interior Coatings in an Environmental Chamber\nASTM D6329 Standard Guide for Developing Methodology for Evaluating the Ability of Indoor Materials to Support Microbial Growth Using Static Environmental Chambers\nASTM E84 Standard Test Method for Surface Burning Characteristics of Building Materials\nASTM E96 Standard Test Methods for Water Vapor Transmission of Materials\nASTM E119 Standard Test Methods for Fire Tests of Building Construction and Materials\nASTM E136 Standard Test Method for Behavior of Materials in a Vertical Tube Furnace at 750\u02daC\nGypsum Association, GA-214, Levels of Finish for Gypsum Panel Products\nGypsum Association, GA-216, Application and Finishing of Gypsum Panel Products\nGypsum Association, GA-238, Guidelines for Prevention of Mold Growth on Gypsum Board\nGypsum Association, GA-253, Application of Gypsum Sheathing\nGold Bond Building Products, LLC Manufacturer Standards, NGC Construction Guide\n1. Specified values per ASTM C1658, tested in accordance with ASTM C473. 2. Tested in accordance with ASTM E136. 3. Tested in accordance with ASTM E84. 4. Contact your local sales representative for all non-standard lengths and widths.\n6. Tested in accordance with ASTM E96. 7. Tested in accordance with ASTM D3273 and rated in accordance with ASTM D3274. 8. Tested in accordance with ASTM D6329. 9. Tested in accordance with ASTM methods in ASTM C1629 \u2013 D4977\nMinimum order requirements may apply.\n5. Tested in accordance with ASTM C518.\n(Surface Abrasion), D5420 (Indentation), E695 (Soft-Body Impact), Annex A1 (Hard-Body Impact).\n26 | Gold Bond Building Products",
+        "start_char_idx": 0,
+        "end_char_idx": 3337,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "c69ddae5-0433-43d7-affb-5f97d50a16b7": {
+      "__data__": {
+        "id_": "c69ddae5-0433-43d7-affb-5f97d50a16b7",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "27",
+            "node_type": "4",
+            "metadata": {},
+            "hash": "65124581fcd8219e5033911988f7124740a4a5511322f4d70af9d4b153eea9a4",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "b7541cbd-5089-4a6f-87ec-81a95464e385",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "6728e0ef314c245a61832c75c39b79afea757f2485bab2946f09f441303c0f0f",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "7edbc48f-7ea3-4d32-9f61-571b0d3eed16",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "46ba262f9158cadc6135f5770bdac2345d1613bb50c49de29023d5b706686c9c",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "hash": "65124581fcd8219e5033911988f7124740a4a5511322f4d70af9d4b153eea9a4",
+        "text": "Abuse and Impact Test Results (ASTM C1629)\nRECOMMENDED CLASSIFICATION LEVELS FOR COMPLIANCE Test/Classification Level\nGold Bond eXP Interior Extreme AR Gypsum Board\nASTM D4977 \u2013 Surface Abrasion\nASTM D5420 \u2013 Surface Indentation\nASTM E695 \u2013 Soft-Body Impact\nAnnex A1 \u2013 Hard-Body Impact\n1*\nAbuse products are not recommended for areas prone to cavity penetration.\nSurface Abrasion MODIFIED ASTM D4977\nThis test measures the ability of a gypsum panel surface to resist scratches and scuffs by subjecting the panel to 50 back and forth cycles with a wire brush. The depth of the abrasion is measured. The test was originally developed to test granule adhesion to mineral surfaced roofing and was modified by adding 25 pounds of additional weight to the wire brush.\nTEST RESULTS Classification Level\nAbraded Depth Maximum\n0.126\u201d (3.2 mm)\n0.059\u201d (1.5 mm)\n0.010\u201d (0.3 mm)\nSurface Indentation ASTM D5420 - GARDNER IMPACT TEST\nThis test measures the ability of a gypsum panel to resist dents by a small hard object, by raising and dropping a hemispherical rod onto the gypsum panel. The depth of the indentation is measured. The original test was developed to test flat, rigid sheets of plastic.\nTEST RESULTS Classification Level\nIndentation Maximum\n0.150\u201d (3.8 mm)\n0.100\u201d (2.5 mm)\n0.050\u201d (1.3 mm)\nSingle Drop Soft-Body Impact MODIFIED ASTM E695\nThis test measures the ability of a gypsum panel to withstand a single impact of a heavy soft object. This test is conducted by swinging a leather bag loaded with steel pellets into the panel. When the panel breaks, the height of the drop and weight of the bag are used to calculate the foot-pound measurement required to break the panel. The test was originally developed to measure relative resistance of wall, floor, and roof construction to impact loading.\nTEST RESULTS Classification Level\nSoft Body Minimum\n90\u2019-lbs. (112 J)\n195\u2019-lbs. (265 J)\n300\u2019-lbs. (408 J)\nHard-Body Impact ANNEX A1\nThis test measures the ability of a gypsum panel to withstand the impact of a hard object such as a hammer or heel of a boot. A panel is impacted with 2-3/4\u201d steel cylinder mounted to a ram. Weights are added to the ram and the panel is impacted one time. The maximum amount of impact force the panel can withstand without breaching the stud cavity is reported. This is a new test proposed by manufacturers of high performance panels.\nTEST RESULTS Classification Level\nHard Body Minimum\n50\u2019-lbs. (68 J)\n100\u2019-lbs. (136 J)\n150\u2019-lbs. (204 J)\nTests witnessed by H.P. White Laboratory, Inc.\neXP Family of Glass Mat Products | 27",
+        "start_char_idx": 0,
+        "end_char_idx": 2552,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "7edbc48f-7ea3-4d32-9f61-571b0d3eed16": {
+      "__data__": {
+        "id_": "7edbc48f-7ea3-4d32-9f61-571b0d3eed16",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "28",
+            "node_type": "4",
+            "metadata": {},
+            "hash": "46ba262f9158cadc6135f5770bdac2345d1613bb50c49de29023d5b706686c9c",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "c69ddae5-0433-43d7-affb-5f97d50a16b7",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "65124581fcd8219e5033911988f7124740a4a5511322f4d70af9d4b153eea9a4",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "fc60ef81-3fda-4964-be8d-8c2d5a62cab4",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "9317130cbb21cd1e0943f48d096bcb042223448dec54296c3c0d84bf4e3ebc29",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "hash": "46ba262f9158cadc6135f5770bdac2345d1613bb50c49de29023d5b706686c9c",
+        "text": "eXP\u00ae Interior Extreme\u00ae IR Provides Resistance to Incidental Moisture and Wall Penetration\nFor Areas Susceptible to Extreme Abuse and Impact Penetration\neXP\u00ae Interior Extreme\u00ae IR Gypsum Panels are formulated for ultra-high traffic areas such as corridors in healthcare facilities, schools and correctional institutions, or where abuse may be intentional rather than accidental, making it an even more durable and impact- resistant version of eXP\u00ae Interior Extreme\u00ae AR Gypsum Panels.\neXP Interior Extreme IR has the same added protection against mold and moisture in interior applications as eXP Interior Extreme. IR is designed for a non-paper faced gypsum application and anywhere impact penetration and heavy traffic is a concern. It utilizes coated fiberglass facers, along with a specially formulated fiberglass mesh embedded into the gypsum core. IR provides a high level of surface-impact resistance. When you think about eXP Interior Extreme IR, think the toughest board in the series.\neXP Interior Extreme IR has the features you\u2019re already familiar with in our Interior Extreme and Interior Extreme AR products. This flexible substrate works well for both wood- and metal-framed construction. Approved for specific UL fire-rated designs, it has also achieved UL GREENGUARD Gold Certification. UL GREENGUARD Certified products are certified to UL GREENGUARD standards for low chemical emissions into indoor air during product usage. For more information, visit: ul.com/gg.\nAreas prone to cavity penetration include:\nGymnasiums\nWorkshop\nSchools\nCorrectional facilities\n28 | Gold Bond Building Products\n09 29 00/NGC",
+        "start_char_idx": 0,
+        "end_char_idx": 1620,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "fc60ef81-3fda-4964-be8d-8c2d5a62cab4": {
+      "__data__": {
+        "id_": "fc60ef81-3fda-4964-be8d-8c2d5a62cab4",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "29",
+            "node_type": "4",
+            "metadata": {},
+            "hash": "9317130cbb21cd1e0943f48d096bcb042223448dec54296c3c0d84bf4e3ebc29",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "7edbc48f-7ea3-4d32-9f61-571b0d3eed16",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "46ba262f9158cadc6135f5770bdac2345d1613bb50c49de29023d5b706686c9c",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "96e15ee8-18f9-412f-a2bf-81fdf290dd10",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "ece690b1b9bced9cb1b0d668844620f60237a3e0c577343a8624b39b16ab1642",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "hash": "9317130cbb21cd1e0943f48d096bcb042223448dec54296c3c0d84bf4e3ebc29",
+        "text": "4\n1. Coated Fiberglass Mat\n2. Tapered Edges\n3. Enhanced Moisture- and Mold-Resistant Gypsum Core\n4. Fiberglass Mesh\nAPPLICATIONS\nGold Bond\u00ae eXP\u00ae Interior Extreme\u00ae IR Gypsum Panels consist of an impact-resistant and a moisture- and mold-resistant gypsum core encased in a coated, specially designed glass mat on the face, back and sides. In addition to moisture and mold resistance, the impact- resistant panel has a denser core and an enhanced glass mat for increased resistance to indentation and impact. Additionally, the fiberglass mesh embedded into the core enhances impact resistance. It is available in a Type X core. The glass mat is folded around the long edges to reinforce and protect the core.\nUse it for interior applications requiring increased resistance to incidental moisture and wall penetrations. It is ideal for areas prone to cavity penetration, including gymnasiums, correctional facilities, schools and workshops.\nSizes: 5/8\u201d (15.9 mm) Type X panels are available in 4\u2019 (1,219 mm) nominal widths and standard lengths of 8\u2019 (2,438 mm) to 12\u2019 (3,658 mm).\nFinishing: Perform finishing of eXP panels in accordance with GA-214. Joints between eXP panels may be finished with either paper tape and ready mix joint compound or setting compound. In most areas to receive final decoration, skim coating of the entire surface is recommended.\nADVANTAGES\nPROVIDES FIRE RESISTANCE\nINSTALLS FAST AND EASY\nFire-resistant material with a non-combustible gypsum\nFeatures GridMarX\u00ae guide marks on the panel to allow for faster and more accurate installation.\nFeatures GridMarX\u00ae guide marks on the panel to allow for faster and more accurate installation.\nCoated glass mat facers for easy handling.\nApproved component in specific UL fire-rated designs.\nOFFERS SUPERIOR DURABILITY\nRESISTS MOISTURE AND MOLD\n12-month extended exposure warranty for typical weather\nResists the growth of mold per ASTM D3273 with a score of 10, the best possible score.\nResists the growth of mold per ASTM D3273 with a score of 10, the best possible score.\nPROVIDES IMPACT RESISTANCE\nDimensionally stable under changes in temperature and relative humidity.\nProvides greater resistance to surface abuse and impact penetration over gypsum board.\nFor details about fire resistance, see installation recommendations on page 33.\neXP Family of Glass Mat Products | 29",
+        "start_char_idx": 0,
+        "end_char_idx": 2344,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "96e15ee8-18f9-412f-a2bf-81fdf290dd10": {
+      "__data__": {
+        "id_": "96e15ee8-18f9-412f-a2bf-81fdf290dd10",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "30",
+            "node_type": "4",
+            "metadata": {},
+            "hash": "ece690b1b9bced9cb1b0d668844620f60237a3e0c577343a8624b39b16ab1642",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "fc60ef81-3fda-4964-be8d-8c2d5a62cab4",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "9317130cbb21cd1e0943f48d096bcb042223448dec54296c3c0d84bf4e3ebc29",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "b456b174-d147-4785-8f10-9313d65c19b3",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "c9231490d2a02354bfad9acfcb6c638593df844a0790ee62985b5ca49cf2d9b7",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "hash": "ece690b1b9bced9cb1b0d668844620f60237a3e0c577343a8624b39b16ab1642",
+        "text": "eXP\u00ae Interior Extreme\u00ae IR\nTECHNICAL DATA Physical Properties\nThickness1, Nominal\neXP Interior Extreme IR 5/8\" (15.9 mm)\nWidth1, Nominal\n4' (1,219 mm)\nLength1, 4, Standard\n8' \u2013 12' (2,438 mm \u2013 3,658 mm)\nWeight, Nominal\n2.8 lbs./sq. ft. (13.67 k/m2)\nEdges1\nTapered\nFlexural Strength1, Perpendicular\n\u2265 140 lbf. (623 N)\nFlexural Strength1, Parallel\n\u2265 100 lbf. (445 N)\nHumidified Deflection1\n\u2264 1/8\" (3.2 mm)\nNail Pull Resistance1\n\u2265 90 lbf. (400 N)\nHardness1 \u2013 Core, Edges and Ends\n\u2265 15 lbf. (67 N)\nBending Radius\n8' (2,438 mm)\nThermal Resistance5\nR = .50\nPermeance6\n19 perms\nWater Absorption1 (% of Weight)\n\u2264 5%\nSurface Water Absorption1\n\u2264 1.6 grams\nLinear Expansion with Change Moisture\n6.25 x 10-6\u201d/in./%RH\nCoefficient of Thermal Expansion\n9.26 x 10-6\u201d/in./\u00b0F\nMold Resistance7, ASTM 3273\nScore of 10\nMold Resistance8, ASTM 6329\nPass\nSurface Abrasion9\nLevel 3\nIndentation9\nLevel 1\nSoft-Body Impact9\nLevel 3\nHard-Body Impact9\nLevel 2\nProduct Standard Compliance\nASTM C1658\nFire-Resistance Characteristics\nCore Type\nType X\nUL Type Designation\nFSW-6\nCombustibility2\nNon-combustible core\nSurface Burning Characteristics3\nClass A\nFlame Spread3\nSmoke Development3\nApplicable Standards and References ASTM C473 Standard Test Methods for Physical Testing of Gypsum Panel Products\nASTM C518 Standard Test Method for Steady-State Thermal Transmission Properties by Means of the Heat Flow Meter Apparatus\nASTM C840 Standard Specification for Application and Finishing of Gypsum Board\nASTM C1629 Standard Specification for Abuse-Resistant Nondecorated Interior Gypsum Panel Products and FIber-Reinforced Cement Panels\nASTM C1658 Standard Specification for Glass Mat Gypsum Panels\nASTM D3273 Standard Test Method for Resistance to Growth of Mold on the Surface of Interior Coatings in an Environmental Chamber\nASTM D6329 Standard Guide for Developing Methodology for Evaluating the Ability of Indoor Materials to Support Microbial Growth Using Static Environmental Chambers\nASTM E84 Standard Test Method for Surface Burning Characteristics of Building Materials\nASTM E96 Standard Test Methods for Water Vapor Transmission of Materials\nASTM E119 Standard Test Methods for Fire Tests of Building Construction and Materials\nASTM E136 Standard Test Method for Behavior of Materials in a Vertical Tube Furnace at 750\u02daC\nGypsum Association, GA-214, Levels of Finish for Gypsum Panel Products\nGypsum Association, GA-216, Application and Finishing of Gypsum Panel Products\nGypsum Association, GA-238, Guidelines for Prevention of Mold Growth on Gypsum Board\nGypsum Association, GA-253, Application of Gypsum Sheathing\nGold Bond Building Products, LLC Manufacturer Standards, NGC Construction Guide\n1. Specified values per ASTM C1658, tested in accordance with ASTM C473. 2. Tested in accordance with ASTM E136. 3. Tested in accordance with ASTM E84. 4. Contact your local sales representative for all non-standard lengths and widths. Minimum order requirements may apply.\n5. Tested in accordance with ASTM C518.\n6. Tested in accordance with ASTM E96. 7. Tested in accordance with ASTM D3273 and rated in accordance with ASTM D3274. 8. Tested in accordance with ASTM D6329. 9. Tested in accordance with ASTM methods in ASTM C1629 \u2013 D4977 (Surface Abrasion), D5420 (Indentation), E695 (Soft-Body Impact), Annex A1 (Hard-Body Impact).\n30 | Gold Bond Building Products",
+        "start_char_idx": 0,
+        "end_char_idx": 3338,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "b456b174-d147-4785-8f10-9313d65c19b3": {
+      "__data__": {
+        "id_": "b456b174-d147-4785-8f10-9313d65c19b3",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "31",
+            "node_type": "4",
+            "metadata": {},
+            "hash": "c9231490d2a02354bfad9acfcb6c638593df844a0790ee62985b5ca49cf2d9b7",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "96e15ee8-18f9-412f-a2bf-81fdf290dd10",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "ece690b1b9bced9cb1b0d668844620f60237a3e0c577343a8624b39b16ab1642",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "eb5407c7-6e6f-4af0-83c1-0ab95f02cacc",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "365c85b0b6527e8aa1ad34b6cda2f456ca35deb4cca257d2b504c2f9b696da0f",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "hash": "c9231490d2a02354bfad9acfcb6c638593df844a0790ee62985b5ca49cf2d9b7",
+        "text": "Abuse And Impact Test Results (ASTM C1629)\nRECOMMENDED CLASSIFICATION LEVELS FOR COMPLIANCE Test/Classification Level\nGold Bond eXP Interior Extreme IR Gypsum Board\nASTM D4977 \u2013 Surface Abrasion\nASTM D5420 \u2013 Surface Indentation\nASTM E695 \u2013 Soft-Body Impact\nAnnex A1 \u2013 Hard-Body Impact\nSurface Abrasion MODIFIED ASTM D4977\nThis test measures the ability of a gypsum panel surface to resist scratches and scuffs by subjecting the panel to 50 back and forth cycles with a wire brush. The depth of the abrasion is measured. The test was originally developed to test granule adhesion to mineral surfaced roofing and was modified by adding 25 pounds of additional weight to the wire brush.\nTEST RESULTS Classification Level\nAbraded Depth Maximum\n0.126\u201d (3.2 mm)\n0.059\u201d (1.5 mm)\n0.010\u201d (0.3 mm)\nSurface Indentation ASTM D5420 - GARDNER IMPACT TEST\nThis test measures the ability of a gypsum panel to resist dents by a small hard object, by raising and dropping a hemispherical rod onto the gypsum panel. The depth of the indentation is measured. The original test was developed to test flat, rigid sheets of plastic.\nTEST RESULTS Classification Level\nIndentation Maximum\n0.150\u201d (3.8 mm)\n0.100\u201d (2.5 mm)\n0.050\u201d (1.3 mm)\nSingle Drop Soft-Body Impact MODIFIED ASTM E695\nThis test measures the ability of a gypsum panel to withstand a single impact of a heavy soft object. This test is conducted by swinging a leather bag loaded with steel pellets into the panel. When the panel breaks, the height of the drop and weight of the bag are used to calculate the foot-pound measurement required to break the panel. The test was originally developed to measure relative resistance of wall, floor, and roof construction to impact loading.\nTEST RESULTS Classification Level\nSoft Body Minimum\n90\u2019-lbs. (112 J)\n195\u2019-lbs. (265 J)\n300\u2019-lbs. (408 J)\nHard-Body Impact ANNEX A1\nThis test measures the ability of a gypsum panel to withstand the impact of a hard object such as a hammer or heel of a boot. A panel is impacted with 2-3/4\u201d steel cylinder mounted to a ram. Weights are added to the ram and the panel is impacted one time. The maximum amount of impact force the panel can withstand without breaching the stud cavity is reported. This is a new test proposed by manufacturers of high performance panels.\nTEST RESULTS Classification Level\nHard Body Minimum\n50\u2019-lbs. (68 J)\n100\u2019-lbs. (136 J)\n150\u2019-lbs. (204 J)\nTests witnessed by H.P. White Laboratory, Inc.\neXP Family of Glass Mat Products | 31",
+        "start_char_idx": 0,
+        "end_char_idx": 2475,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "eb5407c7-6e6f-4af0-83c1-0ab95f02cacc": {
+      "__data__": {
+        "id_": "eb5407c7-6e6f-4af0-83c1-0ab95f02cacc",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "32",
+            "node_type": "4",
+            "metadata": {},
+            "hash": "5bcf67ed9e487b5bad8bb91e958cdfbb8f3d3cf80350635b861f2a82ea03c539",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "b456b174-d147-4785-8f10-9313d65c19b3",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "c9231490d2a02354bfad9acfcb6c638593df844a0790ee62985b5ca49cf2d9b7",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "c83304e5-f7fd-4e46-9fe2-3cdcebd448e5",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "2b1ac377006c80cf1940c5a83e863d22c7bfb9bd1c4875fb6ecea63dc68c0cac",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "hash": "365c85b0b6527e8aa1ad34b6cda2f456ca35deb4cca257d2b504c2f9b696da0f",
+        "text": "Fire and Sound Selector\nGYPSUM BOARD PARTITIONS \u2013 SHAFTWALL SYSTEMS\nNo. Fire Rating\nUL/GA Design\nDescription\n1 Hr.\nW419\nU499\nWP 6905\n1\u201d (25.4 mm) Fire-Shield Shaftliner inserted between flanges of 2-1/2\u201d (63.6 mm) steel C-T, C-H, or I studs 24\u201d (610 mm) o.c. 5/8\u201d (15.9 mm) Fire-Shield Gypsum Board applied vertically or horizontally to studs with 1\u201d (25.4 mm) Type S screws 12\u201d (305 mm) o.c. on side opposite shaftliner panel.\nSound rating with 1-1/2\u201d (38.1 mm) glass fiber insulation in stud cavity.\n2 Hr.\nW419\nU498\nWP 7077\n1\u201d (25.4 mm) Fire-Shield Shaftliner inserted between flanges of 2-1/2\u201d (63.6 mm) steel C-T, C-H, or I studs 24\u201d (610 mm) o.c. 5/8\u201d (15.9 mm) Fire-Shield Gypsum Board applied vertically or horizontally to each side of studs with 1\u201d (25.4 mm) Type S screws 12\u201d (305 mm) o.c. Joints staggered each side.\nSound rating with 1-1/2\u201d (38.1 mm) glass fiber insulation in stud cavity.\n2 Hr.\nW419\nU497\nWP 7076\n1\u201d (25.4 mm) Fire-Shield Shaftliner inserted between flanges of 2-1/2\u201d (63.6 mm) steel C-T, C-H, or I studs 24\u201d (610 mm) o.c. Base layer 5/8\u201d (15.9 mm) Fire-Shield Gypsum Board applied vertically to studs with 1\u201d (25.4 mm) Type S screws 24\u201d (610 mm) o.c. on side opposite shaftliner panel. Face layer 5/8\u201d (15.9 mm) Fire-Shield Gypsum Board applied vertically with 1-5/8\u201d (41.3 mm) Type S screws 12\u201d (305 mm) o.c. Joints staggered each layer.\nSound rating with 1-1/2\u201d (38.1 mm) glass fiber insulation in stud cavity.\n4\n1 Hr.\nV438\nU465\nWP 1081\n5/8\u201d (15.9 mm) Fire-Shield Gypsum Board applied vertically to each side of 3-5/8\u201d (92.1 mm) steel studs 24\u201d (610 mm) o.c. with 1\u201d (25.4 mm) Type S screws 8\u201d (203 mm) o.c. at vertical joints and 12\u201d (305 mm) o.c. at intermediate studs.\nSound rating with 2-1/2\u201d (63.6 mm) glass fiber insulation in stud cavity.\n5\n2 Hr.\nV438\nU411\nWP 1548\nBase layer 5/8\u201d (15.9 mm) Fire-Shield Gypsum Board applied vertically to each side of 2-1/2\u201d (63.6 mm) steel studs 24\u201d (610 mm) o.c. with 1\u201d (25.4 mm) Type S screws 16\u201d (406 mm) o.c. Face layer 5/8\u201d (15.9 mm) Fire-Shield Gypsum Board applied vertically to each side with 1-5/8\u201d (41.3 mm) Type S screws 16\u201d (406 mm) o.c. at vertical joints and intermediate studs and 12\u201d (305 mm) o.c. at floor and ceiling runners. Joints staggered each layer and side.\nSound rating with 3-5/8\u201d (92.1 mm) steel studs and 3-1/2\u201d (88.9 mm) glass fiber insulation in stud cavity.\nAREA SEPARATION FIRE WALLS\nNo. Fire Rating\nUL/GA Design\nDescription\n2 Hr.\nU347\nASW 0988\nTwo layers of 1\u201d (25.4 mm) Fire-Shield Shaftliner inserted between flanges of 2\u201d (50.8 mm) steel H-studs 24\u201d (610 mm) o.c. 3/4\u201d (19.1 mm) air space each side. 2x4 (38.1 mm x 88.9 mm) wood stud partition with one layer of 1/2\u201d (12.7 mm) Gold Bond Gypsum Board on each side.",
+        "start_char_idx": 0,
+        "end_char_idx": 2722,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "c83304e5-f7fd-4e46-9fe2-3cdcebd448e5": {
+      "__data__": {
+        "id_": "c83304e5-f7fd-4e46-9fe2-3cdcebd448e5",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "32",
+            "node_type": "4",
+            "metadata": {},
+            "hash": "5bcf67ed9e487b5bad8bb91e958cdfbb8f3d3cf80350635b861f2a82ea03c539",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "eb5407c7-6e6f-4af0-83c1-0ab95f02cacc",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "365c85b0b6527e8aa1ad34b6cda2f456ca35deb4cca257d2b504c2f9b696da0f",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "1ed11fd0-f834-4ed9-8b47-ae9798cc768c",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "19320a44bdfd962052c26c9b9568f6c36d24281ee84915fb84b05e6e3a0a2204",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "hash": "2b1ac377006c80cf1940c5a83e863d22c7bfb9bd1c4875fb6ecea63dc68c0cac",
+        "text": "at floor and ceiling runners. Joints staggered each layer and side.\nSound rating with 3-5/8\u201d (92.1 mm) steel studs and 3-1/2\u201d (88.9 mm) glass fiber insulation in stud cavity.\nAREA SEPARATION FIRE WALLS\nNo. Fire Rating\nUL/GA Design\nDescription\n2 Hr.\nU347\nASW 0988\nTwo layers of 1\u201d (25.4 mm) Fire-Shield Shaftliner inserted between flanges of 2\u201d (50.8 mm) steel H-studs 24\u201d (610 mm) o.c. 3/4\u201d (19.1 mm) air space each side. 2x4 (38.1 mm x 88.9 mm) wood stud partition with one layer of 1/2\u201d (12.7 mm) Gold Bond Gypsum Board on each side.\n6\nSound rating with 3-1/2\u201d (88.9 mm) glass fiber insulation in stud cavity on each side.\n32 | Gold Bond Building Products\nSTC Test No.\n37\nNGC 2001003\n42\nNGC 2542\n42\nNGC 2535\n48\nNGC 2534\n41\nNGC 2508\n48\nNGC 2507\n47 NGC 2386\n56 NGC 3022\nSTC Test No.\n61 RAL-TL05-199",
+        "start_char_idx": 2187,
+        "end_char_idx": 2985,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "1ed11fd0-f834-4ed9-8b47-ae9798cc768c": {
+      "__data__": {
+        "id_": "1ed11fd0-f834-4ed9-8b47-ae9798cc768c",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "33",
+            "node_type": "4",
+            "metadata": {},
+            "hash": "44b389c63b71b9b0aa4f4ad88070da21608328fdfe907592b4d5365d348f297a",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "c83304e5-f7fd-4e46-9fe2-3cdcebd448e5",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "2b1ac377006c80cf1940c5a83e863d22c7bfb9bd1c4875fb6ecea63dc68c0cac",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "379e3d17-4831-41fa-8201-027498d0d19d",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "87f39f920c09302f997268b9b636acc275bf2370dbff13db3e62f5b3774a4f67",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "hash": "19320a44bdfd962052c26c9b9568f6c36d24281ee84915fb84b05e6e3a0a2204",
+        "text": "Installation Recommendations\nGENERAL\nInstall gypsum panels in accordance with methods described in ASTM C840 and GA-216. Note that cutting and scoring should be from the back side of the panels.\nExamine and inspect framing materials to which gypsum panels are to be applied. Remedy all defects prior to installation of the gypsum board.\nCaution: Because this product contains fiberglass, dust and glass fibers may be released during normal handling, which could result in eye or skin irritation or cause difficulty in breathing. Wherever possible, avoid contact with the skin and eyes and avoid breathing dust or fibers that may be released during installation. Consult the SDS for this product, available at: goldbondbuilding.com before use.\nFASTENING\nApply gypsum panels first to ceilings at right angles to framing members, then to walls. Use boards of maximum practical length so that the minimum number of end joints occur. Bring panel edges into contact with each other but do not force into place.\nInstall batt or blanket ceiling insulation BEFORE the gypsum panels on ceilings when installing a vapor retarder behind the gypsum panels. Install the insulation IMMEDIATELY after the gypsum panels when using loose fill insulation. Avoid installation practices that might allow condensation to form behind panels.\neXP\u00ae Sheathing\u00ae \u2013 Fasteners (nail or screw heads or the crown of staples) should bear tightly against the face of the sheathing panel but should not cut into the facer. Staples should be driven with the crown parallel to the framing. Fasteners should be no less than 3/8\u201d (9.5 mm) from the edges and ends of the panel. When shear values are not required, fasteners should be spaced not more than 8\u201d (203 mm) o.c. along the vertical ends or edges and intermediate supports.\nNails\nLocate gypsum panel joints at openings so that no joint will occur within 12\u201d (305 mm) of the edges of the opening unless installing control joints at these locations. Stagger vertical end joints. Joints on opposite sides of a partition should not occur on the same stud.\nHold gypsum panels in firm contact with the framing member while driving fasteners. Fastening should proceed from center portion of the panels toward the edges and ends. Set fasteners with heads slightly below the surface of the panels. Take care to avoid breaking the fiberglass mat of the gypsum panel. Remove improperly driven nails or screws.\nGalvanized, 11 gauge\n7/16\u201d (11.1 mm) head, 1-1/2\u201d (38.1 mm) long for 1/2\u201d (12.7 mm) sheathing\n1-3/4\u201d (44.5 mm) long for 5/8\u201d (15.9 mm) sheathing\nStaples\nGalvanized 16 gauge, 7/16\u201d (11.1 mm) crown, 1-1/2\u201d (38.1 mm) long for 1/2\u201d (12.7 mm) sheathing\nProvide minimum 1/4\u201d (6.4 mm) clearance between boards and adjacent concrete or masonry to minimize wicking of moisture.\n1-5/8\u201d (41.3 mm) long for 5/8 in (15.9 mm) sheathing\nMaintain a room temperature of not less than 40\u02daF (4\u02daC) during application of gypsum panels.\nScrews\nASTM C1002 or ASTM C954\nSAFETY\n1-1/4\u201d (31.8 mm) long Type W for wood framing\nInstallers should wear long pants and a long-sleeved, loose-fitting shirt. Use protective gloves and special eye protection (goggles or safety glasses with side shield). Wear a dust mask when sanding; you may need additional breathing protection in extremely dusty conditions. Do not use a power saw to cut this product.\n1\u201d (25.4 mm) long Type S-12 for metal framing\nFIRE-RESISTANCE RATINGS\nFire-resistance ratings represent the results of tests on assemblies made up of specific materials in a specific configuration. When you are selecting construction designs to meet certain fire-resistance requirements, use caution to ensure that each component of the assembly is specified in the test. Take further precautions to ensure that assembly procedures are in accordance with those of the tested assembly. For additional fire safety information, please refer to goldbondbuilding.com. For copies of specific tests, call 1-800-NATIONAL\u00ae Construction Services.",
+        "start_char_idx": 0,
+        "end_char_idx": 3973,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "379e3d17-4831-41fa-8201-027498d0d19d": {
+      "__data__": {
+        "id_": "379e3d17-4831-41fa-8201-027498d0d19d",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "33",
+            "node_type": "4",
+            "metadata": {},
+            "hash": "44b389c63b71b9b0aa4f4ad88070da21608328fdfe907592b4d5365d348f297a",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "1ed11fd0-f834-4ed9-8b47-ae9798cc768c",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "19320a44bdfd962052c26c9b9568f6c36d24281ee84915fb84b05e6e3a0a2204",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "64225208-f384-474b-9945-c6391cc1dd9d",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "ad936038cde8de1db63210142ba1c47499f69146fd38fd9f5c37dcda7715e44e",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "hash": "87f39f920c09302f997268b9b636acc275bf2370dbff13db3e62f5b3774a4f67",
+        "text": "Use protective gloves and special eye protection (goggles or safety glasses with side shield). Wear a dust mask when sanding; you may need additional breathing protection in extremely dusty conditions. Do not use a power saw to cut this product.\n1\u201d (25.4 mm) long Type S-12 for metal framing\nFIRE-RESISTANCE RATINGS\nFire-resistance ratings represent the results of tests on assemblies made up of specific materials in a specific configuration. When you are selecting construction designs to meet certain fire-resistance requirements, use caution to ensure that each component of the assembly is specified in the test. Take further precautions to ensure that assembly procedures are in accordance with those of the tested assembly. For additional fire safety information, please refer to goldbondbuilding.com. For copies of specific tests, call 1-800-NATIONAL\u00ae Construction Services.\nSUSTAINABLE DESIGN\nRecycled content data and manufacturing location data are available for Gold Bond products based upon current Gold Bond Building Products, LLC distribution plan and manufacturing location capabilities at the National Gypsum Company Green Product Score website: gps.nationalgypsum.com\nUL GREENGUARD CERTIFICATION\nSelect eXP\u00ae products have achieved UL GREENGUARD and UL GREENGUARD Gold Certification. UL GREENGUARD Certified products are certified to UL GREENGUARD standards for low chemical emissions into indoor air during product usage. For details, visit: ul.com/gg.\neXP Family of Glass Mat Products | 33",
+        "start_char_idx": 3091,
+        "end_char_idx": 4599,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "64225208-f384-474b-9945-c6391cc1dd9d": {
+      "__data__": {
+        "id_": "64225208-f384-474b-9945-c6391cc1dd9d",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "34",
+            "node_type": "4",
+            "metadata": {},
+            "hash": "ad936038cde8de1db63210142ba1c47499f69146fd38fd9f5c37dcda7715e44e",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "379e3d17-4831-41fa-8201-027498d0d19d",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "87f39f920c09302f997268b9b636acc275bf2370dbff13db3e62f5b3774a4f67",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "61d89b1a-756f-4650-9b99-5a820ea6ba1a",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "ae869f79520ded4aa454aa612b722a1883afc42cf5c4cb26df7191c805c15dd7",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "hash": "ad936038cde8de1db63210142ba1c47499f69146fd38fd9f5c37dcda7715e44e",
+        "text": "Installation Recommendations (continued)\neXP\u00ae SHEATHING \u2022 eXP\u00ae Sheathing may be attached parallel to or perpendicular to wood or metal framing. For horizontal applications, install eXP Sheathing with end joints staggered.\neXP\u00ae INTERIOR EXTREME\u00ae \u2022 Install fire-rated assemblies in accordance with the details found in the UL Fire Resistance Directory or the Gypsum Association, GA-600, Fire Resistance Design Manual.\nUse appropriate panel orientation for specific fire assemblies and\nDrive fasteners just below the surface, avoiding damage to the core and/or glass mat facer.\nDrive fasteners just below the surface, avoiding damage to the core and/or glass mat facer.\nInstall fire-rated assemblies in accordance with the details found in the UL Fire Resistance Directory or the Gypsum Association\u2019s GA-600, Fire-Resistance Design Manual.\nInstall eXP Sheathing with vertical edges butting over the center of framing members. Fit sheathing snugly around all openings.\nIt is permissible in pre-rock assemblies to apply level one taping only on vertical applications using setting type joint compound. Do not allow the taped areas to have direct contact with cascading water.\nInstall panels with a 3/8\u201d (9.5 mm) gap where non-load-bearing construction abuts structural elements.\nTo prevent wicking, install panels with a 1/4\u201d (6.4 mm) gap where they abut masonry or similar materials that might retain moisture.\neXP\u00ae INTERIOR EXTREME\u00ae AR \u2022 Listed impact ratings apply to walls constructed with eXP\u00ae Interior Extreme\u00ae AR applied with long edges parallel to and centered over minimum 20-gauge framing members spaced a maximum of 16\u201d (406 mm) o.c.\neXP\u00ae SHAFTLINER \u2022 Install eXP\u00ae Shaftliner consistent with methods described in specific application details for National Gypsum Cavity Shaftwall Systems or Area Separation Fire Wall Systems in NGC Construction Guide, or with other fire-rated designs.\nInstall fire-rated assemblies in accordance with the details found in the UL Fire Resistance Directory or the Gypsum Association, GA-600, Fire Resistance Design Manual.\nDrive fasteners just below the surface, avoiding damage to the core and/or glass mat facer.\nIt is permissible in pre-rock assemblies to apply level one taping only on vertical applications using setting type joint compound. Do not allow the taped areas to have direct contact with cascading water.\neXP\u00ae TILE BACKER \u2022 Do not embed eXP\u00ae Tile Backer into mortar bed in showers. Install with gray side facing away from the framing, apply tile/finishes to the gray side.\nScore/cut from the gray side using a standard utility knife. Cut outs are made easily with a utility knife or saw. Panel joints must be tight.\nFill gaps and inside corners with flexible sealant.\neXP\u00ae INTERIOR EXTREME\u00ae IR \u2022 When handling eXP\u00ae Interior Extreme\u00ae IR, cutting and scoring\nDrive fasteners flush with the panel surface; do not countersink. Use corrosion resistant buglehead screw for steel and wood framing or a galvanized roofing nail for wood framing.\nHold tile backer boards in firm contact with the framing member while driving fasteners.\nshould be from the back side of the panels.\nListed impact ratings apply to walls constructed with eXP Interior Extreme IR applied with long edges parallel to and centered over minimum 20-gauge framing members spaced a maximum of 16\u201d (406 mm) o.c.\nFastening should proceed from center portion of the panels toward the edges and ends. Take care to avoid breaking the facer of the tile backer board. Remove improperly driven nails or screws.\nInstall fire-rated assemblies in accordance with the details found in the UL Fire Resistance Directory or the Gypsum Association, GA-600, Fire Resistance Design Manual.\nProvide minimum 1/4\u201d (6.4 mm) clearance between boards and adjacent concrete or masonry to minimize wicking of moisture.\nDrive fasteners just below the surface, avoiding damage to the core and/or glass mat facer.\nEmbed alkali-resistant fiberglass tape with the tile setting material at tile backer board joints prior to tile installation.\nMaintain a room temperature of not less than 40\u02daF (4\u02daC) during application of tile backer boards.\nIt is permissible in pre-rock assemblies to apply level one taping only on vertical applications using setting type joint compound. Do not allow the taped areas to have direct contact with cascading water.\nInstall fire-rated assemblies in accordance with the details found in the UL Fire Resistance Directory or the Gypsum Association, GA-600, Fire Resistance Design Manual.\n34 | Gold Bond Building Products",
+        "start_char_idx": 0,
+        "end_char_idx": 4531,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "61d89b1a-756f-4650-9b99-5a820ea6ba1a": {
+      "__data__": {
+        "id_": "61d89b1a-756f-4650-9b99-5a820ea6ba1a",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "35",
+            "node_type": "4",
+            "metadata": {},
+            "hash": "ae869f79520ded4aa454aa612b722a1883afc42cf5c4cb26df7191c805c15dd7",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "64225208-f384-474b-9945-c6391cc1dd9d",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "ad936038cde8de1db63210142ba1c47499f69146fd38fd9f5c37dcda7715e44e",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "8f535a6f-ba23-499f-b60c-9fa78d69ac6e",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "edf3f6c6a2a611a96c96268c862dc0cbb1e183aec9993f34b056458c74455d2c",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "hash": "ae869f79520ded4aa454aa612b722a1883afc42cf5c4cb26df7191c805c15dd7",
+        "text": "National Gypsum Company\nNational Gypsum Company is the exclusive service provider of reliable, high-performance building products manufactured by its affiliate companies and marketed under the Gold Bond\u00ae, ProForm\u00ae, and PermaBASE\u00ae brands. The strategic network of Gold Bond, ProForm, and PermaBASE manufacturing facilities located throughout major metropolitan hubs in North America allows us to provide the best in customer service so we can keep your fast-paced projects moving forward.\nSUSTAINABILITY\nTRUSTED PARTNER\nOur brands create products that contribute to sustainable design by providing healthy indoor air quality; moisture, mold and mildew management; durability; optimal acoustics; life safety and increased space functionality. No matter how you define sustainability, we offer the most comprehensive set of value- added solutions in the industry.\nThe National Gypsum name has been synonymous with high- quality, innovative products and exceptional customer service since 1925. Our technical experts at 1-800-NATIONAL\u00ae are always a phone call away to answer any type of product or specification question.\nWe are Building Products for a Better Future\u00ae - one project at a time.\nLIMITED WARRANTY AND REMEDIES Products manufactured by Gold Bond Building Products, LLC (\u201cSeller\u201d) are warranted by Seller to its customers to be free from defects in materials and workmanship at the time of shipment. Additional or different express limited warranties, limitations and exclusions may apply to specific Seller products. Current warranty information on such products for both commercial and residential applications is available at goldbondbuilding.com. THIS EXPRESS WARRANTY IS THE ONLY WARRANTY APPLICABLE TO SUCH PRODUCTS, AND IS IN LIEU OF AND EXCLUDES ALL OTHER EXPRESS ORAL OR WRITTEN WARRANTIES AND ALL IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.\nSeller will not be liable for any incidental, indirect or consequential losses, damages or expenses. The customer\u2019s exclusive remedy for any type of claim or action for defective products will be limited to the replacement of the products (in the form originally shipped) or, at Seller\u2019s option, to a payment or credit not greater than the original purchase price of the products.\nSeller will not be liable for products claimed to be defective where the defect resulted from causes not within Sellers control, or which arose or occurred after shipment, including but not limited to accidents, misuse, mishandling, improper installation, contamination or adulteration by other materials or goods, or abnormal conditions of temperature, moisture, dirt or corrosive matter.\nAny claim that products sold by Seller were defective or otherwise did not conform to the contract of sale is waived unless the customer submits it in writing to National Gypsum Services Company d/b/a National Gypsum Company, authorized sales agent and service provider to Seller, within thirty (30) days from the date the customer discovered or should have discovered the defect or non-conformance. No legal action or proceeding complaining of goods sold by Seller may be brought by the customer more than one year after the date the customer discovered or should have discovered the defect or problem of which it complains.\nMOLD AND MILDEW RESISTANCE eXP products were designed to provide extra protection against mold and mildew. When tested by an independent laboratory, eXP products received the highest possible ratings on ASTM G 21 and D 3273. The use of eXP products in actual installations may not produce the same results as were achieved in controlled laboratory conditions.\nNo material can be considered \u201cmold-proof,\u201d nor is it certain that any material will resist mold or mildew indefinitely. When used in conjunction with good design, handling and construction practices, eXP products can provide increased mold resistance. As with any building material, avoiding water exposure during handling, storage and installation, and after installation is complete, is the best way to avoid the formation of mold or mildew.\neXP Family of Glass Mat Products | 35",
+        "start_char_idx": 0,
+        "end_char_idx": 4182,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "8f535a6f-ba23-499f-b60c-9fa78d69ac6e": {
+      "__data__": {
+        "id_": "8f535a6f-ba23-499f-b60c-9fa78d69ac6e",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "36",
+            "node_type": "4",
+            "metadata": {},
+            "hash": "edf3f6c6a2a611a96c96268c862dc0cbb1e183aec9993f34b056458c74455d2c",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "61d89b1a-756f-4650-9b99-5a820ea6ba1a",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "ae869f79520ded4aa454aa612b722a1883afc42cf5c4cb26df7191c805c15dd7",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "hash": "edf3f6c6a2a611a96c96268c862dc0cbb1e183aec9993f34b056458c74455d2c",
+        "text": "Technical Information Visit goldbondbuilding.com or call National Gypsum Company Construction Services: 1-800-NATIONAL (628-4662).\nNational Gypsum Company is the exclusive service provider for products manufactured by Gold Bond Building Products, LLC. The Gold Bond eXP family of products is manufactured by Gold Bond Building Products, LLC.\nThe color Purple is a registered trademark of Gold Bond Building Products, LLC.\nCustomer Service \u25a0 Atlantic Area (800) 237-9167 atlanticareacsrs@nationalgypsum.com\n\u25a0 Northeast Area (800) 253-3161 northeastareacsrs@nationalgypsum.com\n\u25a0 Central Area (800) 252-1065 centralareacsrs@nationalgypsum.com\n\u25a0 Southeast Area (800) 548-9394 southeastareacsrs@nationalgypsum.com\n\u25a0 Gulf Area\n(800) 343-4893 gulfareacsrs@nationalgypsum.com\n\u25a0 Southwest Area (800) 548-9396 southwestareacsrs@nationalgypsum.com\n\u25a0 Midwest Area (800) 323-1447 midwestareacsrs@nationalgypsum.com\n\u25a0 Western Area (800) 824-4227 westernareacsrs@nationalgypsum.com\nGold Bond Building Products, LLC 2001 Rexford Road Charlotte, NC 28211\nExclusive service provider of products manufactured by Gold Bond Building Products, LLC.\n704.365.7300 goldbondbuilding.com\n111295 7/23",
+        "start_char_idx": 0,
+        "end_char_idx": 1172,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    }
+  },
+  "docstore/ref_doc_info": {
+    "1": {
+      "node_ids": ["7fda6361-cd3d-4505-b27f-74ccac55e889"],
+      "metadata": {}
+    },
+    "3": {
+      "node_ids": ["347eabbb-c1b5-465f-951f-ff78daa12ba3"],
+      "metadata": {}
+    },
+    "4": {
+      "node_ids": ["103e433d-803e-4f04-844a-b6bfa6e7f64f"],
+      "metadata": {}
+    },
+    "5": {
+      "node_ids": ["558b310c-37f9-47f1-b828-5b02e356538c"],
+      "metadata": {}
+    },
+    "6": {
+      "node_ids": ["4ce9788f-e038-4df9-a4ea-adce9c89ee2c"],
+      "metadata": {}
+    },
+    "7": {
+      "node_ids": ["7b9b17ab-40c9-478c-90fb-b4368504c11d"],
+      "metadata": {}
+    },
+    "8": {
+      "node_ids": ["4a200e21-5168-46e2-b3c3-7335b9208d96"],
+      "metadata": {}
+    },
+    "9": {
+      "node_ids": ["993bb8e1-8484-4e56-8241-a02f0cdddb0e"],
+      "metadata": {}
+    },
+    "10": {
+      "node_ids": [
+        "cacc66ac-519f-471c-a5e4-a42f4bc19051",
+        "58ee69dc-78b0-455d-908d-eaae5298c705"
+      ],
+      "metadata": {}
+    },
+    "11": {
+      "node_ids": ["1243e404-a589-47ab-a375-302c289046d1"],
+      "metadata": {}
+    },
+    "12": {
+      "node_ids": ["a9bfadf5-a4c7-4481-a68c-7c1238423a4b"],
+      "metadata": {}
+    },
+    "13": {
+      "node_ids": ["44b8dca5-87ec-477f-83b1-826f025433d3"],
+      "metadata": {}
+    },
+    "14": {
+      "node_ids": ["1761a2fa-9866-4043-ab30-9af63f175ae1"],
+      "metadata": {}
+    },
+    "15": {
+      "node_ids": ["3a0016c5-5d80-46bb-a11b-2ef536bbc3ba"],
+      "metadata": {}
+    },
+    "16": {
+      "node_ids": ["28153bc0-f0c4-411a-8b23-973434da3320"],
+      "metadata": {}
+    },
+    "17": {
+      "node_ids": ["ed835189-de6a-48b4-8ebd-a3d4ef520cc1"],
+      "metadata": {}
+    },
+    "18": {
+      "node_ids": ["887cffbf-b468-4808-b820-374db46fd251"],
+      "metadata": {}
+    },
+    "19": {
+      "node_ids": ["653dbcb4-8e1e-43b1-9ef9-22876e7249aa"],
+      "metadata": {}
+    },
+    "20": {
+      "node_ids": ["6580e31b-5b29-4e1a-877e-ac7ce0a903a5"],
+      "metadata": {}
+    },
+    "21": {
+      "node_ids": ["19b6e67e-e898-4e75-b349-4daa614e7f7a"],
+      "metadata": {}
+    },
+    "22": {
+      "node_ids": [
+        "9508ec9f-5968-43f0-a060-dd2082a891a7",
+        "1259930c-da5f-4a5e-9f15-914a2ab58a05",
+        "90e7b486-9198-40c2-8326-3243c39e6a9e"
+      ],
+      "metadata": {}
+    },
+    "23": {
+      "node_ids": ["27e004e1-f70e-4d19-9fe7-ba28e269bcbb"],
+      "metadata": {}
+    },
+    "24": {
+      "node_ids": ["496aa820-ed8b-413b-b29f-32d713be0b02"],
+      "metadata": {}
+    },
+    "25": {
+      "node_ids": ["57fbb6ce-5457-4263-9a6c-28b537e00062"],
+      "metadata": {}
+    },
+    "26": {
+      "node_ids": ["b7541cbd-5089-4a6f-87ec-81a95464e385"],
+      "metadata": {}
+    },
+    "27": {
+      "node_ids": ["c69ddae5-0433-43d7-affb-5f97d50a16b7"],
+      "metadata": {}
+    },
+    "28": {
+      "node_ids": ["7edbc48f-7ea3-4d32-9f61-571b0d3eed16"],
+      "metadata": {}
+    },
+    "29": {
+      "node_ids": ["fc60ef81-3fda-4964-be8d-8c2d5a62cab4"],
+      "metadata": {}
+    },
+    "30": {
+      "node_ids": ["96e15ee8-18f9-412f-a2bf-81fdf290dd10"],
+      "metadata": {}
+    },
+    "31": {
+      "node_ids": ["b456b174-d147-4785-8f10-9313d65c19b3"],
+      "metadata": {}
+    },
+    "32": {
+      "node_ids": [
+        "eb5407c7-6e6f-4af0-83c1-0ab95f02cacc",
+        "c83304e5-f7fd-4e46-9fe2-3cdcebd448e5"
+      ],
+      "metadata": {}
+    },
+    "33": {
+      "node_ids": [
+        "1ed11fd0-f834-4ed9-8b47-ae9798cc768c",
+        "379e3d17-4831-41fa-8201-027498d0d19d"
+      ],
+      "metadata": {}
+    },
+    "34": {
+      "node_ids": ["64225208-f384-474b-9945-c6391cc1dd9d"],
+      "metadata": {}
+    },
+    "35": {
+      "node_ids": ["61d89b1a-756f-4650-9b99-5a820ea6ba1a"],
+      "metadata": {}
+    },
+    "36": {
+      "node_ids": ["8f535a6f-ba23-499f-b60c-9fa78d69ac6e"],
+      "metadata": {}
+    }
+  },
+  "docstore/metadata": {
+    "7fda6361-cd3d-4505-b27f-74ccac55e889": {
+      "doc_hash": "5b23c55ab298f278ecacd5195eeecc4524c8a17eb1c3aaeeff42b45bcdc975df",
+      "ref_doc_id": "1"
+    },
+    "347eabbb-c1b5-465f-951f-ff78daa12ba3": {
+      "doc_hash": "da02d0ed1ce997b3856297d7bc06af5afb43390e8e7a7e8f3c6aa46613cbf235",
+      "ref_doc_id": "3"
+    },
+    "103e433d-803e-4f04-844a-b6bfa6e7f64f": {
+      "doc_hash": "e20d5c2d45696a63d880e4913ba6d0be408042f5cda8eed40446dddc7ce1eb74",
+      "ref_doc_id": "4"
+    },
+    "558b310c-37f9-47f1-b828-5b02e356538c": {
+      "doc_hash": "20730314b28acee476272bf165c21775dd94f4420e14fe7d929a55b8e00e6956",
+      "ref_doc_id": "5"
+    },
+    "4ce9788f-e038-4df9-a4ea-adce9c89ee2c": {
+      "doc_hash": "8ad9b141e6caadbed7ec59674b85884901c8602dda4b4fa0b7a3808f1c330233",
+      "ref_doc_id": "6"
+    },
+    "7b9b17ab-40c9-478c-90fb-b4368504c11d": {
+      "doc_hash": "62f140e54d02d8542149380e3530073fa3b933523cd682f59fb6c55538f41483",
+      "ref_doc_id": "7"
+    },
+    "4a200e21-5168-46e2-b3c3-7335b9208d96": {
+      "doc_hash": "164781b45fbd25144d72f44f574a25c2555b4655e6183a3f43ad620c04aaa0fb",
+      "ref_doc_id": "8"
+    },
+    "993bb8e1-8484-4e56-8241-a02f0cdddb0e": {
+      "doc_hash": "e0f09bf8c1433a448ccf31353181292f424da085b0d4971f0808645b8a25576f",
+      "ref_doc_id": "9"
+    },
+    "cacc66ac-519f-471c-a5e4-a42f4bc19051": {
+      "doc_hash": "be50ea3b9e74b1284e8fb84840f4dd2bfdf4e4df0f1b0677ea94f6b742bca3f4",
+      "ref_doc_id": "10"
+    },
+    "58ee69dc-78b0-455d-908d-eaae5298c705": {
+      "doc_hash": "99dabfe80e3e7d270e48d0acb44d9ddc83e70c4c9911a226637594ef11557ca6",
+      "ref_doc_id": "10"
+    },
+    "1243e404-a589-47ab-a375-302c289046d1": {
+      "doc_hash": "f921671e13c0d60396f33c768d989b6ca76253403109722dc988002038d82692",
+      "ref_doc_id": "11"
+    },
+    "a9bfadf5-a4c7-4481-a68c-7c1238423a4b": {
+      "doc_hash": "6df90b8dea417c12f164ff9e01304e3deb12cb8d5cab177242f1a03c51064164",
+      "ref_doc_id": "12"
+    },
+    "44b8dca5-87ec-477f-83b1-826f025433d3": {
+      "doc_hash": "2055f79ef482c6a0b40026d3f4dc83818a98282549f7c2d55089980c746f682c",
+      "ref_doc_id": "13"
+    },
+    "1761a2fa-9866-4043-ab30-9af63f175ae1": {
+      "doc_hash": "fd2a691d12140017906980bb6227068fa470f3a6e71e42c7f7bc42dd4945dd6c",
+      "ref_doc_id": "14"
+    },
+    "3a0016c5-5d80-46bb-a11b-2ef536bbc3ba": {
+      "doc_hash": "9eff8bfe22e808098dfcb92d24c07333711b1d601a8d3ae602d83c23865f3684",
+      "ref_doc_id": "15"
+    },
+    "28153bc0-f0c4-411a-8b23-973434da3320": {
+      "doc_hash": "7153c47d29a1233a037599f47ca55994d0da2419dc8cbae7074e9c7e38aeae31",
+      "ref_doc_id": "16"
+    },
+    "ed835189-de6a-48b4-8ebd-a3d4ef520cc1": {
+      "doc_hash": "7b8c385bdb9c704128cb8655e80a2cfea975a490e955afc4b1f68a914e41d588",
+      "ref_doc_id": "17"
+    },
+    "887cffbf-b468-4808-b820-374db46fd251": {
+      "doc_hash": "575cb86be9b3456ebb38e8c8ded2ee237a9fd131483c21640d92b030ae39e508",
+      "ref_doc_id": "18"
+    },
+    "653dbcb4-8e1e-43b1-9ef9-22876e7249aa": {
+      "doc_hash": "37cefb5c2cf0b627ae0d8b6841aa3f9c31f8dd41fa1e88f657c75d8935dae527",
+      "ref_doc_id": "19"
+    },
+    "6580e31b-5b29-4e1a-877e-ac7ce0a903a5": {
+      "doc_hash": "721de7e7e06b895c94582816952ef2e12d001222aff7aef985f56fcd8c6470a5",
+      "ref_doc_id": "20"
+    },
+    "19b6e67e-e898-4e75-b349-4daa614e7f7a": {
+      "doc_hash": "3126d1110cf44856880761cb1e5c95158f9993d8c5143bde2f3150325ecd120a",
+      "ref_doc_id": "21"
+    },
+    "9508ec9f-5968-43f0-a060-dd2082a891a7": {
+      "doc_hash": "1e5dce0fa34c49671befbfd9ff8dde66eba499a7936ec14e325c270f7d88a02b",
+      "ref_doc_id": "22"
+    },
+    "1259930c-da5f-4a5e-9f15-914a2ab58a05": {
+      "doc_hash": "826228048f2a4dd2515f17b650cbc229e6d8600273202a5a812204c51556797d",
+      "ref_doc_id": "22"
+    },
+    "90e7b486-9198-40c2-8326-3243c39e6a9e": {
+      "doc_hash": "4b8985fab09c5763f57156bcf11ed59a6ec09c5a0712d6b861edfbf4441a95d6",
+      "ref_doc_id": "22"
+    },
+    "27e004e1-f70e-4d19-9fe7-ba28e269bcbb": {
+      "doc_hash": "8089a8e400395fe5993347c0659c4ff3a05e3d04c02818271cd33af728a42b1d",
+      "ref_doc_id": "23"
+    },
+    "496aa820-ed8b-413b-b29f-32d713be0b02": {
+      "doc_hash": "d58ec9c5c4aaa1504bbc792c67dd455b7351b93565f0f321aca0cee91fa73c19",
+      "ref_doc_id": "24"
+    },
+    "57fbb6ce-5457-4263-9a6c-28b537e00062": {
+      "doc_hash": "f8383367cf3784d897644374e3b0e10dfb71d27339cc454273e8564aca893ca9",
+      "ref_doc_id": "25"
+    },
+    "b7541cbd-5089-4a6f-87ec-81a95464e385": {
+      "doc_hash": "6728e0ef314c245a61832c75c39b79afea757f2485bab2946f09f441303c0f0f",
+      "ref_doc_id": "26"
+    },
+    "c69ddae5-0433-43d7-affb-5f97d50a16b7": {
+      "doc_hash": "65124581fcd8219e5033911988f7124740a4a5511322f4d70af9d4b153eea9a4",
+      "ref_doc_id": "27"
+    },
+    "7edbc48f-7ea3-4d32-9f61-571b0d3eed16": {
+      "doc_hash": "46ba262f9158cadc6135f5770bdac2345d1613bb50c49de29023d5b706686c9c",
+      "ref_doc_id": "28"
+    },
+    "fc60ef81-3fda-4964-be8d-8c2d5a62cab4": {
+      "doc_hash": "9317130cbb21cd1e0943f48d096bcb042223448dec54296c3c0d84bf4e3ebc29",
+      "ref_doc_id": "29"
+    },
+    "96e15ee8-18f9-412f-a2bf-81fdf290dd10": {
+      "doc_hash": "ece690b1b9bced9cb1b0d668844620f60237a3e0c577343a8624b39b16ab1642",
+      "ref_doc_id": "30"
+    },
+    "b456b174-d147-4785-8f10-9313d65c19b3": {
+      "doc_hash": "c9231490d2a02354bfad9acfcb6c638593df844a0790ee62985b5ca49cf2d9b7",
+      "ref_doc_id": "31"
+    },
+    "eb5407c7-6e6f-4af0-83c1-0ab95f02cacc": {
+      "doc_hash": "365c85b0b6527e8aa1ad34b6cda2f456ca35deb4cca257d2b504c2f9b696da0f",
+      "ref_doc_id": "32"
+    },
+    "c83304e5-f7fd-4e46-9fe2-3cdcebd448e5": {
+      "doc_hash": "2b1ac377006c80cf1940c5a83e863d22c7bfb9bd1c4875fb6ecea63dc68c0cac",
+      "ref_doc_id": "32"
+    },
+    "1ed11fd0-f834-4ed9-8b47-ae9798cc768c": {
+      "doc_hash": "19320a44bdfd962052c26c9b9568f6c36d24281ee84915fb84b05e6e3a0a2204",
+      "ref_doc_id": "33"
+    },
+    "379e3d17-4831-41fa-8201-027498d0d19d": {
+      "doc_hash": "87f39f920c09302f997268b9b636acc275bf2370dbff13db3e62f5b3774a4f67",
+      "ref_doc_id": "33"
+    },
+    "64225208-f384-474b-9945-c6391cc1dd9d": {
+      "doc_hash": "ad936038cde8de1db63210142ba1c47499f69146fd38fd9f5c37dcda7715e44e",
+      "ref_doc_id": "34"
+    },
+    "61d89b1a-756f-4650-9b99-5a820ea6ba1a": {
+      "doc_hash": "ae869f79520ded4aa454aa612b722a1883afc42cf5c4cb26df7191c805c15dd7",
+      "ref_doc_id": "35"
+    },
+    "8f535a6f-ba23-499f-b60c-9fa78d69ac6e": {
+      "doc_hash": "edf3f6c6a2a611a96c96268c862dc0cbb1e183aec9993f34b056458c74455d2c",
+      "ref_doc_id": "36"
+    }
+  }
+}

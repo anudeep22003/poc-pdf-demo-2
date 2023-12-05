@@ -1,0 +1,630 @@
+checking if index exists at /Users/neel/Documents/AI/poc-pdf-chatbot/data/rag-index/IFU_CEREC_Primemill.pdf
+index exists on filesystem: True
+checking if index exists at /Users/neel/Documents/AI/poc-pdf-chatbot/data/rag-index/IFU_CEREC_Primemill.pdf
+index exists on filesystem: True
+checking if index exists at /Users/neel/Documents/AI/poc-pdf-chatbot/data/rag-index/IFU_CEREC_Primemill.pdf
+index exists on filesystem: True
+querying rag index for --> How do I change the filter bag and HEPA filter on my device?
+number of retrieved_nodes after 1st retreival: 10
+page_nums: [('63', 0.879092657745185), ('64', 0.8781952858271467), ('62', 0.8758392108766967), ('72', 0.8144680561504924), ('68', 0.8000208452677174), ('42', 0.7992011393013485), ('73', 0.7961567793643778), ('66', 0.7904249475156725), ('59', 0.7881958903359906), ('45', 0.788027981539199)]
+number of retrieved_nodes after 2nd retreival: 2
+page_nums: [('63', 0.8791493507071448), ('64', 0.8782312126819457)]
+response from query: To change the filter bag and HEPA filter on your device, follow these steps:
+
+1. Loosen the two knurled nuts on the maintenance cover.
+2. Remove the lid.
+3. Take out the filter bag from the nozzle.
+4. Unscrew the two Phillips screws on the perforated sheet inside the suction device.
+5. Remove the perforated sheet.
+6. Take out the dusty HEPA filter and insert a new HEPA filter.
+7. Put the perforated sheet back on and screw it down with the two Phillips screws.
+8. Put the filter bag back on.
+9. Put the maintenance cover on and screw it down with the two knurled nuts.
+10. After replacing the filter bag, activate the "Reset" button on the touch interface screen.
+
+Make sure not to jam the filter bag and ensure that the cap is sealed properly.
+
+sources: {'64', '63'}
+checking if index exists at /Users/neel/Documents/AI/poc-pdf-chatbot/data/rag-index/IFU_Primescan_Connect.pdf
+index exists on filesystem: True
+querying rag index for --> how do i recalibrate my senser?
+number of retrieved_nodes after 1st retreival: 10
+page_nums: [('65', 0.8289508198898837), ('64', 0.8157285216983207), ('66', 0.8150933661585498), ('68', 0.8071212631672163), ('67', 0.7907417167931015), ('69', 0.7838439101447827), ('38', 0.7746585687557117), ('37', 0.7683123026063629), ('36', 0.7676723061617813), ('32', 0.765615566231349)]
+number of retrieved_nodes after 2nd retreival: 10
+page_nums: [('65', 0.8289508198898837), ('64', 0.8157285216983207), ('66', 0.8150933661585498), ('68', 0.8071212631672163), ('67', 0.7907417167931015), ('69', 0.7838439101447827), ('38', 0.7746585687557117), ('37', 0.7683123026063629), ('36', 0.7676723061617813), ('32', 0.765615566231349)]
+response from query: Response 1: To recalibrate your sensor, follow these steps:
+
+1. In the software, navigate to the system menu and click on the "Configuration" button.
+2. Click on the "Devices" button.
+3. Click on the "Primescan" button.
+4. Click on the "Calibrate" button.
+5. The scanner view will be displayed in one window.
+6. Mount the bottom side of the calibration set to the tip of the scanner.
+7. Click on the "OK" button to continue the calibration process.
+8. Once the calibration is complete, a message will be displayed indicating this.
+9. Confirm the message by clicking the "OK" button.
+10. The Primescan scanner is now recalibrated.
+
+Please note that it is recommended to recalibrate the scanner after every re-installation and after each time it is transported. Additionally, if there are errors in the acquisition process or if the scanner has been exposed to vibration loads, it is advisable to perform a calibration.
+
+sources: [64, 65, 66, 67, 68]
+<<<<<<< HEAD
+checking if index exists at /Users/neel/Documents/AI/poc-pdf-chatbot/data/rag-index/IFU_Primescan_Connect.pdf
+index exists on filesystem: True
+querying rag index for --> How do I recalibrate my scanner?
+number of retrieved_nodes after 1st retreival: 10
+page_nums: [('65', 0.8791624363244789), ('66', 0.8719698215122795), ('64', 0.8655261634730927), ('68', 0.8606451380380862), ('67', 0.8323725250543289), ('45', 0.8302981791016433), ('38', 0.8219959328917381), ('37', 0.8196572713082992), ('32', 0.815530935024739), ('36', 0.8142380606755905)]
+number of retrieved_nodes after 2nd retreival: 10
+page_nums: [('65', 0.8791624363244789), ('66', 0.8719698215122795), ('64', 0.8655261634730927), ('68', 0.8606451380380862), ('67', 0.8323725250543289), ('45', 0.8302981791016433), ('38', 0.8219959328917381), ('37', 0.8196572713082992), ('32', 0.815530935024739), ('36', 0.8142380606755905)]
+=======
+checking if index exists at /Users/anudeepyegireddi/@anudeep/Demos/poc-pdf-chatbot/data/rag-index/IFU_Primescan_Connect.pdf
+index exists on filesystem: True
+querying rag index for --> How do I recalibrate my sensor?
+number of retrieved_nodes after 1st retreival: 10
+page_nums: [('65', 0.8339170512836835), ('66', 0.8252465589764721), ('64', 0.8227170340159559), ('68', 0.8157492520843584), ('67', 0.7922005406632379), ('69', 0.7795638380732862), ('38', 0.7785900997689453), ('37', 0.7719356125447694), ('32', 0.769625726919388), ('36', 0.7691929032506759)]
+number of retrieved_nodes after 2nd retreival: 10
+page_nums: [('65', 0.8339170512836835), ('66', 0.8252465589764721), ('64', 0.8227170340159559), ('68', 0.8157492520843584), ('67', 0.7922005406632379), ('69', 0.7795638380732862), ('38', 0.7785900997689453), ('37', 0.7719356125447694), ('32', 0.769625726919388), ('36', 0.7691929032506759)]
+response from query: Response 1: To recalibrate the sensor, follow these steps:
+
+1. In the software, navigate to the system menu and click on the "Configuration" button.
+2. Click on the "Devices" button.
+3. Click on the "Primescan" button.
+4. Click on the "Calibrate" button.
+5. The scanner view will be displayed in one window.
+6. Confirm any changes and click "Ok".
+7. Proceed with the calibration process as instructed by the software.
+8. The software will provide information on the progress of the calibration and notify you once the procedure is complete.
+9. After completing the calibration, click the "Ok" button to finish the process.
+
+It is important to note that the sensor should be recalibrated after every re-installation and each time it is transported. Additionally, if there are errors in the acquisition process or if the system has been exposed to vibration loads, it is recommended to recalibrate the sensor.
+
+sources: [64, 65, 66, 67, 68]
+checking if index exists at /Users/anudeepyegireddi/@anudeep/Demos/poc-pdf-chatbot/data/rag-index/IFU_Primescan_Connect_DE.pdf
+index exists on filesystem: True
+querying rag index for --> How to do an occlusal scan?
+number of retrieved_nodes after 1st retreival: 10
+page_nums: [('44', 0.8601685206609931), ('45', 0.855941800366091), ('40', 0.8557587876388308), ('43', 0.8515651325655765), ('42', 0.8489321339994472), ('41', 0.8481203835216342), ('38', 0.8297749859805746), ('39', 0.8131359356811713), ('9', 0.8029393256360503), ('36', 0.7999340049642628)]
+number of retrieved_nodes after 2nd retreival: 10
+page_nums: [('44', 0.8601685206609931), ('45', 0.855941800366091), ('40', 0.8557587876388308), ('43', 0.8515651325655765), ('42', 0.8489321339994472), ('41', 0.8481203835216342), ('38', 0.8297749859805746), ('39', 0.8131359356811713), ('9', 0.8029393256360503), ('36', 0.7999340049642628)]
+response from query: Response 1: To perform an occlusal scan, start by positioning the scanner in the starting position on the tooth closest to the prepared tooth in the distal direction. Then, scan in the mesial direction, moving the scanner occlusally from the distal tooth over the prepared tooth to the mesial tooth. It is important to ensure that the coated sapphire disc of the scanner is at a distance of 0-20mm from the surface being measured, with the optimal distance being 2mm. The scanner should not rest on the teeth or the gums.
+
+sources: [40, 42, 43, 44, 45]
+checking if index exists at /Users/anudeepyegireddi/@anudeep/Demos/poc-pdf-chatbot/data/rag-index/IFU_Primescan_Connect_DE.pdf
+index exists on filesystem: True
+querying rag index for --> So führen Sie einen okklusalen Scan durch?
+number of retrieved_nodes after 1st retreival: 10
+page_nums: [('44', 0.8238683207596895), ('45', 0.8210318668182555), ('40', 0.8148083679898778), ('39', 0.8143600810623696), ('42', 0.8105287964564198), ('66', 0.8092571246491037), ('67', 0.8087859078401054), ('41', 0.808087723834598), ('43', 0.8074737413441452), ('37', 0.8074679534809939)]
+number of retrieved_nodes after 2nd retreival: 10
+page_nums: [('44', 0.8238683207596895), ('45', 0.8210318668182555), ('40', 0.8148083679898778), ('39', 0.8143600810623696), ('42', 0.8105287964564198), ('66', 0.8092571246491037), ('67', 0.8087859078401054), ('41', 0.808087723834598), ('43', 0.8074737413441452), ('37', 0.8074679534809939)]
+response from query: Response 1: Um einen okklusalen Scan durchzuführen, positionieren Sie den Scanner in der Startposition auf dem Zahn, der in distaler Richtung zum präparierten Zahn am nächsten liegt. Scannen Sie dann in mesialer Richtung, indem Sie den Scanner okklusal vom distal gelegenen Zahn über den präparierten Zahn zum mesial liegenden Zahn bewegen.
+
+sources: [39, 40, 42, 44, 45]
+checking if index exists at /Users/anudeepyegireddi/@anudeep/Demos/poc-pdf-chatbot/data/rag-index/IFU_Primescan_Connect.pdf
+index exists on filesystem: True
+querying rag index for --> How do I recalibrate my scanner?
+number of retrieved_nodes after 1st retreival: 10
+page_nums: [('65', 0.8791181651429074), ('66', 0.8719376681321532), ('64', 0.865511353372355), ('68', 0.8605959432328142), ('67', 0.8323554240897431), ('45', 0.8302204426552202), ('38', 0.8219595807734379), ('37', 0.8196140677698385), ('32', 0.8154781774513421), ('36', 0.8141620657967785)]
+number of retrieved_nodes after 2nd retreival: 10
+page_nums: [('65', 0.8791181651429074), ('66', 0.8719376681321532), ('64', 0.865511353372355), ('68', 0.8605959432328142), ('67', 0.8323554240897431), ('45', 0.8302204426552202), ('38', 0.8219595807734379), ('37', 0.8196140677698385), ('32', 0.8154781774513421), ('36', 0.8141620657967785)]
+>>>>>>> 1c9e88a (bug: added refresh memory case.)
+response from query: Response 1: To recalibrate your scanner, follow these steps:
+
+1. In the software, navigate to the system menu and click on the "Configuration" button.
+2. Click on the "Devices" button.
+3. Click on the "Primescan" button.
+4. Click on the "Calibrate" button.
+5. The scanner view will be displayed in one window.
+6. Confirm any changes and click the "Ok" button.
+7. Follow the prompts to complete the calibration process.
+8. Once the calibration is complete, the software will indicate that it was successful.
+9. Click the "Ok" button to finish the calibration.
+
+<<<<<<< HEAD
+Remember to recalibrate the scanner after every re-installation, after each time it is transported, or in the event of errors in the acquisition process.
+
+sources: [64, 65, 66, 67, 68]
+checking if index exists at /Users/neel/Documents/AI/poc-pdf-chatbot/data/rag-index/IFU_Primescan_Connect_DE.pdf
+=======
+It is recommended to recalibrate the scanner after every re-installation, after each time it is transported, or in the event of errors in the acquisition process. Additionally, it is advised to warm up the scanner for 2 minutes before calibration.
+
+sources: [64, 65, 66, 67, 68]
+checking if index exists at /Users/anudeepyegireddi/@anudeep/Demos/poc-pdf-chatbot/data/rag-index/IFU_Primescan_Connect.pdf
+index exists on filesystem: True
+querying rag index for --> how to do occlusal scan in english?
+number of retrieved_nodes after 1st retreival: 10
+page_nums: [('43', 0.8743328791513119), ('39', 0.870830618332061), ('42', 0.8643894985098809), ('44', 0.8634184868144366), ('40', 0.8603828584637528), ('41', 0.8559202901172975), ('37', 0.8503880410054832), ('38', 0.835059461633206), ('45', 0.8141463567439194), ('35', 0.8046296731485416)]
+number of retrieved_nodes after 2nd retreival: 10
+page_nums: [('43', 0.8743328791513119), ('39', 0.870830618332061), ('42', 0.8643894985098809), ('44', 0.8634184868144366), ('40', 0.8603828584637528), ('41', 0.8559202901172975), ('37', 0.8503880410054832), ('38', 0.835059461633206), ('45', 0.8141463567439194), ('35', 0.8046296731485416)]
+response from query: Response 1: To perform an occlusal scan in English, follow these steps:
+1. Begin by positioning the scanner in the occlusal view of the tooth adjacent to the prepared tooth in the distal direction.
+2. Move the scanner in the occlusal direction from the distal-positioned tooth over the prepared tooth to the mesial-positioned tooth.
+3. Ensure that the distance between the coated sapphire glass of the scanner and the scanned surface is observed, with the distance ideally being 2mm.
+4. Avoid resting the scanner on the teeth or gums during the scan.
+5. Repeat the scan on the opposite side of the dental arch to complete the occlusal scan.
+
+sources: [39, 40, 42, 43, 44]
+checking if index exists at /Users/anudeepyegireddi/@anudeep/Demos/poc-pdf-chatbot/data/rag-index/IFU_Primescan_Connect.pdf
+index exists on filesystem: True
+querying rag index for --> How do I recalibrate my scanner?
+number of retrieved_nodes after 1st retreival: 10
+page_nums: [('65', 0.8791181651429074), ('66', 0.8719376681321532), ('64', 0.865511353372355), ('68', 0.8605959432328142), ('67', 0.8323554240897431), ('45', 0.8302204426552202), ('38', 0.8219595807734379), ('37', 0.8196140677698385), ('32', 0.8154781774513421), ('36', 0.8141620657967785)]
+number of retrieved_nodes after 2nd retreival: 10
+page_nums: [('65', 0.8791181651429074), ('66', 0.8719376681321532), ('64', 0.865511353372355), ('68', 0.8605959432328142), ('67', 0.8323554240897431), ('45', 0.8302204426552202), ('38', 0.8219595807734379), ('37', 0.8196140677698385), ('32', 0.8154781774513421), ('36', 0.8141620657967785)]
+response from query: Response 1: To recalibrate your scanner, follow these steps:
+
+1. In the software, navigate to the system menu and click on the "Configuration" button.
+2. Click on the "Devices" button.
+3. Click on the "Primescan" button.
+4. Click on the "Calibrate" button.
+5. The scanner view will be displayed in one window.
+6. Confirm any changes and click the "Ok" button.
+7. Follow the prompts to complete the calibration process.
+
+Remember to calibrate the scanner after every re-installation, after each time it is transported, and in the event of errors in the acquisition process. Additionally, it is recommended to recalibrate the scanner once a month to account for any vibration loads it may be exposed to.
+
+sources: [64, 65, 66, 67, 68]
+checking if index exists at /Users/anudeepyegireddi/@anudeep/Demos/poc-pdf-chatbot/data/rag-index/IFU_Primescan_Connect_DE.pdf
+>>>>>>> 1c9e88a (bug: added refresh memory case.)
+index exists on filesystem: True
+querying rag index for --> So führen Sie einen okklusalen Scan durch?
+number of retrieved_nodes after 1st retreival: 10
+page_nums: [('44', 0.8238239012654679), ('45', 0.8209984902582345), ('40', 0.8147592732539969), ('39', 0.8143059631001286), ('42', 0.8104885877410081), ('66', 0.8092097639195344), ('67', 0.8087176323426499), ('41', 0.8080622197878402), ('43', 0.8074339042256191), ('37', 0.8074146815845906)]
+number of retrieved_nodes after 2nd retreival: 10
+page_nums: [('44', 0.8238239012654679), ('45', 0.8209984902582345), ('40', 0.8147592732539969), ('39', 0.8143059631001286), ('42', 0.8104885877410081), ('66', 0.8092097639195344), ('67', 0.8087176323426499), ('41', 0.8080622197878402), ('43', 0.8074339042256191), ('37', 0.8074146815845906)]
+response from query: Response 1: Um einen okklusalen Scan durchzuführen, positionieren Sie den Scanner in der Startposition auf dem Zahn, der in distaler Richtung zum präparierten Zahn am nächsten liegt. Scannen Sie dann in mesialer Richtung, indem Sie den Scanner okklusal vom distal gelegenen Zahn über den präparierten Zahn zum mesial liegenden Zahn bewegen.
+
+sources: [39, 40, 42, 44, 45]
+<<<<<<< HEAD
+checking if index exists at /Users/neel/Documents/AI/poc-pdf-chatbot/data/rag-index/IFU_Primescan_Connect_DE.pdf
+index exists on filesystem: True
+querying rag index for --> So führen Sie einen okklusalen Scan durch?
+number of retrieved_nodes after 1st retreival: 10
+page_nums: [('44', 0.8239039543776824), ('45', 0.821056306422453), ('40', 0.8148431244047148), ('39', 0.8143935776549172), ('42', 0.81053679103974), ('66', 0.8093111842043094), ('67', 0.8088167468727514), ('41', 0.8081254063045559), ('37', 0.8075157266849817), ('43', 0.8074835778680068)]
+number of retrieved_nodes after 2nd retreival: 10
+page_nums: [('44', 0.8239039543776824), ('45', 0.821056306422453), ('40', 0.8148431244047148), ('39', 0.8143935776549172), ('42', 0.81053679103974), ('66', 0.8093111842043094), ('67', 0.8088167468727514), ('41', 0.8081254063045559), ('37', 0.8075157266849817), ('43', 0.8074835778680068)]
+response from query: Um einen okklusalen Scan durchzuführen, scannen Sie den Zahn, der in distaler Richtung zum präparierten Zahn am nächsten liegt, in mesialer Richtung. Achten Sie darauf, dass der Scanner nicht auf den Zähnen oder auf dem Zahnfleisch aufliegt und dass der Abstand der beschichteten Saphirscheibe des Scanners zur vermessenen Oberfläche zwischen 0-20 mm liegt, wobei 2 mm optimal sind.
+
+sources: [39, 40, 42, 44, 45]
+=======
+>>>>>>> 1c9e88a (bug: added refresh memory case.)
+checking if index exists at /Users/anudeepyegireddi/@anudeep/Demos/poc-pdf-chatbot-2/data/rag-index/eXP_Family_of_Glass_Mat_Products.pdf
+index exists on filesystem: False
+index does not exist for eXP_Family_of_Glass_Mat_Products.pdf, hence building it.
+document to be indexed checked for at location: /Users/anudeepyegireddi/@anudeep/Demos/poc-pdf-chatbot-2/data/eXP_Family_of_Glass_Mat_Products.pdf
+paged_text_list []
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 3
+frequency: 33 skipped text: 2
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 3
+frequency: 33 skipped text: 2
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 3
+frequency: 33 skipped text: 2
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 3
+frequency: 33 skipped text: 2
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 3
+frequency: 33 skipped text: 2
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 3
+frequency: 33 skipped text: 2
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 33 skipped text: 2
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 3
+frequency: 33 skipped text: 2
+frequency: 37 skipped text: 1
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 3
+frequency: 33 skipped text: 2
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+prev element list size: 1409
+
+            new size after entropy maximizing: 1284
+            reduction: 8.871540%
+Number of pages with < 2 text blocks: 1 
+skipped_pages []
+paged_text: [(27, 'Abuse and Impact Test Results (ASTM C1629)\nRECOMMENDED CLASSIFICATION LEVELS FOR COMPLIANCE Test/Classification Level\nGold Bond eXP Interior Extreme AR Gypsum Board\nASTM D4977 – Surface Abrasion\nASTM D5420 – Surface Indentation\nASTM E695 – Soft-Body Impact\nAnnex A1 – Hard-Body Impact\n1*\nAbuse products are not recommended for areas prone to cavity penetration.\nSurface Abrasion MODIFIED ASTM D4977\nThis test measures the ability of a gypsum panel surface to resist scratches and scuffs by subjecting the panel to 50 back and forth cycles with a wire brush. The depth of the abrasion is measured. The test was originally developed to test granule adhesion to mineral surfaced roofing and was modified by adding 25 pounds of additional weight to the wire brush.\nTEST RESULTS Classification Level\nAbraded Depth Maximum\n0.126” (3.2 mm)\n0.059” (1.5 mm)\n0.010” (0.3 mm)\nSurface Indentation ASTM D5420 - GARDNER IMPACT TEST\nThis test measures the ability of a gypsum panel to resist dents by a small hard object, by raising and dropping a hemispherical rod onto the gypsum panel. The depth of the indentation is measured. The original test was developed to test flat, rigid sheets of plastic.\nTEST RESULTS Classification Level\nIndentation Maximum\n0.150” (3.8 mm)\n0.100” (2.5 mm)\n0.050” (1.3 mm)\nSingle Drop Soft-Body Impact MODIFIED ASTM E695\nThis test measures the ability of a gypsum panel to withstand a single impact of a heavy soft object. This test is conducted by swinging a leather bag loaded with steel pellets into the panel. When the panel breaks, the height of the drop and weight of the bag are used to calculate the foot-pound measurement required to break the panel. The test was originally developed to measure relative resistance of wall, floor, and roof construction to impact loading.\nTEST RESULTS Classification Level\nSoft Body Minimum\n90’-lbs. (112 J)\n195’-lbs. (265 J)\n300’-lbs. (408 J)\nHard-Body Impact ANNEX A1\nThis test measures the ability of a gypsum panel to withstand the impact of a hard object such as a hammer or heel of a boot. A panel is impacted with 2-3/4” steel cylinder mounted to a ram. Weights are added to the ram and the panel is impacted one time. The maximum amount of impact force the panel can withstand without breaching the stud cavity is reported. This is a new test proposed by manufacturers of high performance panels.\nTEST RESULTS Classification Level\nHard Body Minimum\n50’-lbs. (68 J)\n100’-lbs. (136 J)\n150’-lbs. (204 J)\nTests witnessed by H.P. White Laboratory, Inc.\neXP Family of Glass Mat Products | 27'), (28, 'eXP® Interior Extreme® IR Provides Resistance to Incidental Moisture and Wall Penetration\nFor Areas Susceptible to Extreme Abuse and Impact Penetration\neXP® Interior Extreme® IR Gypsum Panels are formulated for ultra-high traffic areas such as corridors in healthcare facilities, schools and correctional institutions, or where abuse may be intentional rather than accidental, making it an even more durable and impact- resistant version of eXP® Interior Extreme® AR Gypsum Panels.\neXP Interior Extreme IR has the same added protection against mold and moisture in interior applications as eXP Interior Extreme. IR is designed for a non-paper faced gypsum application and anywhere impact penetration and heavy traffic is a concern. It utilizes coated fiberglass facers, along with a specially formulated fiberglass mesh embedded into the gypsum core. IR provides a high level of surface-impact resistance. When you think about eXP Interior Extreme IR, think the toughest board in the series.\neXP Interior Extreme IR has the features you’re already familiar with in our Interior Extreme and Interior Extreme AR products. This flexible substrate works well for both wood- and metal-framed construction. Approved for specific UL fire-rated designs, it has also achieved UL GREENGUARD Gold Certification. UL GREENGUARD Certified products are certified to UL GREENGUARD standards for low chemical emissions into indoor air during product usage. For more information, visit: ul.com/gg.\nAreas prone to cavity penetration include:\nGymnasiums\nWorkshop\nSchools\nCorrectional facilities\n28 | Gold Bond Building Products\n09 29 00/NGC'), (29, '4\n1. Coated Fiberglass Mat\n2. Tapered Edges\n3. Enhanced Moisture- and Mold-Resistant Gypsum Core\n4. Fiberglass Mesh\nAPPLICATIONS\nGold Bond® eXP® Interior Extreme® IR Gypsum Panels consist of an impact-resistant and a moisture- and mold-resistant gypsum core encased in a coated, specially designed glass mat on the face, back and sides. In addition to moisture and mold resistance, the impact- resistant panel has a denser core and an enhanced glass mat for increased resistance to indentation and impact. Additionally, the fiberglass mesh embedded into the core enhances impact resistance. It is available in a Type X core. The glass mat is folded around the long edges to reinforce and protect the core.\nUse it for interior applications requiring increased resistance to incidental moisture and wall penetrations. It is ideal for areas prone to cavity penetration, including gymnasiums, correctional facilities, schools and workshops.\nSizes: 5/8” (15.9 mm) Type X panels are available in 4’ (1,219 mm) nominal widths and standard lengths of 8’ (2,438 mm) to 12’ (3,658 mm).\nFinishing: Perform finishing of eXP panels in accordance with GA-214. Joints between eXP panels may be finished with either paper tape and ready mix joint compound or setting compound. In most areas to receive final decoration, skim coating of the entire surface is recommended.\nADVANTAGES\nPROVIDES FIRE RESISTANCE\nINSTALLS FAST AND EASY\nFire-resistant material with a non-combustible gypsum\nFeatures GridMarX® guide marks on the panel to allow for faster and more accurate installation.\nFeatures GridMarX® guide marks on the panel to allow for faster and more accurate installation.\nCoated glass mat facers for easy handling.\nApproved component in specific UL fire-rated designs.\nOFFERS SUPERIOR DURABILITY\nRESISTS MOISTURE AND MOLD\n12-month extended exposure warranty for typical weather\nResists the growth of mold per ASTM D3273 with a score of 10, the best possible score.\nResists the growth of mold per ASTM D3273 with a score of 10, the best possible score.\nPROVIDES IMPACT RESISTANCE\nDimensionally stable under changes in temperature and relative humidity.\nProvides greater resistance to surface abuse and impact penetration over gypsum board.\nFor details about fire resistance, see installation recommendations on page 33.\neXP Family of Glass Mat Products | 29'), (30, 'eXP® Interior Extreme® IR\nTECHNICAL DATA Physical Properties\nThickness1, Nominal\neXP Interior Extreme IR 5/8" (15.9 mm)\nWidth1, Nominal\n4\' (1,219 mm)\nLength1, 4, Standard\n8\' – 12\' (2,438 mm – 3,658 mm)\nWeight, Nominal\n2.8 lbs./sq. ft. (13.67 k/m2)\nEdges1\nTapered\nFlexural Strength1, Perpendicular\n≥ 140 lbf. (623 N)\nFlexural Strength1, Parallel\n≥ 100 lbf. (445 N)\nHumidified Deflection1\n≤ 1/8" (3.2 mm)\nNail Pull Resistance1\n≥ 90 lbf. (400 N)\nHardness1 – Core, Edges and Ends\n≥ 15 lbf. (67 N)\nBending Radius\n8\' (2,438 mm)\nThermal Resistance5\nR = .50\nPermeance6\n19 perms\nWater Absorption1 (% of Weight)\n≤ 5%\nSurface Water Absorption1\n≤ 1.6 grams\nLinear Expansion with Change Moisture\n6.25 x 10-6”/in./%RH\nCoefficient of Thermal Expansion\n9.26 x 10-6”/in./°F\nMold Resistance7, ASTM 3273\nScore of 10\nMold Resistance8, ASTM 6329\nPass\nSurface Abrasion9\nLevel 3\nIndentation9\nLevel 1\nSoft-Body Impact9\nLevel 3\nHard-Body Impact9\nLevel 2\nProduct Standard Compliance\nASTM C1658\nFire-Resistance Characteristics\nCore Type\nType X\nUL Type Designation\nFSW-6\nCombustibility2\nNon-combustible core\nSurface Burning Characteristics3\nClass A\nFlame Spread3\nSmoke Development3\nApplicable Standards and References ASTM C473 Standard Test Methods for Physical Testing of Gypsum Panel Products\nASTM C518 Standard Test Method for Steady-State Thermal Transmission Properties by Means of the Heat Flow Meter Apparatus\nASTM C840 Standard Specification for Application and Finishing of Gypsum Board\nASTM C1629 Standard Specification for Abuse-Resistant Nondecorated Interior Gypsum Panel Products and FIber-Reinforced Cement Panels\nASTM C1658 Standard Specification for Glass Mat Gypsum Panels\nASTM D3273 Standard Test Method for Resistance to Growth of Mold on the Surface of Interior Coatings in an Environmental Chamber\nASTM D6329 Standard Guide for Developing Methodology for Evaluating the Ability of Indoor Materials to Support Microbial Growth Using Static Environmental Chambers\nASTM E84 Standard Test Method for Surface Burning Characteristics of Building Materials\nASTM E96 Standard Test Methods for Water Vapor Transmission of Materials\nASTM E119 Standard Test Methods for Fire Tests of Building Construction and Materials\nASTM E136 Standard Test Method for Behavior of Materials in a Vertical Tube Furnace at 750˚C\nGypsum Association, GA-214, Levels of Finish for Gypsum Panel Products\nGypsum Association, GA-216, Application and Finishing of Gypsum Panel Products\nGypsum Association, GA-238, Guidelines for Prevention of Mold Growth on Gypsum Board\nGypsum Association, GA-253, Application of Gypsum Sheathing\nGold Bond Building Products, LLC Manufacturer Standards, NGC Construction Guide\n1. Specified values per ASTM C1658, tested in accordance with ASTM C473. 2. Tested in accordance with ASTM E136. 3. Tested in accordance with ASTM E84. 4. Contact your local sales representative for all non-standard lengths and widths. Minimum order requirements may apply.\n5. Tested in accordance with ASTM C518.\n6. Tested in accordance with ASTM E96. 7. Tested in accordance with ASTM D3273 and rated in accordance with ASTM D3274. 8. Tested in accordance with ASTM D6329. 9. Tested in accordance with ASTM methods in ASTM C1629 – D4977 (Surface Abrasion), D5420 (Indentation), E695 (Soft-Body Impact), Annex A1 (Hard-Body Impact).\n30 | Gold Bond Building Products'), (31, 'Abuse And Impact Test Results (ASTM C1629)\nRECOMMENDED CLASSIFICATION LEVELS FOR COMPLIANCE Test/Classification Level\nGold Bond eXP Interior Extreme IR Gypsum Board\nASTM D4977 – Surface Abrasion\nASTM D5420 – Surface Indentation\nASTM E695 – Soft-Body Impact\nAnnex A1 – Hard-Body Impact\nSurface Abrasion MODIFIED ASTM D4977\nThis test measures the ability of a gypsum panel surface to resist scratches and scuffs by subjecting the panel to 50 back and forth cycles with a wire brush. The depth of the abrasion is measured. The test was originally developed to test granule adhesion to mineral surfaced roofing and was modified by adding 25 pounds of additional weight to the wire brush.\nTEST RESULTS Classification Level\nAbraded Depth Maximum\n0.126” (3.2 mm)\n0.059” (1.5 mm)\n0.010” (0.3 mm)\nSurface Indentation ASTM D5420 - GARDNER IMPACT TEST\nThis test measures the ability of a gypsum panel to resist dents by a small hard object, by raising and dropping a hemispherical rod onto the gypsum panel. The depth of the indentation is measured. The original test was developed to test flat, rigid sheets of plastic.\nTEST RESULTS Classification Level\nIndentation Maximum\n0.150” (3.8 mm)\n0.100” (2.5 mm)\n0.050” (1.3 mm)\nSingle Drop Soft-Body Impact MODIFIED ASTM E695\nThis test measures the ability of a gypsum panel to withstand a single impact of a heavy soft object. This test is conducted by swinging a leather bag loaded with steel pellets into the panel. When the panel breaks, the height of the drop and weight of the bag are used to calculate the foot-pound measurement required to break the panel. The test was originally developed to measure relative resistance of wall, floor, and roof construction to impact loading.\nTEST RESULTS Classification Level\nSoft Body Minimum\n90’-lbs. (112 J)\n195’-lbs. (265 J)\n300’-lbs. (408 J)\nHard-Body Impact ANNEX A1\nThis test measures the ability of a gypsum panel to withstand the impact of a hard object such as a hammer or heel of a boot. A panel is impacted with 2-3/4” steel cylinder mounted to a ram. Weights are added to the ram and the panel is impacted one time. The maximum amount of impact force the panel can withstand without breaching the stud cavity is reported. This is a new test proposed by manufacturers of high performance panels.\nTEST RESULTS Classification Level\nHard Body Minimum\n50’-lbs. (68 J)\n100’-lbs. (136 J)\n150’-lbs. (204 J)\nTests witnessed by H.P. White Laboratory, Inc.\neXP Family of Glass Mat Products | 31'), (32, 'Fire and Sound Selector\nGYPSUM BOARD PARTITIONS – SHAFTWALL SYSTEMS\nNo. Fire Rating\nUL/GA Design\nDescription\n1 Hr.\nW419\nU499\nWP 6905\n1” (25.4 mm) Fire-Shield Shaftliner inserted between flanges of 2-1/2” (63.6 mm) steel C-T, C-H, or I studs 24” (610 mm) o.c. 5/8” (15.9 mm) Fire-Shield Gypsum Board applied vertically or horizontally to studs with 1” (25.4 mm) Type S screws 12” (305 mm) o.c. on side opposite shaftliner panel.\nSound rating with 1-1/2” (38.1 mm) glass fiber insulation in stud cavity.\n2 Hr.\nW419\nU498\nWP 7077\n1” (25.4 mm) Fire-Shield Shaftliner inserted between flanges of 2-1/2” (63.6 mm) steel C-T, C-H, or I studs 24” (610 mm) o.c. 5/8” (15.9 mm) Fire-Shield Gypsum Board applied vertically or horizontally to each side of studs with 1” (25.4 mm) Type S screws 12” (305 mm) o.c. Joints staggered each side.\nSound rating with 1-1/2” (38.1 mm) glass fiber insulation in stud cavity.\n2 Hr.\nW419\nU497\nWP 7076\n1” (25.4 mm) Fire-Shield Shaftliner inserted between flanges of 2-1/2” (63.6 mm) steel C-T, C-H, or I studs 24” (610 mm) o.c. Base layer 5/8” (15.9 mm) Fire-Shield Gypsum Board applied vertically to studs with 1” (25.4 mm) Type S screws 24” (610 mm) o.c. on side opposite shaftliner panel. Face layer 5/8” (15.9 mm) Fire-Shield Gypsum Board applied vertically with 1-5/8” (41.3 mm) Type S screws 12” (305 mm) o.c. Joints staggered each layer.\nSound rating with 1-1/2” (38.1 mm) glass fiber insulation in stud cavity.\n4\n1 Hr.\nV438\nU465\nWP 1081\n5/8” (15.9 mm) Fire-Shield Gypsum Board applied vertically to each side of 3-5/8” (92.1 mm) steel studs 24” (610 mm) o.c. with 1” (25.4 mm) Type S screws 8” (203 mm) o.c. at vertical joints and 12” (305 mm) o.c. at intermediate studs.\nSound rating with 2-1/2” (63.6 mm) glass fiber insulation in stud cavity.\n5\n2 Hr.\nV438\nU411\nWP 1548\nBase layer 5/8” (15.9 mm) Fire-Shield Gypsum Board applied vertically to each side of 2-1/2” (63.6 mm) steel studs 24” (610 mm) o.c. with 1” (25.4 mm) Type S screws 16” (406 mm) o.c. Face layer 5/8” (15.9 mm) Fire-Shield Gypsum Board applied vertically to each side with 1-5/8” (41.3 mm) Type S screws 16” (406 mm) o.c. at vertical joints and intermediate studs and 12” (305 mm) o.c. at floor and ceiling runners. Joints staggered each layer and side.\nSound rating with 3-5/8” (92.1 mm) steel studs and 3-1/2” (88.9 mm) glass fiber insulation in stud cavity.\nAREA SEPARATION FIRE WALLS\nNo. Fire Rating\nUL/GA Design\nDescription\n2 Hr.\nU347\nASW 0988\nTwo layers of 1” (25.4 mm) Fire-Shield Shaftliner inserted between flanges of 2” (50.8 mm) steel H-studs 24” (610 mm) o.c. 3/4” (19.1 mm) air space each side. 2x4 (38.1 mm x 88.9 mm) wood stud partition with one layer of 1/2” (12.7 mm) Gold Bond Gypsum Board on each side.\n6\nSound rating with 3-1/2” (88.9 mm) glass fiber insulation in stud cavity on each side.\n32 | Gold Bond Building Products\nSTC Test No.\n37\nNGC 2001003\n42\nNGC 2542\n42\nNGC 2535\n48\nNGC 2534\n41\nNGC 2508\n48\nNGC 2507\n47 NGC 2386\n56 NGC 3022\nSTC Test No.\n61 RAL-TL05-199'), (33, 'Installation Recommendations\nGENERAL\nInstall gypsum panels in accordance with methods described in ASTM C840 and GA-216. Note that cutting and scoring should be from the back side of the panels.\nExamine and inspect framing materials to which gypsum panels are to be applied. Remedy all defects prior to installation of the gypsum board.\nCaution: Because this product contains fiberglass, dust and glass fibers may be released during normal handling, which could result in eye or skin irritation or cause difficulty in breathing. Wherever possible, avoid contact with the skin and eyes and avoid breathing dust or fibers that may be released during installation. Consult the SDS for this product, available at: goldbondbuilding.com before use.\nFASTENING\nApply gypsum panels first to ceilings at right angles to framing members, then to walls. Use boards of maximum practical length so that the minimum number of end joints occur. Bring panel edges into contact with each other but do not force into place.\nInstall batt or blanket ceiling insulation BEFORE the gypsum panels on ceilings when installing a vapor retarder behind the gypsum panels. Install the insulation IMMEDIATELY after the gypsum panels when using loose fill insulation. Avoid installation practices that might allow condensation to form behind panels.\neXP® Sheathing® – Fasteners (nail or screw heads or the crown of staples) should bear tightly against the face of the sheathing panel but should not cut into the facer. Staples should be driven with the crown parallel to the framing. Fasteners should be no less than 3/8” (9.5 mm) from the edges and ends of the panel. When shear values are not required, fasteners should be spaced not more than 8” (203 mm) o.c. along the vertical ends or edges and intermediate supports.\nNails\nLocate gypsum panel joints at openings so that no joint will occur within 12” (305 mm) of the edges of the opening unless installing control joints at these locations. Stagger vertical end joints. Joints on opposite sides of a partition should not occur on the same stud.\nHold gypsum panels in firm contact with the framing member while driving fasteners. Fastening should proceed from center portion of the panels toward the edges and ends. Set fasteners with heads slightly below the surface of the panels. Take care to avoid breaking the fiberglass mat of the gypsum panel. Remove improperly driven nails or screws.\nGalvanized, 11 gauge\n7/16” (11.1 mm) head, 1-1/2” (38.1 mm) long for 1/2” (12.7 mm) sheathing\n1-3/4” (44.5 mm) long for 5/8” (15.9 mm) sheathing\nStaples\nGalvanized 16 gauge, 7/16” (11.1 mm) crown, 1-1/2” (38.1 mm) long for 1/2” (12.7 mm) sheathing\nProvide minimum 1/4” (6.4 mm) clearance between boards and adjacent concrete or masonry to minimize wicking of moisture.\n1-5/8” (41.3 mm) long for 5/8 in (15.9 mm) sheathing\nMaintain a room temperature of not less than 40˚F (4˚C) during application of gypsum panels.\nScrews\nASTM C1002 or ASTM C954\nSAFETY\n1-1/4” (31.8 mm) long Type W for wood framing\nInstallers should wear long pants and a long-sleeved, loose-fitting shirt. Use protective gloves and special eye protection (goggles or safety glasses with side shield). Wear a dust mask when sanding; you may need additional breathing protection in extremely dusty conditions. Do not use a power saw to cut this product.\n1” (25.4 mm) long Type S-12 for metal framing\nFIRE-RESISTANCE RATINGS\nFire-resistance ratings represent the results of tests on assemblies made up of specific materials in a specific configuration. When you are selecting construction designs to meet certain fire-resistance requirements, use caution to ensure that each component of the assembly is specified in the test. Take further precautions to ensure that assembly procedures are in accordance with those of the tested assembly. For additional fire safety information, please refer to goldbondbuilding.com. For copies of specific tests, call 1-800-NATIONAL® Construction Services.\nSUSTAINABLE DESIGN\nRecycled content data and manufacturing location data are available for Gold Bond products based upon current Gold Bond Building Products, LLC distribution plan and manufacturing location capabilities at the National Gypsum Company Green Product Score website: gps.nationalgypsum.com\nUL GREENGUARD CERTIFICATION\nSelect eXP® products have achieved UL GREENGUARD and UL GREENGUARD Gold Certification. UL GREENGUARD Certified products are certified to UL GREENGUARD standards for low chemical emissions into indoor air during product usage. For details, visit: ul.com/gg.\neXP Family of Glass Mat Products | 33'), (34, 'Installation Recommendations (continued)\neXP® SHEATHING • eXP® Sheathing may be attached parallel to or perpendicular to wood or metal framing. For horizontal applications, install eXP Sheathing with end joints staggered.\neXP® INTERIOR EXTREME® • Install fire-rated assemblies in accordance with the details found in the UL Fire Resistance Directory or the Gypsum Association, GA-600, Fire Resistance Design Manual.\nUse appropriate panel orientation for specific fire assemblies and\nDrive fasteners just below the surface, avoiding damage to the core and/or glass mat facer.\nDrive fasteners just below the surface, avoiding damage to the core and/or glass mat facer.\nInstall fire-rated assemblies in accordance with the details found in the UL Fire Resistance Directory or the Gypsum Association’s GA-600, Fire-Resistance Design Manual.\nInstall eXP Sheathing with vertical edges butting over the center of framing members. Fit sheathing snugly around all openings.\nIt is permissible in pre-rock assemblies to apply level one taping only on vertical applications using setting type joint compound. Do not allow the taped areas to have direct contact with cascading water.\nInstall panels with a 3/8” (9.5 mm) gap where non-load-bearing construction abuts structural elements.\nTo prevent wicking, install panels with a 1/4” (6.4 mm) gap where they abut masonry or similar materials that might retain moisture.\neXP® INTERIOR EXTREME® AR • Listed impact ratings apply to walls constructed with eXP® Interior Extreme® AR applied with long edges parallel to and centered over minimum 20-gauge framing members spaced a maximum of 16” (406 mm) o.c.\neXP® SHAFTLINER • Install eXP® Shaftliner consistent with methods described in specific application details for National Gypsum Cavity Shaftwall Systems or Area Separation Fire Wall Systems in NGC Construction Guide, or with other fire-rated designs.\nInstall fire-rated assemblies in accordance with the details found in the UL Fire Resistance Directory or the Gypsum Association, GA-600, Fire Resistance Design Manual.\nDrive fasteners just below the surface, avoiding damage to the core and/or glass mat facer.\nIt is permissible in pre-rock assemblies to apply level one taping only on vertical applications using setting type joint compound. Do not allow the taped areas to have direct contact with cascading water.\neXP® TILE BACKER • Do not embed eXP® Tile Backer into mortar bed in showers. Install with gray side facing away from the framing, apply tile/finishes to the gray side.\nScore/cut from the gray side using a standard utility knife. Cut outs are made easily with a utility knife or saw. Panel joints must be tight.\nFill gaps and inside corners with flexible sealant.\neXP® INTERIOR EXTREME® IR • When handling eXP® Interior Extreme® IR, cutting and scoring\nDrive fasteners flush with the panel surface; do not countersink. Use corrosion resistant buglehead screw for steel and wood framing or a galvanized roofing nail for wood framing.\nHold tile backer boards in firm contact with the framing member while driving fasteners.\nshould be from the back side of the panels.\nListed impact ratings apply to walls constructed with eXP Interior Extreme IR applied with long edges parallel to and centered over minimum 20-gauge framing members spaced a maximum of 16” (406 mm) o.c.\nFastening should proceed from center portion of the panels toward the edges and ends. Take care to avoid breaking the facer of the tile backer board. Remove improperly driven nails or screws.\nInstall fire-rated assemblies in accordance with the details found in the UL Fire Resistance Directory or the Gypsum Association, GA-600, Fire Resistance Design Manual.\nProvide minimum 1/4” (6.4 mm) clearance between boards and adjacent concrete or masonry to minimize wicking of moisture.\nDrive fasteners just below the surface, avoiding damage to the core and/or glass mat facer.\nEmbed alkali-resistant fiberglass tape with the tile setting material at tile backer board joints prior to tile installation.\nMaintain a room temperature of not less than 40˚F (4˚C) during application of tile backer boards.\nIt is permissible in pre-rock assemblies to apply level one taping only on vertical applications using setting type joint compound. Do not allow the taped areas to have direct contact with cascading water.\nInstall fire-rated assemblies in accordance with the details found in the UL Fire Resistance Directory or the Gypsum Association, GA-600, Fire Resistance Design Manual.\n34 | Gold Bond Building Products'), (35, 'National Gypsum Company\nNational Gypsum Company is the exclusive service provider of reliable, high-performance building products manufactured by its affiliate companies and marketed under the Gold Bond®, ProForm®, and PermaBASE® brands. The strategic network of Gold Bond, ProForm, and PermaBASE manufacturing facilities located throughout major metropolitan hubs in North America allows us to provide the best in customer service so we can keep your fast-paced projects moving forward.\nSUSTAINABILITY\nTRUSTED PARTNER\nOur brands create products that contribute to sustainable design by providing healthy indoor air quality; moisture, mold and mildew management; durability; optimal acoustics; life safety and increased space functionality. No matter how you define sustainability, we offer the most comprehensive set of value- added solutions in the industry.\nThe National Gypsum name has been synonymous with high- quality, innovative products and exceptional customer service since 1925. Our technical experts at 1-800-NATIONAL® are always a phone call away to answer any type of product or specification question.\nWe are Building Products for a Better Future® - one project at a time.\nLIMITED WARRANTY AND REMEDIES Products manufactured by Gold Bond Building Products, LLC (“Seller”) are warranted by Seller to its customers to be free from defects in materials and workmanship at the time of shipment. Additional or different express limited warranties, limitations and exclusions may apply to specific Seller products. Current warranty information on such products for both commercial and residential applications is available at goldbondbuilding.com. THIS EXPRESS WARRANTY IS THE ONLY WARRANTY APPLICABLE TO SUCH PRODUCTS, AND IS IN LIEU OF AND EXCLUDES ALL OTHER EXPRESS ORAL OR WRITTEN WARRANTIES AND ALL IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.\nSeller will not be liable for any incidental, indirect or consequential losses, damages or expenses. The customer’s exclusive remedy for any type of claim or action for defective products will be limited to the replacement of the products (in the form originally shipped) or, at Seller’s option, to a payment or credit not greater than the original purchase price of the products.\nSeller will not be liable for products claimed to be defective where the defect resulted from causes not within Sellers control, or which arose or occurred after shipment, including but not limited to accidents, misuse, mishandling, improper installation, contamination or adulteration by other materials or goods, or abnormal conditions of temperature, moisture, dirt or corrosive matter.\nAny claim that products sold by Seller were defective or otherwise did not conform to the contract of sale is waived unless the customer submits it in writing to National Gypsum Services Company d/b/a National Gypsum Company, authorized sales agent and service provider to Seller, within thirty (30) days from the date the customer discovered or should have discovered the defect or non-conformance. No legal action or proceeding complaining of goods sold by Seller may be brought by the customer more than one year after the date the customer discovered or should have discovered the defect or problem of which it complains.\nMOLD AND MILDEW RESISTANCE eXP products were designed to provide extra protection against mold and mildew. When tested by an independent laboratory, eXP products received the highest possible ratings on ASTM G 21 and D 3273. The use of eXP products in actual installations may not produce the same results as were achieved in controlled laboratory conditions.\nNo material can be considered “mold-proof,” nor is it certain that any material will resist mold or mildew indefinitely. When used in conjunction with good design, handling and construction practices, eXP products can provide increased mold resistance. As with any building material, avoiding water exposure during handling, storage and installation, and after installation is complete, is the best way to avoid the formation of mold or mildew.\neXP Family of Glass Mat Products | 35'), (36, 'Technical Information Visit goldbondbuilding.com or call National Gypsum Company Construction Services: 1-800-NATIONAL (628-4662).\nNational Gypsum Company is the exclusive service provider for products manufactured by Gold Bond Building Products, LLC. The Gold Bond eXP family of products is manufactured by Gold Bond Building Products, LLC.\nThe color Purple is a registered trademark of Gold Bond Building Products, LLC.\nCustomer Service ■ Atlantic Area (800) 237-9167 atlanticareacsrs@nationalgypsum.com\n■ Northeast Area (800) 253-3161 northeastareacsrs@nationalgypsum.com\n■ Central Area (800) 252-1065 centralareacsrs@nationalgypsum.com\n■ Southeast Area (800) 548-9394 southeastareacsrs@nationalgypsum.com\n■ Gulf Area\n(800) 343-4893 gulfareacsrs@nationalgypsum.com\n■ Southwest Area (800) 548-9396 southwestareacsrs@nationalgypsum.com\n■ Midwest Area (800) 323-1447 midwestareacsrs@nationalgypsum.com\n■ Western Area (800) 824-4227 westernareacsrs@nationalgypsum.com\nGold Bond Building Products, LLC 2001 Rexford Road Charlotte, NC 28211\nExclusive service provider of products manufactured by Gold Bond Building Products, LLC.\n704.365.7300 goldbondbuilding.com\n111295 7/23')]
+num of documents created 35
+num of nodes created 40
+checking if index exists at /Users/anudeepyegireddi/@anudeep/Demos/poc-pdf-chatbot-2/data/rag-index/eXP_Family_of_Glass_Mat_Products.pdf
+index exists on filesystem: False
+index does not exist for eXP_Family_of_Glass_Mat_Products.pdf, hence building it.
+document to be indexed checked for at location: /Users/anudeepyegireddi/@anudeep/Demos/poc-pdf-chatbot-2/data/eXP_Family_of_Glass_Mat_Products.pdf
+paged_text_list []
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 3
+frequency: 33 skipped text: 2
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 3
+frequency: 33 skipped text: 2
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 3
+frequency: 33 skipped text: 2
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 3
+frequency: 33 skipped text: 2
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 3
+frequency: 33 skipped text: 2
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 3
+frequency: 33 skipped text: 2
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 33 skipped text: 2
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 3
+frequency: 33 skipped text: 2
+frequency: 37 skipped text: 1
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 3
+frequency: 33 skipped text: 2
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+prev element list size: 1409
+
+            new size after entropy maximizing: 1284
+            reduction: 8.871540%
+Number of pages with < 2 text blocks: 1 
+skipped_pages []
+paged_text: [(27, 'Abuse and Impact Test Results (ASTM C1629)\nRECOMMENDED CLASSIFICATION LEVELS FOR COMPLIANCE Test/Classification Level\nGold Bond eXP Interior Extreme AR Gypsum Board\nASTM D4977 – Surface Abrasion\nASTM D5420 – Surface Indentation\nASTM E695 – Soft-Body Impact\nAnnex A1 – Hard-Body Impact\n1*\nAbuse products are not recommended for areas prone to cavity penetration.\nSurface Abrasion MODIFIED ASTM D4977\nThis test measures the ability of a gypsum panel surface to resist scratches and scuffs by subjecting the panel to 50 back and forth cycles with a wire brush. The depth of the abrasion is measured. The test was originally developed to test granule adhesion to mineral surfaced roofing and was modified by adding 25 pounds of additional weight to the wire brush.\nTEST RESULTS Classification Level\nAbraded Depth Maximum\n0.126” (3.2 mm)\n0.059” (1.5 mm)\n0.010” (0.3 mm)\nSurface Indentation ASTM D5420 - GARDNER IMPACT TEST\nThis test measures the ability of a gypsum panel to resist dents by a small hard object, by raising and dropping a hemispherical rod onto the gypsum panel. The depth of the indentation is measured. The original test was developed to test flat, rigid sheets of plastic.\nTEST RESULTS Classification Level\nIndentation Maximum\n0.150” (3.8 mm)\n0.100” (2.5 mm)\n0.050” (1.3 mm)\nSingle Drop Soft-Body Impact MODIFIED ASTM E695\nThis test measures the ability of a gypsum panel to withstand a single impact of a heavy soft object. This test is conducted by swinging a leather bag loaded with steel pellets into the panel. When the panel breaks, the height of the drop and weight of the bag are used to calculate the foot-pound measurement required to break the panel. The test was originally developed to measure relative resistance of wall, floor, and roof construction to impact loading.\nTEST RESULTS Classification Level\nSoft Body Minimum\n90’-lbs. (112 J)\n195’-lbs. (265 J)\n300’-lbs. (408 J)\nHard-Body Impact ANNEX A1\nThis test measures the ability of a gypsum panel to withstand the impact of a hard object such as a hammer or heel of a boot. A panel is impacted with 2-3/4” steel cylinder mounted to a ram. Weights are added to the ram and the panel is impacted one time. The maximum amount of impact force the panel can withstand without breaching the stud cavity is reported. This is a new test proposed by manufacturers of high performance panels.\nTEST RESULTS Classification Level\nHard Body Minimum\n50’-lbs. (68 J)\n100’-lbs. (136 J)\n150’-lbs. (204 J)\nTests witnessed by H.P. White Laboratory, Inc.\neXP Family of Glass Mat Products | 27'), (28, 'eXP® Interior Extreme® IR Provides Resistance to Incidental Moisture and Wall Penetration\nFor Areas Susceptible to Extreme Abuse and Impact Penetration\neXP® Interior Extreme® IR Gypsum Panels are formulated for ultra-high traffic areas such as corridors in healthcare facilities, schools and correctional institutions, or where abuse may be intentional rather than accidental, making it an even more durable and impact- resistant version of eXP® Interior Extreme® AR Gypsum Panels.\neXP Interior Extreme IR has the same added protection against mold and moisture in interior applications as eXP Interior Extreme. IR is designed for a non-paper faced gypsum application and anywhere impact penetration and heavy traffic is a concern. It utilizes coated fiberglass facers, along with a specially formulated fiberglass mesh embedded into the gypsum core. IR provides a high level of surface-impact resistance. When you think about eXP Interior Extreme IR, think the toughest board in the series.\neXP Interior Extreme IR has the features you’re already familiar with in our Interior Extreme and Interior Extreme AR products. This flexible substrate works well for both wood- and metal-framed construction. Approved for specific UL fire-rated designs, it has also achieved UL GREENGUARD Gold Certification. UL GREENGUARD Certified products are certified to UL GREENGUARD standards for low chemical emissions into indoor air during product usage. For more information, visit: ul.com/gg.\nAreas prone to cavity penetration include:\nGymnasiums\nWorkshop\nSchools\nCorrectional facilities\n28 | Gold Bond Building Products\n09 29 00/NGC'), (29, '4\n1. Coated Fiberglass Mat\n2. Tapered Edges\n3. Enhanced Moisture- and Mold-Resistant Gypsum Core\n4. Fiberglass Mesh\nAPPLICATIONS\nGold Bond® eXP® Interior Extreme® IR Gypsum Panels consist of an impact-resistant and a moisture- and mold-resistant gypsum core encased in a coated, specially designed glass mat on the face, back and sides. In addition to moisture and mold resistance, the impact- resistant panel has a denser core and an enhanced glass mat for increased resistance to indentation and impact. Additionally, the fiberglass mesh embedded into the core enhances impact resistance. It is available in a Type X core. The glass mat is folded around the long edges to reinforce and protect the core.\nUse it for interior applications requiring increased resistance to incidental moisture and wall penetrations. It is ideal for areas prone to cavity penetration, including gymnasiums, correctional facilities, schools and workshops.\nSizes: 5/8” (15.9 mm) Type X panels are available in 4’ (1,219 mm) nominal widths and standard lengths of 8’ (2,438 mm) to 12’ (3,658 mm).\nFinishing: Perform finishing of eXP panels in accordance with GA-214. Joints between eXP panels may be finished with either paper tape and ready mix joint compound or setting compound. In most areas to receive final decoration, skim coating of the entire surface is recommended.\nADVANTAGES\nPROVIDES FIRE RESISTANCE\nINSTALLS FAST AND EASY\nFire-resistant material with a non-combustible gypsum\nFeatures GridMarX® guide marks on the panel to allow for faster and more accurate installation.\nFeatures GridMarX® guide marks on the panel to allow for faster and more accurate installation.\nCoated glass mat facers for easy handling.\nApproved component in specific UL fire-rated designs.\nOFFERS SUPERIOR DURABILITY\nRESISTS MOISTURE AND MOLD\n12-month extended exposure warranty for typical weather\nResists the growth of mold per ASTM D3273 with a score of 10, the best possible score.\nResists the growth of mold per ASTM D3273 with a score of 10, the best possible score.\nPROVIDES IMPACT RESISTANCE\nDimensionally stable under changes in temperature and relative humidity.\nProvides greater resistance to surface abuse and impact penetration over gypsum board.\nFor details about fire resistance, see installation recommendations on page 33.\neXP Family of Glass Mat Products | 29'), (30, 'eXP® Interior Extreme® IR\nTECHNICAL DATA Physical Properties\nThickness1, Nominal\neXP Interior Extreme IR 5/8" (15.9 mm)\nWidth1, Nominal\n4\' (1,219 mm)\nLength1, 4, Standard\n8\' – 12\' (2,438 mm – 3,658 mm)\nWeight, Nominal\n2.8 lbs./sq. ft. (13.67 k/m2)\nEdges1\nTapered\nFlexural Strength1, Perpendicular\n≥ 140 lbf. (623 N)\nFlexural Strength1, Parallel\n≥ 100 lbf. (445 N)\nHumidified Deflection1\n≤ 1/8" (3.2 mm)\nNail Pull Resistance1\n≥ 90 lbf. (400 N)\nHardness1 – Core, Edges and Ends\n≥ 15 lbf. (67 N)\nBending Radius\n8\' (2,438 mm)\nThermal Resistance5\nR = .50\nPermeance6\n19 perms\nWater Absorption1 (% of Weight)\n≤ 5%\nSurface Water Absorption1\n≤ 1.6 grams\nLinear Expansion with Change Moisture\n6.25 x 10-6”/in./%RH\nCoefficient of Thermal Expansion\n9.26 x 10-6”/in./°F\nMold Resistance7, ASTM 3273\nScore of 10\nMold Resistance8, ASTM 6329\nPass\nSurface Abrasion9\nLevel 3\nIndentation9\nLevel 1\nSoft-Body Impact9\nLevel 3\nHard-Body Impact9\nLevel 2\nProduct Standard Compliance\nASTM C1658\nFire-Resistance Characteristics\nCore Type\nType X\nUL Type Designation\nFSW-6\nCombustibility2\nNon-combustible core\nSurface Burning Characteristics3\nClass A\nFlame Spread3\nSmoke Development3\nApplicable Standards and References ASTM C473 Standard Test Methods for Physical Testing of Gypsum Panel Products\nASTM C518 Standard Test Method for Steady-State Thermal Transmission Properties by Means of the Heat Flow Meter Apparatus\nASTM C840 Standard Specification for Application and Finishing of Gypsum Board\nASTM C1629 Standard Specification for Abuse-Resistant Nondecorated Interior Gypsum Panel Products and FIber-Reinforced Cement Panels\nASTM C1658 Standard Specification for Glass Mat Gypsum Panels\nASTM D3273 Standard Test Method for Resistance to Growth of Mold on the Surface of Interior Coatings in an Environmental Chamber\nASTM D6329 Standard Guide for Developing Methodology for Evaluating the Ability of Indoor Materials to Support Microbial Growth Using Static Environmental Chambers\nASTM E84 Standard Test Method for Surface Burning Characteristics of Building Materials\nASTM E96 Standard Test Methods for Water Vapor Transmission of Materials\nASTM E119 Standard Test Methods for Fire Tests of Building Construction and Materials\nASTM E136 Standard Test Method for Behavior of Materials in a Vertical Tube Furnace at 750˚C\nGypsum Association, GA-214, Levels of Finish for Gypsum Panel Products\nGypsum Association, GA-216, Application and Finishing of Gypsum Panel Products\nGypsum Association, GA-238, Guidelines for Prevention of Mold Growth on Gypsum Board\nGypsum Association, GA-253, Application of Gypsum Sheathing\nGold Bond Building Products, LLC Manufacturer Standards, NGC Construction Guide\n1. Specified values per ASTM C1658, tested in accordance with ASTM C473. 2. Tested in accordance with ASTM E136. 3. Tested in accordance with ASTM E84. 4. Contact your local sales representative for all non-standard lengths and widths. Minimum order requirements may apply.\n5. Tested in accordance with ASTM C518.\n6. Tested in accordance with ASTM E96. 7. Tested in accordance with ASTM D3273 and rated in accordance with ASTM D3274. 8. Tested in accordance with ASTM D6329. 9. Tested in accordance with ASTM methods in ASTM C1629 – D4977 (Surface Abrasion), D5420 (Indentation), E695 (Soft-Body Impact), Annex A1 (Hard-Body Impact).\n30 | Gold Bond Building Products'), (31, 'Abuse And Impact Test Results (ASTM C1629)\nRECOMMENDED CLASSIFICATION LEVELS FOR COMPLIANCE Test/Classification Level\nGold Bond eXP Interior Extreme IR Gypsum Board\nASTM D4977 – Surface Abrasion\nASTM D5420 – Surface Indentation\nASTM E695 – Soft-Body Impact\nAnnex A1 – Hard-Body Impact\nSurface Abrasion MODIFIED ASTM D4977\nThis test measures the ability of a gypsum panel surface to resist scratches and scuffs by subjecting the panel to 50 back and forth cycles with a wire brush. The depth of the abrasion is measured. The test was originally developed to test granule adhesion to mineral surfaced roofing and was modified by adding 25 pounds of additional weight to the wire brush.\nTEST RESULTS Classification Level\nAbraded Depth Maximum\n0.126” (3.2 mm)\n0.059” (1.5 mm)\n0.010” (0.3 mm)\nSurface Indentation ASTM D5420 - GARDNER IMPACT TEST\nThis test measures the ability of a gypsum panel to resist dents by a small hard object, by raising and dropping a hemispherical rod onto the gypsum panel. The depth of the indentation is measured. The original test was developed to test flat, rigid sheets of plastic.\nTEST RESULTS Classification Level\nIndentation Maximum\n0.150” (3.8 mm)\n0.100” (2.5 mm)\n0.050” (1.3 mm)\nSingle Drop Soft-Body Impact MODIFIED ASTM E695\nThis test measures the ability of a gypsum panel to withstand a single impact of a heavy soft object. This test is conducted by swinging a leather bag loaded with steel pellets into the panel. When the panel breaks, the height of the drop and weight of the bag are used to calculate the foot-pound measurement required to break the panel. The test was originally developed to measure relative resistance of wall, floor, and roof construction to impact loading.\nTEST RESULTS Classification Level\nSoft Body Minimum\n90’-lbs. (112 J)\n195’-lbs. (265 J)\n300’-lbs. (408 J)\nHard-Body Impact ANNEX A1\nThis test measures the ability of a gypsum panel to withstand the impact of a hard object such as a hammer or heel of a boot. A panel is impacted with 2-3/4” steel cylinder mounted to a ram. Weights are added to the ram and the panel is impacted one time. The maximum amount of impact force the panel can withstand without breaching the stud cavity is reported. This is a new test proposed by manufacturers of high performance panels.\nTEST RESULTS Classification Level\nHard Body Minimum\n50’-lbs. (68 J)\n100’-lbs. (136 J)\n150’-lbs. (204 J)\nTests witnessed by H.P. White Laboratory, Inc.\neXP Family of Glass Mat Products | 31'), (32, 'Fire and Sound Selector\nGYPSUM BOARD PARTITIONS – SHAFTWALL SYSTEMS\nNo. Fire Rating\nUL/GA Design\nDescription\n1 Hr.\nW419\nU499\nWP 6905\n1” (25.4 mm) Fire-Shield Shaftliner inserted between flanges of 2-1/2” (63.6 mm) steel C-T, C-H, or I studs 24” (610 mm) o.c. 5/8” (15.9 mm) Fire-Shield Gypsum Board applied vertically or horizontally to studs with 1” (25.4 mm) Type S screws 12” (305 mm) o.c. on side opposite shaftliner panel.\nSound rating with 1-1/2” (38.1 mm) glass fiber insulation in stud cavity.\n2 Hr.\nW419\nU498\nWP 7077\n1” (25.4 mm) Fire-Shield Shaftliner inserted between flanges of 2-1/2” (63.6 mm) steel C-T, C-H, or I studs 24” (610 mm) o.c. 5/8” (15.9 mm) Fire-Shield Gypsum Board applied vertically or horizontally to each side of studs with 1” (25.4 mm) Type S screws 12” (305 mm) o.c. Joints staggered each side.\nSound rating with 1-1/2” (38.1 mm) glass fiber insulation in stud cavity.\n2 Hr.\nW419\nU497\nWP 7076\n1” (25.4 mm) Fire-Shield Shaftliner inserted between flanges of 2-1/2” (63.6 mm) steel C-T, C-H, or I studs 24” (610 mm) o.c. Base layer 5/8” (15.9 mm) Fire-Shield Gypsum Board applied vertically to studs with 1” (25.4 mm) Type S screws 24” (610 mm) o.c. on side opposite shaftliner panel. Face layer 5/8” (15.9 mm) Fire-Shield Gypsum Board applied vertically with 1-5/8” (41.3 mm) Type S screws 12” (305 mm) o.c. Joints staggered each layer.\nSound rating with 1-1/2” (38.1 mm) glass fiber insulation in stud cavity.\n4\n1 Hr.\nV438\nU465\nWP 1081\n5/8” (15.9 mm) Fire-Shield Gypsum Board applied vertically to each side of 3-5/8” (92.1 mm) steel studs 24” (610 mm) o.c. with 1” (25.4 mm) Type S screws 8” (203 mm) o.c. at vertical joints and 12” (305 mm) o.c. at intermediate studs.\nSound rating with 2-1/2” (63.6 mm) glass fiber insulation in stud cavity.\n5\n2 Hr.\nV438\nU411\nWP 1548\nBase layer 5/8” (15.9 mm) Fire-Shield Gypsum Board applied vertically to each side of 2-1/2” (63.6 mm) steel studs 24” (610 mm) o.c. with 1” (25.4 mm) Type S screws 16” (406 mm) o.c. Face layer 5/8” (15.9 mm) Fire-Shield Gypsum Board applied vertically to each side with 1-5/8” (41.3 mm) Type S screws 16” (406 mm) o.c. at vertical joints and intermediate studs and 12” (305 mm) o.c. at floor and ceiling runners. Joints staggered each layer and side.\nSound rating with 3-5/8” (92.1 mm) steel studs and 3-1/2” (88.9 mm) glass fiber insulation in stud cavity.\nAREA SEPARATION FIRE WALLS\nNo. Fire Rating\nUL/GA Design\nDescription\n2 Hr.\nU347\nASW 0988\nTwo layers of 1” (25.4 mm) Fire-Shield Shaftliner inserted between flanges of 2” (50.8 mm) steel H-studs 24” (610 mm) o.c. 3/4” (19.1 mm) air space each side. 2x4 (38.1 mm x 88.9 mm) wood stud partition with one layer of 1/2” (12.7 mm) Gold Bond Gypsum Board on each side.\n6\nSound rating with 3-1/2” (88.9 mm) glass fiber insulation in stud cavity on each side.\n32 | Gold Bond Building Products\nSTC Test No.\n37\nNGC 2001003\n42\nNGC 2542\n42\nNGC 2535\n48\nNGC 2534\n41\nNGC 2508\n48\nNGC 2507\n47 NGC 2386\n56 NGC 3022\nSTC Test No.\n61 RAL-TL05-199'), (33, 'Installation Recommendations\nGENERAL\nInstall gypsum panels in accordance with methods described in ASTM C840 and GA-216. Note that cutting and scoring should be from the back side of the panels.\nExamine and inspect framing materials to which gypsum panels are to be applied. Remedy all defects prior to installation of the gypsum board.\nCaution: Because this product contains fiberglass, dust and glass fibers may be released during normal handling, which could result in eye or skin irritation or cause difficulty in breathing. Wherever possible, avoid contact with the skin and eyes and avoid breathing dust or fibers that may be released during installation. Consult the SDS for this product, available at: goldbondbuilding.com before use.\nFASTENING\nApply gypsum panels first to ceilings at right angles to framing members, then to walls. Use boards of maximum practical length so that the minimum number of end joints occur. Bring panel edges into contact with each other but do not force into place.\nInstall batt or blanket ceiling insulation BEFORE the gypsum panels on ceilings when installing a vapor retarder behind the gypsum panels. Install the insulation IMMEDIATELY after the gypsum panels when using loose fill insulation. Avoid installation practices that might allow condensation to form behind panels.\neXP® Sheathing® – Fasteners (nail or screw heads or the crown of staples) should bear tightly against the face of the sheathing panel but should not cut into the facer. Staples should be driven with the crown parallel to the framing. Fasteners should be no less than 3/8” (9.5 mm) from the edges and ends of the panel. When shear values are not required, fasteners should be spaced not more than 8” (203 mm) o.c. along the vertical ends or edges and intermediate supports.\nNails\nLocate gypsum panel joints at openings so that no joint will occur within 12” (305 mm) of the edges of the opening unless installing control joints at these locations. Stagger vertical end joints. Joints on opposite sides of a partition should not occur on the same stud.\nHold gypsum panels in firm contact with the framing member while driving fasteners. Fastening should proceed from center portion of the panels toward the edges and ends. Set fasteners with heads slightly below the surface of the panels. Take care to avoid breaking the fiberglass mat of the gypsum panel. Remove improperly driven nails or screws.\nGalvanized, 11 gauge\n7/16” (11.1 mm) head, 1-1/2” (38.1 mm) long for 1/2” (12.7 mm) sheathing\n1-3/4” (44.5 mm) long for 5/8” (15.9 mm) sheathing\nStaples\nGalvanized 16 gauge, 7/16” (11.1 mm) crown, 1-1/2” (38.1 mm) long for 1/2” (12.7 mm) sheathing\nProvide minimum 1/4” (6.4 mm) clearance between boards and adjacent concrete or masonry to minimize wicking of moisture.\n1-5/8” (41.3 mm) long for 5/8 in (15.9 mm) sheathing\nMaintain a room temperature of not less than 40˚F (4˚C) during application of gypsum panels.\nScrews\nASTM C1002 or ASTM C954\nSAFETY\n1-1/4” (31.8 mm) long Type W for wood framing\nInstallers should wear long pants and a long-sleeved, loose-fitting shirt. Use protective gloves and special eye protection (goggles or safety glasses with side shield). Wear a dust mask when sanding; you may need additional breathing protection in extremely dusty conditions. Do not use a power saw to cut this product.\n1” (25.4 mm) long Type S-12 for metal framing\nFIRE-RESISTANCE RATINGS\nFire-resistance ratings represent the results of tests on assemblies made up of specific materials in a specific configuration. When you are selecting construction designs to meet certain fire-resistance requirements, use caution to ensure that each component of the assembly is specified in the test. Take further precautions to ensure that assembly procedures are in accordance with those of the tested assembly. For additional fire safety information, please refer to goldbondbuilding.com. For copies of specific tests, call 1-800-NATIONAL® Construction Services.\nSUSTAINABLE DESIGN\nRecycled content data and manufacturing location data are available for Gold Bond products based upon current Gold Bond Building Products, LLC distribution plan and manufacturing location capabilities at the National Gypsum Company Green Product Score website: gps.nationalgypsum.com\nUL GREENGUARD CERTIFICATION\nSelect eXP® products have achieved UL GREENGUARD and UL GREENGUARD Gold Certification. UL GREENGUARD Certified products are certified to UL GREENGUARD standards for low chemical emissions into indoor air during product usage. For details, visit: ul.com/gg.\neXP Family of Glass Mat Products | 33'), (34, 'Installation Recommendations (continued)\neXP® SHEATHING • eXP® Sheathing may be attached parallel to or perpendicular to wood or metal framing. For horizontal applications, install eXP Sheathing with end joints staggered.\neXP® INTERIOR EXTREME® • Install fire-rated assemblies in accordance with the details found in the UL Fire Resistance Directory or the Gypsum Association, GA-600, Fire Resistance Design Manual.\nUse appropriate panel orientation for specific fire assemblies and\nDrive fasteners just below the surface, avoiding damage to the core and/or glass mat facer.\nDrive fasteners just below the surface, avoiding damage to the core and/or glass mat facer.\nInstall fire-rated assemblies in accordance with the details found in the UL Fire Resistance Directory or the Gypsum Association’s GA-600, Fire-Resistance Design Manual.\nInstall eXP Sheathing with vertical edges butting over the center of framing members. Fit sheathing snugly around all openings.\nIt is permissible in pre-rock assemblies to apply level one taping only on vertical applications using setting type joint compound. Do not allow the taped areas to have direct contact with cascading water.\nInstall panels with a 3/8” (9.5 mm) gap where non-load-bearing construction abuts structural elements.\nTo prevent wicking, install panels with a 1/4” (6.4 mm) gap where they abut masonry or similar materials that might retain moisture.\neXP® INTERIOR EXTREME® AR • Listed impact ratings apply to walls constructed with eXP® Interior Extreme® AR applied with long edges parallel to and centered over minimum 20-gauge framing members spaced a maximum of 16” (406 mm) o.c.\neXP® SHAFTLINER • Install eXP® Shaftliner consistent with methods described in specific application details for National Gypsum Cavity Shaftwall Systems or Area Separation Fire Wall Systems in NGC Construction Guide, or with other fire-rated designs.\nInstall fire-rated assemblies in accordance with the details found in the UL Fire Resistance Directory or the Gypsum Association, GA-600, Fire Resistance Design Manual.\nDrive fasteners just below the surface, avoiding damage to the core and/or glass mat facer.\nIt is permissible in pre-rock assemblies to apply level one taping only on vertical applications using setting type joint compound. Do not allow the taped areas to have direct contact with cascading water.\neXP® TILE BACKER • Do not embed eXP® Tile Backer into mortar bed in showers. Install with gray side facing away from the framing, apply tile/finishes to the gray side.\nScore/cut from the gray side using a standard utility knife. Cut outs are made easily with a utility knife or saw. Panel joints must be tight.\nFill gaps and inside corners with flexible sealant.\neXP® INTERIOR EXTREME® IR • When handling eXP® Interior Extreme® IR, cutting and scoring\nDrive fasteners flush with the panel surface; do not countersink. Use corrosion resistant buglehead screw for steel and wood framing or a galvanized roofing nail for wood framing.\nHold tile backer boards in firm contact with the framing member while driving fasteners.\nshould be from the back side of the panels.\nListed impact ratings apply to walls constructed with eXP Interior Extreme IR applied with long edges parallel to and centered over minimum 20-gauge framing members spaced a maximum of 16” (406 mm) o.c.\nFastening should proceed from center portion of the panels toward the edges and ends. Take care to avoid breaking the facer of the tile backer board. Remove improperly driven nails or screws.\nInstall fire-rated assemblies in accordance with the details found in the UL Fire Resistance Directory or the Gypsum Association, GA-600, Fire Resistance Design Manual.\nProvide minimum 1/4” (6.4 mm) clearance between boards and adjacent concrete or masonry to minimize wicking of moisture.\nDrive fasteners just below the surface, avoiding damage to the core and/or glass mat facer.\nEmbed alkali-resistant fiberglass tape with the tile setting material at tile backer board joints prior to tile installation.\nMaintain a room temperature of not less than 40˚F (4˚C) during application of tile backer boards.\nIt is permissible in pre-rock assemblies to apply level one taping only on vertical applications using setting type joint compound. Do not allow the taped areas to have direct contact with cascading water.\nInstall fire-rated assemblies in accordance with the details found in the UL Fire Resistance Directory or the Gypsum Association, GA-600, Fire Resistance Design Manual.\n34 | Gold Bond Building Products'), (35, 'National Gypsum Company\nNational Gypsum Company is the exclusive service provider of reliable, high-performance building products manufactured by its affiliate companies and marketed under the Gold Bond®, ProForm®, and PermaBASE® brands. The strategic network of Gold Bond, ProForm, and PermaBASE manufacturing facilities located throughout major metropolitan hubs in North America allows us to provide the best in customer service so we can keep your fast-paced projects moving forward.\nSUSTAINABILITY\nTRUSTED PARTNER\nOur brands create products that contribute to sustainable design by providing healthy indoor air quality; moisture, mold and mildew management; durability; optimal acoustics; life safety and increased space functionality. No matter how you define sustainability, we offer the most comprehensive set of value- added solutions in the industry.\nThe National Gypsum name has been synonymous with high- quality, innovative products and exceptional customer service since 1925. Our technical experts at 1-800-NATIONAL® are always a phone call away to answer any type of product or specification question.\nWe are Building Products for a Better Future® - one project at a time.\nLIMITED WARRANTY AND REMEDIES Products manufactured by Gold Bond Building Products, LLC (“Seller”) are warranted by Seller to its customers to be free from defects in materials and workmanship at the time of shipment. Additional or different express limited warranties, limitations and exclusions may apply to specific Seller products. Current warranty information on such products for both commercial and residential applications is available at goldbondbuilding.com. THIS EXPRESS WARRANTY IS THE ONLY WARRANTY APPLICABLE TO SUCH PRODUCTS, AND IS IN LIEU OF AND EXCLUDES ALL OTHER EXPRESS ORAL OR WRITTEN WARRANTIES AND ALL IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.\nSeller will not be liable for any incidental, indirect or consequential losses, damages or expenses. The customer’s exclusive remedy for any type of claim or action for defective products will be limited to the replacement of the products (in the form originally shipped) or, at Seller’s option, to a payment or credit not greater than the original purchase price of the products.\nSeller will not be liable for products claimed to be defective where the defect resulted from causes not within Sellers control, or which arose or occurred after shipment, including but not limited to accidents, misuse, mishandling, improper installation, contamination or adulteration by other materials or goods, or abnormal conditions of temperature, moisture, dirt or corrosive matter.\nAny claim that products sold by Seller were defective or otherwise did not conform to the contract of sale is waived unless the customer submits it in writing to National Gypsum Services Company d/b/a National Gypsum Company, authorized sales agent and service provider to Seller, within thirty (30) days from the date the customer discovered or should have discovered the defect or non-conformance. No legal action or proceeding complaining of goods sold by Seller may be brought by the customer more than one year after the date the customer discovered or should have discovered the defect or problem of which it complains.\nMOLD AND MILDEW RESISTANCE eXP products were designed to provide extra protection against mold and mildew. When tested by an independent laboratory, eXP products received the highest possible ratings on ASTM G 21 and D 3273. The use of eXP products in actual installations may not produce the same results as were achieved in controlled laboratory conditions.\nNo material can be considered “mold-proof,” nor is it certain that any material will resist mold or mildew indefinitely. When used in conjunction with good design, handling and construction practices, eXP products can provide increased mold resistance. As with any building material, avoiding water exposure during handling, storage and installation, and after installation is complete, is the best way to avoid the formation of mold or mildew.\neXP Family of Glass Mat Products | 35'), (36, 'Technical Information Visit goldbondbuilding.com or call National Gypsum Company Construction Services: 1-800-NATIONAL (628-4662).\nNational Gypsum Company is the exclusive service provider for products manufactured by Gold Bond Building Products, LLC. The Gold Bond eXP family of products is manufactured by Gold Bond Building Products, LLC.\nThe color Purple is a registered trademark of Gold Bond Building Products, LLC.\nCustomer Service ■ Atlantic Area (800) 237-9167 atlanticareacsrs@nationalgypsum.com\n■ Northeast Area (800) 253-3161 northeastareacsrs@nationalgypsum.com\n■ Central Area (800) 252-1065 centralareacsrs@nationalgypsum.com\n■ Southeast Area (800) 548-9394 southeastareacsrs@nationalgypsum.com\n■ Gulf Area\n(800) 343-4893 gulfareacsrs@nationalgypsum.com\n■ Southwest Area (800) 548-9396 southwestareacsrs@nationalgypsum.com\n■ Midwest Area (800) 323-1447 midwestareacsrs@nationalgypsum.com\n■ Western Area (800) 824-4227 westernareacsrs@nationalgypsum.com\nGold Bond Building Products, LLC 2001 Rexford Road Charlotte, NC 28211\nExclusive service provider of products manufactured by Gold Bond Building Products, LLC.\n704.365.7300 goldbondbuilding.com\n111295 7/23')]
+num of documents created 35
+num of nodes created 40
+checking if index exists at /Users/anudeepyegireddi/@anudeep/Demos/poc-pdf-chatbot-2/data/rag-index/eXP_Family_of_Glass_Mat_Products.pdf
+index exists on filesystem: False
+index does not exist for eXP_Family_of_Glass_Mat_Products.pdf, hence building it.
+document to be indexed checked for at location: /Users/anudeepyegireddi/@anudeep/Demos/poc-pdf-chatbot-2/data/eXP_Family_of_Glass_Mat_Products.pdf
+paged_text_list []
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 3
+frequency: 33 skipped text: 2
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 3
+frequency: 33 skipped text: 2
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 3
+frequency: 33 skipped text: 2
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 3
+frequency: 33 skipped text: 2
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 3
+frequency: 33 skipped text: 2
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 3
+frequency: 33 skipped text: 2
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 33 skipped text: 2
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 3
+frequency: 33 skipped text: 2
+frequency: 37 skipped text: 1
+frequency: 22 skipped text: 0
+frequency: 22 skipped text: 0
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 3
+frequency: 33 skipped text: 2
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+frequency: 37 skipped text: 1
+frequency: 33 skipped text: 2
+frequency: 33 skipped text: 3
+prev element list size: 1409
+
+            new size after entropy maximizing: 1284
+            reduction: 8.871540%
+Number of pages with < 2 text blocks: 1 
+skipped_pages []
+paged_text: [(27, 'Abuse and Impact Test Results (ASTM C1629)\nRECOMMENDED CLASSIFICATION LEVELS FOR COMPLIANCE Test/Classification Level\nGold Bond eXP Interior Extreme AR Gypsum Board\nASTM D4977 – Surface Abrasion\nASTM D5420 – Surface Indentation\nASTM E695 – Soft-Body Impact\nAnnex A1 – Hard-Body Impact\n1*\nAbuse products are not recommended for areas prone to cavity penetration.\nSurface Abrasion MODIFIED ASTM D4977\nThis test measures the ability of a gypsum panel surface to resist scratches and scuffs by subjecting the panel to 50 back and forth cycles with a wire brush. The depth of the abrasion is measured. The test was originally developed to test granule adhesion to mineral surfaced roofing and was modified by adding 25 pounds of additional weight to the wire brush.\nTEST RESULTS Classification Level\nAbraded Depth Maximum\n0.126” (3.2 mm)\n0.059” (1.5 mm)\n0.010” (0.3 mm)\nSurface Indentation ASTM D5420 - GARDNER IMPACT TEST\nThis test measures the ability of a gypsum panel to resist dents by a small hard object, by raising and dropping a hemispherical rod onto the gypsum panel. The depth of the indentation is measured. The original test was developed to test flat, rigid sheets of plastic.\nTEST RESULTS Classification Level\nIndentation Maximum\n0.150” (3.8 mm)\n0.100” (2.5 mm)\n0.050” (1.3 mm)\nSingle Drop Soft-Body Impact MODIFIED ASTM E695\nThis test measures the ability of a gypsum panel to withstand a single impact of a heavy soft object. This test is conducted by swinging a leather bag loaded with steel pellets into the panel. When the panel breaks, the height of the drop and weight of the bag are used to calculate the foot-pound measurement required to break the panel. The test was originally developed to measure relative resistance of wall, floor, and roof construction to impact loading.\nTEST RESULTS Classification Level\nSoft Body Minimum\n90’-lbs. (112 J)\n195’-lbs. (265 J)\n300’-lbs. (408 J)\nHard-Body Impact ANNEX A1\nThis test measures the ability of a gypsum panel to withstand the impact of a hard object such as a hammer or heel of a boot. A panel is impacted with 2-3/4” steel cylinder mounted to a ram. Weights are added to the ram and the panel is impacted one time. The maximum amount of impact force the panel can withstand without breaching the stud cavity is reported. This is a new test proposed by manufacturers of high performance panels.\nTEST RESULTS Classification Level\nHard Body Minimum\n50’-lbs. (68 J)\n100’-lbs. (136 J)\n150’-lbs. (204 J)\nTests witnessed by H.P. White Laboratory, Inc.\neXP Family of Glass Mat Products | 27'), (28, 'eXP® Interior Extreme® IR Provides Resistance to Incidental Moisture and Wall Penetration\nFor Areas Susceptible to Extreme Abuse and Impact Penetration\neXP® Interior Extreme® IR Gypsum Panels are formulated for ultra-high traffic areas such as corridors in healthcare facilities, schools and correctional institutions, or where abuse may be intentional rather than accidental, making it an even more durable and impact- resistant version of eXP® Interior Extreme® AR Gypsum Panels.\neXP Interior Extreme IR has the same added protection against mold and moisture in interior applications as eXP Interior Extreme. IR is designed for a non-paper faced gypsum application and anywhere impact penetration and heavy traffic is a concern. It utilizes coated fiberglass facers, along with a specially formulated fiberglass mesh embedded into the gypsum core. IR provides a high level of surface-impact resistance. When you think about eXP Interior Extreme IR, think the toughest board in the series.\neXP Interior Extreme IR has the features you’re already familiar with in our Interior Extreme and Interior Extreme AR products. This flexible substrate works well for both wood- and metal-framed construction. Approved for specific UL fire-rated designs, it has also achieved UL GREENGUARD Gold Certification. UL GREENGUARD Certified products are certified to UL GREENGUARD standards for low chemical emissions into indoor air during product usage. For more information, visit: ul.com/gg.\nAreas prone to cavity penetration include:\nGymnasiums\nWorkshop\nSchools\nCorrectional facilities\n28 | Gold Bond Building Products\n09 29 00/NGC'), (29, '4\n1. Coated Fiberglass Mat\n2. Tapered Edges\n3. Enhanced Moisture- and Mold-Resistant Gypsum Core\n4. Fiberglass Mesh\nAPPLICATIONS\nGold Bond® eXP® Interior Extreme® IR Gypsum Panels consist of an impact-resistant and a moisture- and mold-resistant gypsum core encased in a coated, specially designed glass mat on the face, back and sides. In addition to moisture and mold resistance, the impact- resistant panel has a denser core and an enhanced glass mat for increased resistance to indentation and impact. Additionally, the fiberglass mesh embedded into the core enhances impact resistance. It is available in a Type X core. The glass mat is folded around the long edges to reinforce and protect the core.\nUse it for interior applications requiring increased resistance to incidental moisture and wall penetrations. It is ideal for areas prone to cavity penetration, including gymnasiums, correctional facilities, schools and workshops.\nSizes: 5/8” (15.9 mm) Type X panels are available in 4’ (1,219 mm) nominal widths and standard lengths of 8’ (2,438 mm) to 12’ (3,658 mm).\nFinishing: Perform finishing of eXP panels in accordance with GA-214. Joints between eXP panels may be finished with either paper tape and ready mix joint compound or setting compound. In most areas to receive final decoration, skim coating of the entire surface is recommended.\nADVANTAGES\nPROVIDES FIRE RESISTANCE\nINSTALLS FAST AND EASY\nFire-resistant material with a non-combustible gypsum\nFeatures GridMarX® guide marks on the panel to allow for faster and more accurate installation.\nFeatures GridMarX® guide marks on the panel to allow for faster and more accurate installation.\nCoated glass mat facers for easy handling.\nApproved component in specific UL fire-rated designs.\nOFFERS SUPERIOR DURABILITY\nRESISTS MOISTURE AND MOLD\n12-month extended exposure warranty for typical weather\nResists the growth of mold per ASTM D3273 with a score of 10, the best possible score.\nResists the growth of mold per ASTM D3273 with a score of 10, the best possible score.\nPROVIDES IMPACT RESISTANCE\nDimensionally stable under changes in temperature and relative humidity.\nProvides greater resistance to surface abuse and impact penetration over gypsum board.\nFor details about fire resistance, see installation recommendations on page 33.\neXP Family of Glass Mat Products | 29'), (30, 'eXP® Interior Extreme® IR\nTECHNICAL DATA Physical Properties\nThickness1, Nominal\neXP Interior Extreme IR 5/8" (15.9 mm)\nWidth1, Nominal\n4\' (1,219 mm)\nLength1, 4, Standard\n8\' – 12\' (2,438 mm – 3,658 mm)\nWeight, Nominal\n2.8 lbs./sq. ft. (13.67 k/m2)\nEdges1\nTapered\nFlexural Strength1, Perpendicular\n≥ 140 lbf. (623 N)\nFlexural Strength1, Parallel\n≥ 100 lbf. (445 N)\nHumidified Deflection1\n≤ 1/8" (3.2 mm)\nNail Pull Resistance1\n≥ 90 lbf. (400 N)\nHardness1 – Core, Edges and Ends\n≥ 15 lbf. (67 N)\nBending Radius\n8\' (2,438 mm)\nThermal Resistance5\nR = .50\nPermeance6\n19 perms\nWater Absorption1 (% of Weight)\n≤ 5%\nSurface Water Absorption1\n≤ 1.6 grams\nLinear Expansion with Change Moisture\n6.25 x 10-6”/in./%RH\nCoefficient of Thermal Expansion\n9.26 x 10-6”/in./°F\nMold Resistance7, ASTM 3273\nScore of 10\nMold Resistance8, ASTM 6329\nPass\nSurface Abrasion9\nLevel 3\nIndentation9\nLevel 1\nSoft-Body Impact9\nLevel 3\nHard-Body Impact9\nLevel 2\nProduct Standard Compliance\nASTM C1658\nFire-Resistance Characteristics\nCore Type\nType X\nUL Type Designation\nFSW-6\nCombustibility2\nNon-combustible core\nSurface Burning Characteristics3\nClass A\nFlame Spread3\nSmoke Development3\nApplicable Standards and References ASTM C473 Standard Test Methods for Physical Testing of Gypsum Panel Products\nASTM C518 Standard Test Method for Steady-State Thermal Transmission Properties by Means of the Heat Flow Meter Apparatus\nASTM C840 Standard Specification for Application and Finishing of Gypsum Board\nASTM C1629 Standard Specification for Abuse-Resistant Nondecorated Interior Gypsum Panel Products and FIber-Reinforced Cement Panels\nASTM C1658 Standard Specification for Glass Mat Gypsum Panels\nASTM D3273 Standard Test Method for Resistance to Growth of Mold on the Surface of Interior Coatings in an Environmental Chamber\nASTM D6329 Standard Guide for Developing Methodology for Evaluating the Ability of Indoor Materials to Support Microbial Growth Using Static Environmental Chambers\nASTM E84 Standard Test Method for Surface Burning Characteristics of Building Materials\nASTM E96 Standard Test Methods for Water Vapor Transmission of Materials\nASTM E119 Standard Test Methods for Fire Tests of Building Construction and Materials\nASTM E136 Standard Test Method for Behavior of Materials in a Vertical Tube Furnace at 750˚C\nGypsum Association, GA-214, Levels of Finish for Gypsum Panel Products\nGypsum Association, GA-216, Application and Finishing of Gypsum Panel Products\nGypsum Association, GA-238, Guidelines for Prevention of Mold Growth on Gypsum Board\nGypsum Association, GA-253, Application of Gypsum Sheathing\nGold Bond Building Products, LLC Manufacturer Standards, NGC Construction Guide\n1. Specified values per ASTM C1658, tested in accordance with ASTM C473. 2. Tested in accordance with ASTM E136. 3. Tested in accordance with ASTM E84. 4. Contact your local sales representative for all non-standard lengths and widths. Minimum order requirements may apply.\n5. Tested in accordance with ASTM C518.\n6. Tested in accordance with ASTM E96. 7. Tested in accordance with ASTM D3273 and rated in accordance with ASTM D3274. 8. Tested in accordance with ASTM D6329. 9. Tested in accordance with ASTM methods in ASTM C1629 – D4977 (Surface Abrasion), D5420 (Indentation), E695 (Soft-Body Impact), Annex A1 (Hard-Body Impact).\n30 | Gold Bond Building Products'), (31, 'Abuse And Impact Test Results (ASTM C1629)\nRECOMMENDED CLASSIFICATION LEVELS FOR COMPLIANCE Test/Classification Level\nGold Bond eXP Interior Extreme IR Gypsum Board\nASTM D4977 – Surface Abrasion\nASTM D5420 – Surface Indentation\nASTM E695 – Soft-Body Impact\nAnnex A1 – Hard-Body Impact\nSurface Abrasion MODIFIED ASTM D4977\nThis test measures the ability of a gypsum panel surface to resist scratches and scuffs by subjecting the panel to 50 back and forth cycles with a wire brush. The depth of the abrasion is measured. The test was originally developed to test granule adhesion to mineral surfaced roofing and was modified by adding 25 pounds of additional weight to the wire brush.\nTEST RESULTS Classification Level\nAbraded Depth Maximum\n0.126” (3.2 mm)\n0.059” (1.5 mm)\n0.010” (0.3 mm)\nSurface Indentation ASTM D5420 - GARDNER IMPACT TEST\nThis test measures the ability of a gypsum panel to resist dents by a small hard object, by raising and dropping a hemispherical rod onto the gypsum panel. The depth of the indentation is measured. The original test was developed to test flat, rigid sheets of plastic.\nTEST RESULTS Classification Level\nIndentation Maximum\n0.150” (3.8 mm)\n0.100” (2.5 mm)\n0.050” (1.3 mm)\nSingle Drop Soft-Body Impact MODIFIED ASTM E695\nThis test measures the ability of a gypsum panel to withstand a single impact of a heavy soft object. This test is conducted by swinging a leather bag loaded with steel pellets into the panel. When the panel breaks, the height of the drop and weight of the bag are used to calculate the foot-pound measurement required to break the panel. The test was originally developed to measure relative resistance of wall, floor, and roof construction to impact loading.\nTEST RESULTS Classification Level\nSoft Body Minimum\n90’-lbs. (112 J)\n195’-lbs. (265 J)\n300’-lbs. (408 J)\nHard-Body Impact ANNEX A1\nThis test measures the ability of a gypsum panel to withstand the impact of a hard object such as a hammer or heel of a boot. A panel is impacted with 2-3/4” steel cylinder mounted to a ram. Weights are added to the ram and the panel is impacted one time. The maximum amount of impact force the panel can withstand without breaching the stud cavity is reported. This is a new test proposed by manufacturers of high performance panels.\nTEST RESULTS Classification Level\nHard Body Minimum\n50’-lbs. (68 J)\n100’-lbs. (136 J)\n150’-lbs. (204 J)\nTests witnessed by H.P. White Laboratory, Inc.\neXP Family of Glass Mat Products | 31'), (32, 'Fire and Sound Selector\nGYPSUM BOARD PARTITIONS – SHAFTWALL SYSTEMS\nNo. Fire Rating\nUL/GA Design\nDescription\n1 Hr.\nW419\nU499\nWP 6905\n1” (25.4 mm) Fire-Shield Shaftliner inserted between flanges of 2-1/2” (63.6 mm) steel C-T, C-H, or I studs 24” (610 mm) o.c. 5/8” (15.9 mm) Fire-Shield Gypsum Board applied vertically or horizontally to studs with 1” (25.4 mm) Type S screws 12” (305 mm) o.c. on side opposite shaftliner panel.\nSound rating with 1-1/2” (38.1 mm) glass fiber insulation in stud cavity.\n2 Hr.\nW419\nU498\nWP 7077\n1” (25.4 mm) Fire-Shield Shaftliner inserted between flanges of 2-1/2” (63.6 mm) steel C-T, C-H, or I studs 24” (610 mm) o.c. 5/8” (15.9 mm) Fire-Shield Gypsum Board applied vertically or horizontally to each side of studs with 1” (25.4 mm) Type S screws 12” (305 mm) o.c. Joints staggered each side.\nSound rating with 1-1/2” (38.1 mm) glass fiber insulation in stud cavity.\n2 Hr.\nW419\nU497\nWP 7076\n1” (25.4 mm) Fire-Shield Shaftliner inserted between flanges of 2-1/2” (63.6 mm) steel C-T, C-H, or I studs 24” (610 mm) o.c. Base layer 5/8” (15.9 mm) Fire-Shield Gypsum Board applied vertically to studs with 1” (25.4 mm) Type S screws 24” (610 mm) o.c. on side opposite shaftliner panel. Face layer 5/8” (15.9 mm) Fire-Shield Gypsum Board applied vertically with 1-5/8” (41.3 mm) Type S screws 12” (305 mm) o.c. Joints staggered each layer.\nSound rating with 1-1/2” (38.1 mm) glass fiber insulation in stud cavity.\n4\n1 Hr.\nV438\nU465\nWP 1081\n5/8” (15.9 mm) Fire-Shield Gypsum Board applied vertically to each side of 3-5/8” (92.1 mm) steel studs 24” (610 mm) o.c. with 1” (25.4 mm) Type S screws 8” (203 mm) o.c. at vertical joints and 12” (305 mm) o.c. at intermediate studs.\nSound rating with 2-1/2” (63.6 mm) glass fiber insulation in stud cavity.\n5\n2 Hr.\nV438\nU411\nWP 1548\nBase layer 5/8” (15.9 mm) Fire-Shield Gypsum Board applied vertically to each side of 2-1/2” (63.6 mm) steel studs 24” (610 mm) o.c. with 1” (25.4 mm) Type S screws 16” (406 mm) o.c. Face layer 5/8” (15.9 mm) Fire-Shield Gypsum Board applied vertically to each side with 1-5/8” (41.3 mm) Type S screws 16” (406 mm) o.c. at vertical joints and intermediate studs and 12” (305 mm) o.c. at floor and ceiling runners. Joints staggered each layer and side.\nSound rating with 3-5/8” (92.1 mm) steel studs and 3-1/2” (88.9 mm) glass fiber insulation in stud cavity.\nAREA SEPARATION FIRE WALLS\nNo. Fire Rating\nUL/GA Design\nDescription\n2 Hr.\nU347\nASW 0988\nTwo layers of 1” (25.4 mm) Fire-Shield Shaftliner inserted between flanges of 2” (50.8 mm) steel H-studs 24” (610 mm) o.c. 3/4” (19.1 mm) air space each side. 2x4 (38.1 mm x 88.9 mm) wood stud partition with one layer of 1/2” (12.7 mm) Gold Bond Gypsum Board on each side.\n6\nSound rating with 3-1/2” (88.9 mm) glass fiber insulation in stud cavity on each side.\n32 | Gold Bond Building Products\nSTC Test No.\n37\nNGC 2001003\n42\nNGC 2542\n42\nNGC 2535\n48\nNGC 2534\n41\nNGC 2508\n48\nNGC 2507\n47 NGC 2386\n56 NGC 3022\nSTC Test No.\n61 RAL-TL05-199'), (33, 'Installation Recommendations\nGENERAL\nInstall gypsum panels in accordance with methods described in ASTM C840 and GA-216. Note that cutting and scoring should be from the back side of the panels.\nExamine and inspect framing materials to which gypsum panels are to be applied. Remedy all defects prior to installation of the gypsum board.\nCaution: Because this product contains fiberglass, dust and glass fibers may be released during normal handling, which could result in eye or skin irritation or cause difficulty in breathing. Wherever possible, avoid contact with the skin and eyes and avoid breathing dust or fibers that may be released during installation. Consult the SDS for this product, available at: goldbondbuilding.com before use.\nFASTENING\nApply gypsum panels first to ceilings at right angles to framing members, then to walls. Use boards of maximum practical length so that the minimum number of end joints occur. Bring panel edges into contact with each other but do not force into place.\nInstall batt or blanket ceiling insulation BEFORE the gypsum panels on ceilings when installing a vapor retarder behind the gypsum panels. Install the insulation IMMEDIATELY after the gypsum panels when using loose fill insulation. Avoid installation practices that might allow condensation to form behind panels.\neXP® Sheathing® – Fasteners (nail or screw heads or the crown of staples) should bear tightly against the face of the sheathing panel but should not cut into the facer. Staples should be driven with the crown parallel to the framing. Fasteners should be no less than 3/8” (9.5 mm) from the edges and ends of the panel. When shear values are not required, fasteners should be spaced not more than 8” (203 mm) o.c. along the vertical ends or edges and intermediate supports.\nNails\nLocate gypsum panel joints at openings so that no joint will occur within 12” (305 mm) of the edges of the opening unless installing control joints at these locations. Stagger vertical end joints. Joints on opposite sides of a partition should not occur on the same stud.\nHold gypsum panels in firm contact with the framing member while driving fasteners. Fastening should proceed from center portion of the panels toward the edges and ends. Set fasteners with heads slightly below the surface of the panels. Take care to avoid breaking the fiberglass mat of the gypsum panel. Remove improperly driven nails or screws.\nGalvanized, 11 gauge\n7/16” (11.1 mm) head, 1-1/2” (38.1 mm) long for 1/2” (12.7 mm) sheathing\n1-3/4” (44.5 mm) long for 5/8” (15.9 mm) sheathing\nStaples\nGalvanized 16 gauge, 7/16” (11.1 mm) crown, 1-1/2” (38.1 mm) long for 1/2” (12.7 mm) sheathing\nProvide minimum 1/4” (6.4 mm) clearance between boards and adjacent concrete or masonry to minimize wicking of moisture.\n1-5/8” (41.3 mm) long for 5/8 in (15.9 mm) sheathing\nMaintain a room temperature of not less than 40˚F (4˚C) during application of gypsum panels.\nScrews\nASTM C1002 or ASTM C954\nSAFETY\n1-1/4” (31.8 mm) long Type W for wood framing\nInstallers should wear long pants and a long-sleeved, loose-fitting shirt. Use protective gloves and special eye protection (goggles or safety glasses with side shield). Wear a dust mask when sanding; you may need additional breathing protection in extremely dusty conditions. Do not use a power saw to cut this product.\n1” (25.4 mm) long Type S-12 for metal framing\nFIRE-RESISTANCE RATINGS\nFire-resistance ratings represent the results of tests on assemblies made up of specific materials in a specific configuration. When you are selecting construction designs to meet certain fire-resistance requirements, use caution to ensure that each component of the assembly is specified in the test. Take further precautions to ensure that assembly procedures are in accordance with those of the tested assembly. For additional fire safety information, please refer to goldbondbuilding.com. For copies of specific tests, call 1-800-NATIONAL® Construction Services.\nSUSTAINABLE DESIGN\nRecycled content data and manufacturing location data are available for Gold Bond products based upon current Gold Bond Building Products, LLC distribution plan and manufacturing location capabilities at the National Gypsum Company Green Product Score website: gps.nationalgypsum.com\nUL GREENGUARD CERTIFICATION\nSelect eXP® products have achieved UL GREENGUARD and UL GREENGUARD Gold Certification. UL GREENGUARD Certified products are certified to UL GREENGUARD standards for low chemical emissions into indoor air during product usage. For details, visit: ul.com/gg.\neXP Family of Glass Mat Products | 33'), (34, 'Installation Recommendations (continued)\neXP® SHEATHING • eXP® Sheathing may be attached parallel to or perpendicular to wood or metal framing. For horizontal applications, install eXP Sheathing with end joints staggered.\neXP® INTERIOR EXTREME® • Install fire-rated assemblies in accordance with the details found in the UL Fire Resistance Directory or the Gypsum Association, GA-600, Fire Resistance Design Manual.\nUse appropriate panel orientation for specific fire assemblies and\nDrive fasteners just below the surface, avoiding damage to the core and/or glass mat facer.\nDrive fasteners just below the surface, avoiding damage to the core and/or glass mat facer.\nInstall fire-rated assemblies in accordance with the details found in the UL Fire Resistance Directory or the Gypsum Association’s GA-600, Fire-Resistance Design Manual.\nInstall eXP Sheathing with vertical edges butting over the center of framing members. Fit sheathing snugly around all openings.\nIt is permissible in pre-rock assemblies to apply level one taping only on vertical applications using setting type joint compound. Do not allow the taped areas to have direct contact with cascading water.\nInstall panels with a 3/8” (9.5 mm) gap where non-load-bearing construction abuts structural elements.\nTo prevent wicking, install panels with a 1/4” (6.4 mm) gap where they abut masonry or similar materials that might retain moisture.\neXP® INTERIOR EXTREME® AR • Listed impact ratings apply to walls constructed with eXP® Interior Extreme® AR applied with long edges parallel to and centered over minimum 20-gauge framing members spaced a maximum of 16” (406 mm) o.c.\neXP® SHAFTLINER • Install eXP® Shaftliner consistent with methods described in specific application details for National Gypsum Cavity Shaftwall Systems or Area Separation Fire Wall Systems in NGC Construction Guide, or with other fire-rated designs.\nInstall fire-rated assemblies in accordance with the details found in the UL Fire Resistance Directory or the Gypsum Association, GA-600, Fire Resistance Design Manual.\nDrive fasteners just below the surface, avoiding damage to the core and/or glass mat facer.\nIt is permissible in pre-rock assemblies to apply level one taping only on vertical applications using setting type joint compound. Do not allow the taped areas to have direct contact with cascading water.\neXP® TILE BACKER • Do not embed eXP® Tile Backer into mortar bed in showers. Install with gray side facing away from the framing, apply tile/finishes to the gray side.\nScore/cut from the gray side using a standard utility knife. Cut outs are made easily with a utility knife or saw. Panel joints must be tight.\nFill gaps and inside corners with flexible sealant.\neXP® INTERIOR EXTREME® IR • When handling eXP® Interior Extreme® IR, cutting and scoring\nDrive fasteners flush with the panel surface; do not countersink. Use corrosion resistant buglehead screw for steel and wood framing or a galvanized roofing nail for wood framing.\nHold tile backer boards in firm contact with the framing member while driving fasteners.\nshould be from the back side of the panels.\nListed impact ratings apply to walls constructed with eXP Interior Extreme IR applied with long edges parallel to and centered over minimum 20-gauge framing members spaced a maximum of 16” (406 mm) o.c.\nFastening should proceed from center portion of the panels toward the edges and ends. Take care to avoid breaking the facer of the tile backer board. Remove improperly driven nails or screws.\nInstall fire-rated assemblies in accordance with the details found in the UL Fire Resistance Directory or the Gypsum Association, GA-600, Fire Resistance Design Manual.\nProvide minimum 1/4” (6.4 mm) clearance between boards and adjacent concrete or masonry to minimize wicking of moisture.\nDrive fasteners just below the surface, avoiding damage to the core and/or glass mat facer.\nEmbed alkali-resistant fiberglass tape with the tile setting material at tile backer board joints prior to tile installation.\nMaintain a room temperature of not less than 40˚F (4˚C) during application of tile backer boards.\nIt is permissible in pre-rock assemblies to apply level one taping only on vertical applications using setting type joint compound. Do not allow the taped areas to have direct contact with cascading water.\nInstall fire-rated assemblies in accordance with the details found in the UL Fire Resistance Directory or the Gypsum Association, GA-600, Fire Resistance Design Manual.\n34 | Gold Bond Building Products'), (35, 'National Gypsum Company\nNational Gypsum Company is the exclusive service provider of reliable, high-performance building products manufactured by its affiliate companies and marketed under the Gold Bond®, ProForm®, and PermaBASE® brands. The strategic network of Gold Bond, ProForm, and PermaBASE manufacturing facilities located throughout major metropolitan hubs in North America allows us to provide the best in customer service so we can keep your fast-paced projects moving forward.\nSUSTAINABILITY\nTRUSTED PARTNER\nOur brands create products that contribute to sustainable design by providing healthy indoor air quality; moisture, mold and mildew management; durability; optimal acoustics; life safety and increased space functionality. No matter how you define sustainability, we offer the most comprehensive set of value- added solutions in the industry.\nThe National Gypsum name has been synonymous with high- quality, innovative products and exceptional customer service since 1925. Our technical experts at 1-800-NATIONAL® are always a phone call away to answer any type of product or specification question.\nWe are Building Products for a Better Future® - one project at a time.\nLIMITED WARRANTY AND REMEDIES Products manufactured by Gold Bond Building Products, LLC (“Seller”) are warranted by Seller to its customers to be free from defects in materials and workmanship at the time of shipment. Additional or different express limited warranties, limitations and exclusions may apply to specific Seller products. Current warranty information on such products for both commercial and residential applications is available at goldbondbuilding.com. THIS EXPRESS WARRANTY IS THE ONLY WARRANTY APPLICABLE TO SUCH PRODUCTS, AND IS IN LIEU OF AND EXCLUDES ALL OTHER EXPRESS ORAL OR WRITTEN WARRANTIES AND ALL IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.\nSeller will not be liable for any incidental, indirect or consequential losses, damages or expenses. The customer’s exclusive remedy for any type of claim or action for defective products will be limited to the replacement of the products (in the form originally shipped) or, at Seller’s option, to a payment or credit not greater than the original purchase price of the products.\nSeller will not be liable for products claimed to be defective where the defect resulted from causes not within Sellers control, or which arose or occurred after shipment, including but not limited to accidents, misuse, mishandling, improper installation, contamination or adulteration by other materials or goods, or abnormal conditions of temperature, moisture, dirt or corrosive matter.\nAny claim that products sold by Seller were defective or otherwise did not conform to the contract of sale is waived unless the customer submits it in writing to National Gypsum Services Company d/b/a National Gypsum Company, authorized sales agent and service provider to Seller, within thirty (30) days from the date the customer discovered or should have discovered the defect or non-conformance. No legal action or proceeding complaining of goods sold by Seller may be brought by the customer more than one year after the date the customer discovered or should have discovered the defect or problem of which it complains.\nMOLD AND MILDEW RESISTANCE eXP products were designed to provide extra protection against mold and mildew. When tested by an independent laboratory, eXP products received the highest possible ratings on ASTM G 21 and D 3273. The use of eXP products in actual installations may not produce the same results as were achieved in controlled laboratory conditions.\nNo material can be considered “mold-proof,” nor is it certain that any material will resist mold or mildew indefinitely. When used in conjunction with good design, handling and construction practices, eXP products can provide increased mold resistance. As with any building material, avoiding water exposure during handling, storage and installation, and after installation is complete, is the best way to avoid the formation of mold or mildew.\neXP Family of Glass Mat Products | 35'), (36, 'Technical Information Visit goldbondbuilding.com or call National Gypsum Company Construction Services: 1-800-NATIONAL (628-4662).\nNational Gypsum Company is the exclusive service provider for products manufactured by Gold Bond Building Products, LLC. The Gold Bond eXP family of products is manufactured by Gold Bond Building Products, LLC.\nThe color Purple is a registered trademark of Gold Bond Building Products, LLC.\nCustomer Service ■ Atlantic Area (800) 237-9167 atlanticareacsrs@nationalgypsum.com\n■ Northeast Area (800) 253-3161 northeastareacsrs@nationalgypsum.com\n■ Central Area (800) 252-1065 centralareacsrs@nationalgypsum.com\n■ Southeast Area (800) 548-9394 southeastareacsrs@nationalgypsum.com\n■ Gulf Area\n(800) 343-4893 gulfareacsrs@nationalgypsum.com\n■ Southwest Area (800) 548-9396 southwestareacsrs@nationalgypsum.com\n■ Midwest Area (800) 323-1447 midwestareacsrs@nationalgypsum.com\n■ Western Area (800) 824-4227 westernareacsrs@nationalgypsum.com\nGold Bond Building Products, LLC 2001 Rexford Road Charlotte, NC 28211\nExclusive service provider of products manufactured by Gold Bond Building Products, LLC.\n704.365.7300 goldbondbuilding.com\n111295 7/23')]
+num of documents created 35
+num of nodes created 40
+querying rag index for --> What is this document about?
+number of retrieved_nodes after 1st retreival: 10
+page_nums: [('1', 0.7274710863029789), ('35', 0.7245685475350414), ('33', 0.7240920132397488), ('31', 0.7213695162333829), ('27', 0.7199855634298257), ('4', 0.7170987270596152), ('20', 0.7164859837791866), ('32', 0.7163532500478224), ('5', 0.7136748410479867), ('9', 0.712606188650696)]
+number of retrieved_nodes after 2nd retreival: 0
+page_nums: []
+response from query: Empty Response
+
+sources: []
+checking if index exists at /Users/anudeepyegireddi/@anudeep/Demos/poc-pdf-chatbot-2/data/rag-index/eXP_Family_of_Glass_Mat_Products.pdf
+index exists on filesystem: True
+querying rag index for --> Tell me what this document is about?
+number of retrieved_nodes after 1st retreival: 10
+page_nums: [('33', 0.728484901716936), ('35', 0.7280343906631517), ('1', 0.7274692208338518), ('31', 0.7191804645080756), ('36', 0.7189937652885371), ('4', 0.7175882459080288), ('27', 0.7173757054044598), ('20', 0.716430940468864), ('9', 0.7157114170066706), ('5', 0.7137725663813694)]
+response from query: Response 1: This document provides information about Gold Bond® eXP®, a technologically advanced glass mat gypsum product line. It highlights the features and benefits of eXP products, such as moisture and mold resistance, weather and water resistance, and dimensional stability. The document also includes test results for the product's resistance to abrasion, indentation, and impact. Additionally, it mentions the warranty and customer service provided by National Gypsum Company, the exclusive service provider for Gold Bond Building Products, LLC.
+
+sources: [33, 1, 35, 36, 4, 27, 31]
+checking if index exists at /Users/anudeepyegireddi/@anudeep/Demos/poc-pdf-chatbot-2/data/rag-index/eXP_Family_of_Glass_Mat_Products.pdf
+index exists on filesystem: True
+querying rag index for --> Give me details about the Tile Backer?
+number of retrieved_nodes after 1st retreival: 10
+page_nums: [('19', 0.8280723865033268), ('16', 0.8104989152931049), ('18', 0.8021796167622572), ('17', 0.7949777703350702), ('34', 0.7878945965180497), ('6', 0.7694892746137237), ('23', 0.7593124810305613), ('15', 0.7574018046266099), ('32', 0.7556583187316389), ('32', 0.7536741113543115)]
+response from query: Response 1: The Tile Backer is a product called eXP® Tile Backer, which is a moisture- and mold-resistant gypsum panel designed for use as a substrate for tile applications in high moisture areas. It is specifically designed for use in showers, bathrooms, indoor swimming pools, laundry rooms, and kitchens. The Tile Backer is manufactured with an enhanced moisture- and mold-resistant core encased in specially designed coated glass mat facers. The facer is then coated with a specially formulated acrylic coating, which provides superior protection against moisture and humidity. It serves as an integral water barrier, eliminating the need for a separate water barrier. The Tile Backer is available in 1/2" (12.7 mm) thickness and 4' (1,219 mm) nominal width, and comes in 8' (2,438 mm) lengths. It is also available in a 5/8" (15.9 mm) thickness for fire-rated assemblies. The Tile Backer is code-compliant for both wet and non-wet areas, areas of high humidity, and fire-rated assemblies. It is suitable for interior walls and ceilings.
+
+sources: [34, 6, 16, 17, 18, 19, 23]
